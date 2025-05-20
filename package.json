@@ -1,0 +1,24 @@
+{
+  "markdown-to-html": {
+    "document": {
+      "title": "Thomas Hanser",
+      "description": "I'm a Platform Engineer with a passion for Kubernetes, GitOps, and cloud-native technologies. I love to automate processes and make things easier for developers. I enjoy working with tools like Terraform, Helm, and FluxCD to build scalable and reliable infrastructure.",
+      "keywords": "Platform,Engineer,Kubernetes,GitOps,cloud-native,technology,blog,k8s,devops,cloud,open-source,open-source-contributor",
+      "author": "Thomas Hanser",
+      "meta": [
+        {
+          "description": "I'm a Platform Engineer with a passion for Kubernetes, GitOps, and cloud-native technologies. I love to automate processes and make things easier for developers. I enjoy working with tools like Terraform, Helm, and FluxCD to build scalable and reliable infrastructure."
+        },
+        {
+          "keywords": "Platform,Engineer,Kubernetes,GitOps,cloud-native,technology,blog,k8s,devops,cloud,open-source,open-source-contributor"
+        }
+      ]
+    },
+    "favicon": "https://avatars.githubusercontent.com/u/2061183?s=48&v=4",
+    "github-corners": "https://github.com/toms-place",
+    "reurls": {
+      "pages/blog.md": "pages/blog.html",
+      "README.md": "index.html"
+    }
+  }
+}
