@@ -40,9 +40,9 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 
-- [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (2 days ago)
+- [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (3 days ago)
 
 - [toms-place/google-drive-mover](https://github.com/toms-place/google-drive-mover) - Moves File Ownerships from one Google Drive User to another Google Drive User (2 months ago)
 
@@ -80,7 +80,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.5](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.5), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.5](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.5), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 
 - [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) ([v1.1.3](https://github.com/elastic/apm-k8s-attacher/releases/tag/v1.1.3), 1 month ago) - Elastic APM Attacher for Kubernetes
 
@@ -88,9 +88,9 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 
 
-- [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
 
-- [Add custom configuration to nginx/metrics](https://github.com/elastic/integrations/pull/12865) on [elastic/integrations](https://github.com/elastic/integrations) (2 months ago)
+- [Add custom configuration to nginx/metrics](https://github.com/elastic/integrations/pull/12865) on [elastic/integrations](https://github.com/elastic/integrations) (3 months ago)
 
 - [fix(#130): add SecurityContext to createInitContainerPatch](https://github.com/elastic/apm-k8s-attacher/pull/131) on [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) (5 months ago)
 
@@ -110,15 +110,15 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 
 
-- [ashkulz/committers.top](https://github.com/ashkulz/committers.top) - CLI tool which uses the GitHub GraphQL API to rank users according to number of contributions, and corresponding static website. (1 day ago)
+- [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that's relevant for the age of AI and dynamic workloads (1 day ago)
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [ashkulz/committers.top](https://github.com/ashkulz/committers.top) - CLI tool which uses the GitHub GraphQL API to rank users according to number of contributions, and corresponding static website. (2 days ago)
 
-- [sen-su/superlogin](https://github.com/sen-su/superlogin) - Powerful authentication for APIs and single page apps using the CouchDB ecosystem which supports a variety of providers. (5 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 
-- [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid) - Free and simple to use app for augmentative and alternative communication (AAC) with offline support, flexible input methods and media access (5 days ago)
+- [sen-su/superlogin](https://github.com/sen-su/superlogin) - Powerful authentication for APIs and single page apps using the CouchDB ecosystem which supports a variety of providers. (6 days ago)
 
-- [kubernetes-sigs/ingate](https://github.com/kubernetes-sigs/ingate) - InGate - an Ingress & Gateway API Controller (1 week ago)
+- [asterics/AsTeRICS-Grid](https://github.com/asterics/AsTeRICS-Grid) - Free, easy-to-use AAC app with offline support, flexible input options, media & smart home access (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
