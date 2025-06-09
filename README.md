@@ -39,7 +39,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 ### 👷 Check out what I'm currently working on
 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 weeks ago)
-- [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (2 weeks ago)
+- [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (3 weeks ago)
 - [toms-place/google-drive-mover](https://github.com/toms-place/google-drive-mover) - Moves File Ownerships from one Google Drive User to another Google Drive User (3 months ago)
 - [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) - Elastic APM Attacher for Kubernetes (3 months ago)
 
@@ -79,8 +79,8 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [AlexanderVanhee/Gradia](https://github.com/AlexanderVanhee/Gradia) - Make your screenshots ready for the world (1 day ago)
-- [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway (3 days ago)
+- [AlexanderVanhee/Gradia](https://github.com/AlexanderVanhee/Gradia) - Make your screenshots ready for the world (2 days ago)
+- [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway (4 days ago)
 - [simpleiot/simpleiot](https://github.com/simpleiot/simpleiot) - Simple IoT cloud/edge application/framework (1 week ago)
 - [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion (2 weeks ago)
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access ZTNA/remote access VPN alternative platform that's relevant for the age of AI and dynamic workloads (2 weeks ago)
