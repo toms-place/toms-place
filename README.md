@@ -8,7 +8,7 @@ I'm a Platform Engineer with a passion for Kubernetes, GitOps, and cloud-native 
 I enjoy working with tools like Terraform, Helm, and FluxCD to build scalable and reliable infrastructure.
 
 When I'm not coding, you can find me biking, playing padel tennis or spending time with my family.
-I also love to share my knowledge and experiences speaking at conferences or at meetups.
+I also love to share my knowledge and experiences with others.
 I believe in the power of open source and love to contribute to projects that make a difference.
 I am always looking for new challenges and opportunities to learn and grow. If you have an interesting project or idea, feel free to reach out!
 
