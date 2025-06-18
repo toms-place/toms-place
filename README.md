@@ -39,7 +39,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 ### 👷 Check out what I'm currently working on
 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 weeks ago)
-- [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (4 weeks ago)
+- [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (1 month ago)
 - [toms-place/google-drive-mover](https://github.com/toms-place/google-drive-mover) - Moves File Ownerships from one Google Drive User to another Google Drive User (3 months ago)
 - [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) - Elastic APM Attacher for Kubernetes (3 months ago)
 
@@ -79,7 +79,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (4 days ago)
+- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (5 days ago)
 - [AlexanderVanhee/Gradia](https://github.com/AlexanderVanhee/Gradia) - Make your screenshots ready for all (1 week ago)
 - [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway (1 week ago)
 - [simpleiot/simpleiot](https://github.com/simpleiot/simpleiot) - Simple IoT cloud/edge application/framework (2 weeks ago)
