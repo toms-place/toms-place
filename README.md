@@ -79,18 +79,18 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (6 days ago)
+- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io (1 day ago)
+- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (1 week ago)
 - [AlexanderVanhee/Gradia](https://github.com/AlexanderVanhee/Gradia) - Make your screenshots ready for all (1 week ago)
 - [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway (2 weeks ago)
 - [simpleiot/simpleiot](https://github.com/simpleiot/simpleiot) - Simple IoT cloud/edge application/framework (2 weeks ago)
-- [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
 - [patrickpichler](https://github.com/patrickpichler)
 - [inkrement](https://github.com/inkrement)
 - [LaserKaspar](https://github.com/LaserKaspar)
-- [Naexon](https://github.com/Naexon)
 
 #### 🤖 This profile was generated with [readme-scribe](https://github.com/muesli/readme-scribe)!
