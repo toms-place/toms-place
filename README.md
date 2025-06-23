@@ -79,8 +79,8 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [adriantwarog/Pokedex-RL](https://github.com/adriantwarog/Pokedex-RL) - I real life pokdex for those who like Pokemon and want a Pokedex RL  (1 day ago)
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io (3 days ago)
+- [adriantwarog/Pokedex-RL](https://github.com/adriantwarog/Pokedex-RL) - I real life pokdex for those who like Pokemon and want a Pokedex RL  (2 days ago)
+- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io (4 days ago)
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (1 week ago)
 - [AlexanderVanhee/Gradia](https://github.com/AlexanderVanhee/Gradia) - Make your screenshots ready for all (2 weeks ago)
 - [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway (2 weeks ago)
