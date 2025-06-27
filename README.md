@@ -41,7 +41,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 month ago)
 - [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (1 month ago)
 - [toms-place/google-drive-mover](https://github.com/toms-place/google-drive-mover) - Moves File Ownerships from one Google Drive User to another Google Drive User (3 months ago)
-- [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) - Elastic APM Attacher for Kubernetes (3 months ago)
+- [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) - Elastic APM Attacher for Kubernetes (4 months ago)
 
 ### 🌱 My latest projects
 
@@ -79,10 +79,10 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (3 days ago)
-- [adriantwarog/Pokedex-RL](https://github.com/adriantwarog/Pokedex-RL) - I real life pokdex for those who like Pokemon and want a Pokedex RL  (5 days ago)
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (4 days ago)
+- [adriantwarog/Pokedex-RL](https://github.com/adriantwarog/Pokedex-RL) - I real life pokdex for those who like Pokemon and want a Pokedex RL  (6 days ago)
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io (1 week ago)
-- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (1 week ago)
+- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (2 weeks ago)
 - [AlexanderVanhee/Gradia](https://github.com/AlexanderVanhee/Gradia) - Make your screenshots ready for all (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
