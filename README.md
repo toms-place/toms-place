@@ -68,7 +68,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 - [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 month ago)
 - [Add custom configuration to nginx/metrics](https://github.com/elastic/integrations/pull/12865) on [elastic/integrations](https://github.com/elastic/integrations) (4 months ago)
-- [fix(#130): add SecurityContext to createInitContainerPatch](https://github.com/elastic/apm-k8s-attacher/pull/131) on [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) (6 months ago)
+- [fix(#130): add SecurityContext to createInitContainerPatch](https://github.com/elastic/apm-k8s-attacher/pull/131) on [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) (7 months ago)
 - [feature: create run task implementation (#15)](https://github.com/AustrianDataLAB/execDAT-operator/pull/16) on [AustrianDataLAB/execDAT-operator](https://github.com/AustrianDataLAB/execDAT-operator) (2 years ago)
 - [Feature: create run task implementation](https://github.com/AustrianDataLAB/execDAT-operator/pull/15) on [AustrianDataLAB/execDAT-operator](https://github.com/AustrianDataLAB/execDAT-operator) (2 years ago)
 
@@ -79,7 +79,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [mwieser/pg_search_helper](https://github.com/mwieser/pg_search_helper) -  (1 day ago)
+- [mwieser/pg_search_helper](https://github.com/mwieser/pg_search_helper) -  (2 days ago)
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (3 weeks ago)
 - [adriantwarog/Pokedex-RL](https://github.com/adriantwarog/Pokedex-RL) - I real life pokdex for those who like Pokemon and want a Pokedex RL  (3 weeks ago)
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io (3 weeks ago)
