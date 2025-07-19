@@ -38,7 +38,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 👷 Check out what I'm currently working on
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 month ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 months ago)
 - [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (2 months ago)
 - [toms-place/google-drive-mover](https://github.com/toms-place/google-drive-mover) - Moves File Ownerships from one Google Drive User to another Google Drive User (4 months ago)
 - [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) - Elastic APM Attacher for Kubernetes (4 months ago)
@@ -61,12 +61,12 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 🔭 Latest releases I've contributed to
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.5](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.5), 1 month ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.5](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.5), 2 months ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) ([v1.1.3](https://github.com/elastic/apm-k8s-attacher/releases/tag/v1.1.3), 3 months ago) - Elastic APM Attacher for Kubernetes
 
 ### 🔨 My recent Pull Requests
 
-- [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 month ago)
+- [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 months ago)
 - [Add custom configuration to nginx/metrics](https://github.com/elastic/integrations/pull/12865) on [elastic/integrations](https://github.com/elastic/integrations) (4 months ago)
 - [fix(#130): add SecurityContext to createInitContainerPatch](https://github.com/elastic/apm-k8s-attacher/pull/131) on [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) (7 months ago)
 - [feature: create run task implementation (#15)](https://github.com/AustrianDataLAB/execDAT-operator/pull/16) on [AustrianDataLAB/execDAT-operator](https://github.com/AustrianDataLAB/execDAT-operator) (2 years ago)
@@ -79,10 +79,10 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [mwieser/pg_search_helper](https://github.com/mwieser/pg_search_helper) -  (5 days ago)
+- [mwieser/pg_search_helper](https://github.com/mwieser/pg_search_helper) -  (6 days ago)
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (3 weeks ago)
-- [adriantwarog/Pokedex-RL](https://github.com/adriantwarog/Pokedex-RL) - I real life pokdex for those who like Pokemon and want a Pokedex RL  (3 weeks ago)
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io (4 weeks ago)
+- [adriantwarog/Pokedex-RL](https://github.com/adriantwarog/Pokedex-RL) - I real life pokdex for those who like Pokemon and want a Pokedex RL  (4 weeks ago)
+- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io (1 month ago)
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (1 month ago)
 
 ### 👯 Check out some of my recent followers
