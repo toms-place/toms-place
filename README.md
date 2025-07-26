@@ -79,11 +79,11 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [controlplaneio-fluxcd/d1-fleet](https://github.com/controlplaneio-fluxcd/d1-fleet) - Example repository for GitOps-driven cluster fleet management with Flux (6 days ago)
+- [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way (1 day ago)
+- [controlplaneio-fluxcd/d1-fleet](https://github.com/controlplaneio-fluxcd/d1-fleet) - Example repository for GitOps-driven cluster fleet management with Flux (1 week ago)
 - [mwieser/pg_search_helper](https://github.com/mwieser/pg_search_helper) -  (1 week ago)
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (1 month ago)
 - [adriantwarog/Pokedex-RL](https://github.com/adriantwarog/Pokedex-RL) - I real life pokdex for those who like Pokemon and want a Pokedex RL  (1 month ago)
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
