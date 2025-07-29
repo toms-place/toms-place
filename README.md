@@ -40,7 +40,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 months ago)
 - [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (2 months ago)
-- [toms-place/google-drive-mover](https://github.com/toms-place/google-drive-mover) - Moves File Ownerships from one Google Drive User to another Google Drive User (4 months ago)
+- [toms-place/google-drive-mover](https://github.com/toms-place/google-drive-mover) - Moves File Ownerships from one Google Drive User to another Google Drive User (5 months ago)
 - [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) - Elastic APM Attacher for Kubernetes (5 months ago)
 
 ### 🌱 My latest projects
@@ -79,7 +79,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way (3 days ago)
+- [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way (4 days ago)
 - [controlplaneio-fluxcd/d1-fleet](https://github.com/controlplaneio-fluxcd/d1-fleet) - Example repository for GitOps-driven cluster fleet management with Flux (1 week ago)
 - [mwieser/pg_search_helper](https://github.com/mwieser/pg_search_helper) -  (2 weeks ago)
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (1 month ago)
@@ -87,10 +87,10 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 👯 Check out some of my recent followers
 
+- [standardgalactic](https://github.com/standardgalactic)
 - [helallao](https://github.com/helallao)
 - [patrickpichler](https://github.com/patrickpichler)
 - [inkrement](https://github.com/inkrement)
 - [LaserKaspar](https://github.com/LaserKaspar)
-- [Naexon](https://github.com/Naexon)
 
 #### 🤖 This profile was generated with [readme-scribe](https://github.com/muesli/readme-scribe)!
