@@ -62,7 +62,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 ### 🔭 Latest releases I've contributed to
 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.5](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.5), 2 months ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) ([v1.1.3](https://github.com/elastic/apm-k8s-attacher/releases/tag/v1.1.3), 3 months ago) - Elastic APM Attacher for Kubernetes
+- [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) ([v1.1.3](https://github.com/elastic/apm-k8s-attacher/releases/tag/v1.1.3), 4 months ago) - Elastic APM Attacher for Kubernetes
 
 ### 🔨 My recent Pull Requests
 
@@ -79,7 +79,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way (5 days ago)
+- [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way (6 days ago)
 - [controlplaneio-fluxcd/d1-fleet](https://github.com/controlplaneio-fluxcd/d1-fleet) - Example repository for GitOps-driven cluster fleet management with Flux (1 week ago)
 - [mwieser/pg_search_helper](https://github.com/mwieser/pg_search_helper) -  (2 weeks ago)
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. (1 month ago)
