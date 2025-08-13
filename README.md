@@ -79,8 +79,8 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments (1 day ago)
-- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (4 days ago)
+- [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments (2 days ago)
+- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (5 days ago)
 - [AdamShannag/volare](https://github.com/AdamShannag/volare) - Kubernetes volume populator (1 week ago)
 - [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way (2 weeks ago)
 - [controlplaneio-fluxcd/d1-fleet](https://github.com/controlplaneio-fluxcd/d1-fleet) - Example repository for GitOps-driven cluster fleet management with Flux (3 weeks ago)
