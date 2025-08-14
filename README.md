@@ -68,7 +68,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 - [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 months ago)
 - [Add custom configuration to nginx/metrics](https://github.com/elastic/integrations/pull/12865) on [elastic/integrations](https://github.com/elastic/integrations) (5 months ago)
-- [fix(#130): add SecurityContext to createInitContainerPatch](https://github.com/elastic/apm-k8s-attacher/pull/131) on [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) (7 months ago)
+- [fix(#130): add SecurityContext to createInitContainerPatch](https://github.com/elastic/apm-k8s-attacher/pull/131) on [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) (8 months ago)
 - [feature: create run task implementation (#15)](https://github.com/AustrianDataLAB/execDAT-operator/pull/16) on [AustrianDataLAB/execDAT-operator](https://github.com/AustrianDataLAB/execDAT-operator) (2 years ago)
 - [Feature: create run task implementation](https://github.com/AustrianDataLAB/execDAT-operator/pull/15) on [AustrianDataLAB/execDAT-operator](https://github.com/AustrianDataLAB/execDAT-operator) (2 years ago)
 
@@ -79,9 +79,9 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments (2 days ago)
-- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (5 days ago)
-- [AdamShannag/volare](https://github.com/AdamShannag/volare) - Kubernetes volume populator (1 week ago)
+- [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments (3 days ago)
+- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (6 days ago)
+- [AdamShannag/volare](https://github.com/AdamShannag/volare) - Kubernetes volume populator (2 weeks ago)
 - [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator) - 🦭 Run and operate MariaDB in a cloud native way (2 weeks ago)
 - [controlplaneio-fluxcd/d1-fleet](https://github.com/controlplaneio-fluxcd/d1-fleet) - Example repository for GitOps-driven cluster fleet management with Flux (3 weeks ago)
 
