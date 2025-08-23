@@ -79,8 +79,8 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (3 days ago)
-- [jonashoen/react-girocode](https://github.com/jonashoen/react-girocode) - A react component for displaying GiroCodes. (3 days ago)
+- [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (4 days ago)
+- [jonashoen/react-girocode](https://github.com/jonashoen/react-girocode) - A react component for displaying GiroCodes. (4 days ago)
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments (1 week ago)
 - [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (2 weeks ago)
 - [AdamShannag/volare](https://github.com/AdamShannag/volare) - Kubernetes volume populator (3 weeks ago)
