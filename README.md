@@ -40,7 +40,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 months ago)
 - [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (3 months ago)
-- [toms-place/google-drive-mover](https://github.com/toms-place/google-drive-mover) - Moves File Ownerships from one Google Drive User to another Google Drive User (5 months ago)
+- [toms-place/google-drive-mover](https://github.com/toms-place/google-drive-mover) - Moves File Ownerships from one Google Drive User to another Google Drive User (6 months ago)
 - [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) - Elastic APM Attacher for Kubernetes (6 months ago)
 
 ### 🌱 My latest projects
@@ -83,7 +83,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 - [jonashoen/react-girocode](https://github.com/jonashoen/react-girocode) - A react component for displaying GiroCodes. (1 week ago)
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments (2 weeks ago)
 - [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (2 weeks ago)
-- [AdamShannag/volare](https://github.com/AdamShannag/volare) - Kubernetes volume populator (3 weeks ago)
+- [AdamShannag/volare](https://github.com/AdamShannag/volare) - Kubernetes volume populator (4 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
