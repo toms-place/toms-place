@@ -38,7 +38,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 👷 Check out what I'm currently working on
 
-- [VereinLebenslicht/pages-at](https://github.com/VereinLebenslicht/pages-at) -  (1 day ago)
+- [VereinLebenslicht/pages-at](https://github.com/VereinLebenslicht/pages-at) -  (2 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 months ago)
 - [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (3 months ago)
 - [toms-place/google-drive-mover](https://github.com/toms-place/google-drive-mover) - Moves File Ownerships from one Google Drive User to another Google Drive User (6 months ago)
@@ -62,8 +62,8 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 🔭 Latest releases I've contributed to
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.6](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.6), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) ([v1.1.3](https://github.com/elastic/apm-k8s-attacher/releases/tag/v1.1.3), 4 months ago) - Elastic APM Attacher for Kubernetes
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.6](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.6), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) ([v1.1.3](https://github.com/elastic/apm-k8s-attacher/releases/tag/v1.1.3), 5 months ago) - Elastic APM Attacher for Kubernetes
 
 ### 🔨 My recent Pull Requests
 
@@ -84,7 +84,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 - [jonashoen/react-girocode](https://github.com/jonashoen/react-girocode) - A react component for displaying GiroCodes. (1 week ago)
 - [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments (2 weeks ago)
 - [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output (3 weeks ago)
-- [AdamShannag/volare](https://github.com/AdamShannag/volare) - Kubernetes volume populator (4 weeks ago)
+- [AdamShannag/volare](https://github.com/AdamShannag/volare) - Kubernetes volume populator (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
