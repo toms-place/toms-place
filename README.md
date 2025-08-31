@@ -38,7 +38,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 👷 Check out what I'm currently working on
 
-- [VereinLebenslicht/pages-at](https://github.com/VereinLebenslicht/pages-at) -  (2 days ago)
+- [VereinLebenslicht/pages-at](https://github.com/VereinLebenslicht/pages-at) -  (3 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 months ago)
 - [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (3 months ago)
 - [toms-place/google-drive-mover](https://github.com/toms-place/google-drive-mover) - Moves File Ownerships from one Google Drive User to another Google Drive User (6 months ago)
@@ -62,7 +62,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 🔭 Latest releases I've contributed to
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.6](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.6), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.7](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.7), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) ([v1.1.3](https://github.com/elastic/apm-k8s-attacher/releases/tag/v1.1.3), 5 months ago) - Elastic APM Attacher for Kubernetes
 
 ### 🔨 My recent Pull Requests
