@@ -69,7 +69,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 - [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 months ago)
 - [Add custom configuration to nginx/metrics](https://github.com/elastic/integrations/pull/12865) on [elastic/integrations](https://github.com/elastic/integrations) (7 months ago)
-- [fix(#130): add SecurityContext to createInitContainerPatch](https://github.com/elastic/apm-k8s-attacher/pull/131) on [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) (9 months ago)
+- [fix(#130): add SecurityContext to createInitContainerPatch](https://github.com/elastic/apm-k8s-attacher/pull/131) on [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) (10 months ago)
 - [feature: create run task implementation (#15)](https://github.com/AustrianDataLAB/execDAT-operator/pull/16) on [AustrianDataLAB/execDAT-operator](https://github.com/AustrianDataLAB/execDAT-operator) (2 years ago)
 - [Feature: create run task implementation](https://github.com/AustrianDataLAB/execDAT-operator/pull/15) on [AustrianDataLAB/execDAT-operator](https://github.com/AustrianDataLAB/execDAT-operator) (2 years ago)
 
