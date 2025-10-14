@@ -80,9 +80,9 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (1 week ago)
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (2 weeks ago)
-- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation (2 weeks ago)
+- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (2 weeks ago)
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (3 weeks ago)
+- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation (3 weeks ago)
 - [sadoyan/aralez](https://github.com/sadoyan/aralez) - Aralez (Արալեզ), Reverse proxy and service mesh built on top of Cloudflare's Pingora (1 month ago)
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (1 month ago)
 
