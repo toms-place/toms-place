@@ -62,7 +62,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 🔭 Latest releases I've contributed to
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.11](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.11), 6 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.11](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.11), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) ([v1.1.3](https://github.com/elastic/apm-k8s-attacher/releases/tag/v1.1.3), 6 months ago) - Elastic APM Attacher for Kubernetes
 
 ### 🔨 My recent Pull Requests
