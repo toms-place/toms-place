@@ -38,19 +38,19 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 👷 Check out what I'm currently working on
 
+- [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (1 day ago)
 - [VereinLebenslicht/pages-at](https://github.com/VereinLebenslicht/pages-at) -  (2 months ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 months ago)
 - [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (5 months ago)
 - [toms-place/google-drive-mover](https://github.com/toms-place/google-drive-mover) - Moves File Ownerships from one Google Drive User to another Google Drive User (8 months ago)
-- [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) - Elastic APM Attacher for Kubernetes (8 months ago)
 
 ### 🌱 My latest projects
 
+- [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server
 - [toms-place/google-drive-mover](https://github.com/toms-place/google-drive-mover) - Moves File Ownerships from one Google Drive User to another Google Drive User
 - [toms-place/k3c](https://github.com/toms-place/k3c) - k3s setup with docker-compose
 - [toms-place/helm-global-values-sharing-between-charts](https://github.com/toms-place/helm-global-values-sharing-between-charts) - Just a demo repo to showcase helm global values to share values between subcharts.
 - [toms-place/ibm-spectrum-scale-csi-permission-operator](https://github.com/toms-place/ibm-spectrum-scale-csi-permission-operator) - k8s operator changes permissions of a recently bound spectrum scale PV.
-- [toms-place/Tiefenprofil](https://github.com/toms-place/Tiefenprofil) - Tool zum Errechnen der Dichte von Wasser und Erstellung des Tiefenprofiles
 
 ### 🍴 My recent forks
 
@@ -62,6 +62,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 🔭 Latest releases I've contributed to
 
+- [toms-place/wkid](https://github.com/toms-place/wkid) ([v0.0.2](https://github.com/toms-place/wkid/releases/tag/v0.0.2), 1 day ago) - WorkloadIdentity K8s JWKS server
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.11](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.11), 2 weeks ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) ([v1.1.3](https://github.com/elastic/apm-k8s-attacher/releases/tag/v1.1.3), 7 months ago) - Elastic APM Attacher for Kubernetes
 
@@ -80,11 +81,11 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [elastic/elastic-package](https://github.com/elastic/elastic-package) - elastic-package - Command line tool for developing Elastic Integrations (1 day ago)
+- [Azure/azure-workload-identity](https://github.com/Azure/azure-workload-identity) - Azure AD Workload Identity uses Kubernetes primitives to associate managed identities for Azure resources and identities in Azure Active Directory (AAD) with pods. (1 day ago)
+- [elastic/elastic-package](https://github.com/elastic/elastic-package) - elastic-package - Command line tool for developing Elastic Integrations (2 days ago)
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (1 month ago)
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (1 month ago)
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation (1 month ago)
-- [sadoyan/aralez](https://github.com/sadoyan/aralez) - Aralez (Արալեզ), Reverse proxy and service mesh built on top of Cloudflare's Pingora (2 months ago)
 
 ### 👯 Check out some of my recent followers
 
