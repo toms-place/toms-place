@@ -37,12 +37,13 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 **DevOps Advocate** · Full-time · 2023 - Present
 - @ [Untis GmbH](https://www.untis.at/)
-- Platform Engineering | DevOps | Cloud Native | Kubernetes | GitOps | Terraform | Helm | FluxCD
+- Platform Engineering | DevOps | Cloud Native Adoption
+- Kubernetes | GitOps | Terraform | Helm | FluxCD
 
 **DevOps / Cloud Engineer** · Part-time · 2020 - 2023 · 3 yrs
 - @ [WU (Vienna University of Economics and Business)](https://www.wu.ac.at/)
-- System Administration | Institute for Data, Process and Knowledge Management | Austrian DataLab and Services
-- IT-Services | Server Infrastruktur
+- System Administration | Institute for Data, Process and Knowledge Management
+- Austrian DataLab and Services | IT-Services | Server Infrastruktur
 
 **Internship** · 2019 · 1 mo
 - @ [Bundesministerium](https://bmlrt.gv.at) (Nachhaltigkeit & Tourismus)
@@ -54,7 +55,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 📚 Education
 
-**Master's degree, Computer Software Engineering** · 2022 - Ongoing
+**Software Engineering & Internet Computing** · 2022 - Ongoing
 - Master of Science (MSc) @ [Technische Universität Wien](https://www.tuwien.at/)
 - Focus: Microservices & Cloud Computing
 
