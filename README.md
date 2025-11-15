@@ -35,42 +35,37 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 💼 Career
 
-#### Experience
+**DevOps Advocate** · Full-time · 2023 - Present
+- @ [Untis GmbH](https://www.untis.at/)
+- Platform Engineering | DevOps | Cloud Native | Kubernetes | GitOps | Terraform | Helm | FluxCD
 
-**DevOps Advocate**
-- @ [Untis GmbH](https://www.untis.at/) · Full-time
-- 2023 - Present
-- Platform Engineering | DevOps | Cloud Native
-- Kubernetes | GitOps | Terraform | Helm | FluxCD
-
-**DevOps / Cloud Engineer**
-- @ [WU (Vienna University of Economics and Business)](https://www.wu.ac.at/) · Part-time
-- 2020 - 2023 · 3 yrs
-- System Administration
-- Institute for Data, Process and Knowledge Management
-- Austrian DataLab and Services
+**DevOps / Cloud Engineer** · Part-time · 2020 - 2023 · 3 yrs
+- @ [WU (Vienna University of Economics and Business)](https://www.wu.ac.at/)
+- System Administration | Institute for Data, Process and Knowledge Management | Austrian DataLab and Services
 - IT-Services | Server Infrastruktur
 
-**Internship**
+**Internship** · 2019 · 1 mo
 - @ [Bundesministerium](https://bmlrt.gv.at) (Nachhaltigkeit & Tourismus)
-- 2019 · 1 mo
 - IKT Management | Web Development | GitLab CI/CD
 
-**Working Student**
+**Working Student** · 2018 · 2 mo
 - @ [Studo (Moshbit GmbH)](https://studo.co)
-- 2018 · 2 mo
 - Project Management | App Development
 
-#### Education
+### 📚 Education
 
-**Master's degree, Computer Software Engineering**
-- @ [Technische Universität Wien](https://www.tuwien.at/)
-- 2022 - Ongoing
-- Focus: Microservices
+**Master's degree, Computer Software Engineering** · 2022 - Ongoing
+- Master of Science (MSc) @ [Technische Universität Wien](https://www.tuwien.at/)
+- Focus: Microservices & Cloud Computing
 
-**Business Informatics**
-- @ [WU (Vienna University of Economics and Business)](https://www.wu.ac.at/)
-- 2016 - 2020
+**Business Informatics** · 2016 - 2020
+- Bachelor of Science (BSc) @ [WU (Vienna University of Economics and Business)](https://www.wu.ac.at/)
+- [Open Dataset Archive - Scalable dataset crawling with efficient archiving and the investigation of changes between versions.](https://aic.ai.wu.ac.at/~polleres/supervised_theses/Thomas_Weber_BSc_2020.pdf)
+- [ODArchive - Creating an Archive for Structured Data from Open Data Portals](https://aic.ai.wu.ac.at/~polleres/publications/webe-etal-2020ISWC.pdf)
+
+**HBL for Tourism** · 2010 - 2015
+- High school diploma with honors @ [Tourismusschulen Semmering](https://www.hltsemmering.ac.at/)
+- Certified Tourism Manager | 3 years as student representative
 
 ## 📈 Stats
 
