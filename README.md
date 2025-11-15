@@ -15,7 +15,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 ### 📫 How to reach me
 
 - LinkedIn: [tomsplace](https://www.linkedin.com/in/tomsplace/)
-- Blog: [toms.place](pages/blog.md)
+- Blog: [https://toms.place](pages/blog.md)
 - Mail: [hello@toms.place](mailto:hello@toms.place)
 
 ### 🛠️ My skills
