@@ -16,6 +16,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 - LinkedIn: [tomsplace](https://www.linkedin.com/in/tomsplace/)
 - Blog: [toms.place](pages/blog.md)
+- Mail: [hello@toms.place](mailto:hello@toms.place)
 
 ### 🛠️ My skills
 
@@ -31,6 +32,45 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 - **Other**: Helm, Cilium, K3s, NGINX, Vault, Redis, External DNS, Knative, KEDA
 - **Soft Skills**: Teamwork, Communication, Problem Solving, Adaptability
 - **Languages**: German (native), English (fluent)
+
+### 💼 Career
+
+#### Experience
+
+**DevOps Advocate**
+- @ [Untis GmbH](https://www.untis.at/) · Full-time
+- 2023 - Present
+- Platform Engineering | DevOps | Cloud Native
+- Kubernetes | GitOps | Terraform | Helm | FluxCD
+
+**DevOps / Cloud Engineer**
+- @ [WU (Vienna University of Economics and Business)](https://www.wu.ac.at/) · Part-time
+- 2020 - 2023 · 3 yrs
+- System Administration
+- Institute for Data, Process and Knowledge Management
+- Austrian DataLab and Services
+- IT-Services | Server Infrastruktur
+
+**Internship**
+- @ [Bundesministerium](https://bmlrt.gv.at) (Nachhaltigkeit & Tourismus)
+- 2019 · 1 mo
+- IKT Management | Web Development | GitLab CI/CD
+
+**Working Student**
+- @ [Studo (Moshbit GmbH)](https://studo.co)
+- 2018 · 2 mo
+- Project Management | App Development
+
+#### Education
+
+**Master's degree, Computer Software Engineering**
+- @ [Technische Universität Wien](https://www.tuwien.at/)
+- 2022 - Ongoing
+- Focus: Microservices
+
+**Business Informatics**
+- @ [WU (Vienna University of Economics and Business)](https://www.wu.ac.at/)
+- 2016 - 2020
 
 ## 📈 Stats
 
