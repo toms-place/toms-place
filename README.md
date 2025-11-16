@@ -76,7 +76,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 - [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (1 week ago)
 - [VereinLebenslicht/pages-at](https://github.com/VereinLebenslicht/pages-at) -  (2 months ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 months ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 months ago)
 - [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (6 months ago)
 - [toms-place/google-drive-mover](https://github.com/toms-place/google-drive-mover) - Moves File Ownerships from one Google Drive User to another Google Drive User (8 months ago)
 
@@ -99,12 +99,12 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 ### 🔭 Latest releases I've contributed to
 
 - [toms-place/wkid](https://github.com/toms-place/wkid) ([v0.0.7](https://github.com/toms-place/wkid/releases/tag/v0.0.7), 1 week ago) - WorkloadIdentity K8s JWKS server
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.11](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.11), 3 weeks ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.11](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.11), 4 weeks ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) ([v1.1.3](https://github.com/elastic/apm-k8s-attacher/releases/tag/v1.1.3), 7 months ago) - Elastic APM Attacher for Kubernetes
 
 ### 🔨 My recent Pull Requests
 
-- [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 months ago)
+- [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 months ago)
 - [Add custom configuration to nginx/metrics](https://github.com/elastic/integrations/pull/12865) on [elastic/integrations](https://github.com/elastic/integrations) (8 months ago)
 - [fix(#130): add SecurityContext to createInitContainerPatch](https://github.com/elastic/apm-k8s-attacher/pull/131) on [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) (11 months ago)
 - [feature: create run task implementation (#15)](https://github.com/AustrianDataLAB/execDAT-operator/pull/16) on [AustrianDataLAB/execDAT-operator](https://github.com/AustrianDataLAB/execDAT-operator) (2 years ago)
@@ -118,7 +118,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 ### ⭐ Recent Stars
 
 - [Azure/azure-workload-identity](https://github.com/Azure/azure-workload-identity) - Azure AD Workload Identity uses Kubernetes primitives to associate managed identities for Azure resources and identities in Azure Active Directory (AAD) with pods. (1 week ago)
-- [elastic/elastic-package](https://github.com/elastic/elastic-package) - elastic-package - Command line tool for developing Elastic Integrations (1 week ago)
+- [elastic/elastic-package](https://github.com/elastic/elastic-package) - elastic-package - Command line tool for developing Elastic Integrations (2 weeks ago)
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (1 month ago)
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (1 month ago)
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation (1 month ago)
