@@ -117,7 +117,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [Azure/azure-workload-identity](https://github.com/Azure/azure-workload-identity) - Azure AD Workload Identity uses Kubernetes primitives to associate managed identities for Azure resources and identities in Azure Active Directory (AAD) with pods. (4 weeks ago)
+- [Azure/azure-workload-identity](https://github.com/Azure/azure-workload-identity) - Azure AD Workload Identity uses Kubernetes primitives to associate managed identities for Azure resources and identities in Azure Active Directory (AAD) with pods. (1 month ago)
 - [elastic/elastic-package](https://github.com/elastic/elastic-package) - elastic-package - Command line tool for developing Elastic Integrations (1 month ago)
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web (2 months ago)
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (2 months ago)
