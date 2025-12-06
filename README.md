@@ -117,10 +117,10 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [toms-place/external-dns](https://github.com/toms-place/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (today)
-- [toms-place/helm-secrets](https://github.com/toms-place/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
-- [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (today)
-- [toms-place/cdn-apiserver](https://github.com/toms-place/cdn-apiserver) - A Kubernetes sample API server that demonstrates how to build a custom aggregated API server with file/CDN management capabilities. (today)
+- [toms-place/external-dns](https://github.com/toms-place/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (1 day ago)
+- [toms-place/helm-secrets](https://github.com/toms-place/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (1 day ago)
+- [toms-place/cdn-apiserver](https://github.com/toms-place/cdn-apiserver) - A Kubernetes sample API server that demonstrates how to build a custom aggregated API server with file/CDN management capabilities. (1 day ago)
 - [Azure/azure-workload-identity](https://github.com/Azure/azure-workload-identity) - Azure AD Workload Identity uses Kubernetes primitives to associate managed identities for Azure resources and identities in Azure Active Directory (AAD) with pods. (1 month ago)
 
 ### 👯 Check out some of my recent followers
