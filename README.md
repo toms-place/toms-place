@@ -76,7 +76,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 - [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (1 month ago)
 - [VereinLebenslicht/pages-at](https://github.com/VereinLebenslicht/pages-at) -  (4 months ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (7 months ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (8 months ago)
 - [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (8 months ago)
 - [toms-place/google-drive-mover](https://github.com/toms-place/google-drive-mover) - Moves File Ownerships from one Google Drive User to another Google Drive User (10 months ago)
 
@@ -98,13 +98,13 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 🔭 Latest releases I've contributed to
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.7.5](https://github.com/jkroepke/helm-secrets/releases/tag/v4.7.5), 5 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.7.5](https://github.com/jkroepke/helm-secrets/releases/tag/v4.7.5), 6 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [toms-place/wkid](https://github.com/toms-place/wkid) ([v0.0.7](https://github.com/toms-place/wkid/releases/tag/v0.0.7), 2 months ago) - WorkloadIdentity K8s JWKS server
 - [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) ([v1.1.3](https://github.com/elastic/apm-k8s-attacher/releases/tag/v1.1.3), 9 months ago) - Elastic APM Attacher for Kubernetes
 
 ### 🔨 My recent Pull Requests
 
-- [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (7 months ago)
+- [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (8 months ago)
 - [Add custom configuration to nginx/metrics](https://github.com/elastic/integrations/pull/12865) on [elastic/integrations](https://github.com/elastic/integrations) (10 months ago)
 - [fix(#130): add SecurityContext to createInitContainerPatch](https://github.com/elastic/apm-k8s-attacher/pull/131) on [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) (1 year ago)
 - [feature: create run task implementation (#15)](https://github.com/AustrianDataLAB/execDAT-operator/pull/16) on [AustrianDataLAB/execDAT-operator](https://github.com/AustrianDataLAB/execDAT-operator) (2 years ago)
@@ -117,11 +117,11 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
+- [atas/autotunnel](https://github.com/atas/autotunnel) - On-demand port forwarding to k8s. (1 day ago)
 - [fuzionix/devtool-plus](https://github.com/fuzionix/devtool-plus) - A VSCode extension that provides common developer tools directly in code editor (2 weeks ago)
 - [toms-place/external-dns](https://github.com/toms-place/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (1 month ago)
 - [toms-place/helm-secrets](https://github.com/toms-place/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 month ago)
 - [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (1 month ago)
-- [toms-place/cdn-apiserver](https://github.com/toms-place/cdn-apiserver) - A Kubernetes sample API server that demonstrates how to build a custom aggregated API server with file/CDN management capabilities. (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
