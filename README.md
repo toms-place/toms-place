@@ -105,7 +105,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 ### 🔨 My recent Pull Requests
 
 - [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (8 months ago)
-- [Add custom configuration to nginx/metrics](https://github.com/elastic/integrations/pull/12865) on [elastic/integrations](https://github.com/elastic/integrations) (10 months ago)
+- [Add custom configuration to nginx/metrics](https://github.com/elastic/integrations/pull/12865) on [elastic/integrations](https://github.com/elastic/integrations) (11 months ago)
 - [fix(#130): add SecurityContext to createInitContainerPatch](https://github.com/elastic/apm-k8s-attacher/pull/131) on [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) (1 year ago)
 - [feature: create run task implementation (#15)](https://github.com/AustrianDataLAB/execDAT-operator/pull/16) on [AustrianDataLAB/execDAT-operator](https://github.com/AustrianDataLAB/execDAT-operator) (2 years ago)
 - [Feature: create run task implementation](https://github.com/AustrianDataLAB/execDAT-operator/pull/15) on [AustrianDataLAB/execDAT-operator](https://github.com/AustrianDataLAB/execDAT-operator) (2 years ago)
@@ -117,9 +117,9 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (1 day ago)
-- [atas/autotunnel](https://github.com/atas/autotunnel) - On-demand port forwarding to k8s. (2 days ago)
-- [fuzionix/devtool-plus](https://github.com/fuzionix/devtool-plus) - A VSCode extension that provides common developer tools directly in code editor (2 weeks ago)
+- [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (2 days ago)
+- [atas/autotunnel](https://github.com/atas/autotunnel) - On-demand port forwarding to k8s. (3 days ago)
+- [fuzionix/devtool-plus](https://github.com/fuzionix/devtool-plus) - A VSCode extension that provides common developer tools directly in code editor (3 weeks ago)
 - [toms-place/external-dns](https://github.com/toms-place/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (1 month ago)
 - [toms-place/helm-secrets](https://github.com/toms-place/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 month ago)
 
