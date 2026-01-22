@@ -117,7 +117,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (6 days ago)
+- [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (1 week ago)
 - [atas/autotunnel](https://github.com/atas/autotunnel) - On-demand port forwarding to k8s. (1 week ago)
 - [fuzionix/devtool-plus](https://github.com/fuzionix/devtool-plus) - A VSCode extension that provides common developer tools directly in code editor (3 weeks ago)
 - [toms-place/external-dns](https://github.com/toms-place/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (1 month ago)
