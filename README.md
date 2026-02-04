@@ -117,11 +117,11 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (1 day ago)
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (2 weeks ago)
-- [atas/autotunnel](https://github.com/atas/autotunnel) - On-demand port forwarding to k8s. (2 weeks ago)
+- [atas/autotunnel](https://github.com/atas/autotunnel) - On-demand port forwarding to k8s. (3 weeks ago)
 - [fuzionix/devtool-plus](https://github.com/fuzionix/devtool-plus) - A VSCode extension that provides common developer tools directly in code editor (1 month ago)
 - [toms-place/external-dns](https://github.com/toms-place/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (2 months ago)
-- [toms-place/helm-secrets](https://github.com/toms-place/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 months ago)
 
 ### 👯 Check out some of my recent followers
 
