@@ -98,7 +98,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 🔭 Latest releases I've contributed to
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.7.5](https://github.com/jkroepke/helm-secrets/releases/tag/v4.7.5), 3 weeks ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.7.5](https://github.com/jkroepke/helm-secrets/releases/tag/v4.7.5), 4 weeks ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [toms-place/wkid](https://github.com/toms-place/wkid) ([v0.0.7](https://github.com/toms-place/wkid/releases/tag/v0.0.7), 3 months ago) - WorkloadIdentity K8s JWKS server
 - [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) ([v1.1.3](https://github.com/elastic/apm-k8s-attacher/releases/tag/v1.1.3), 10 months ago) - Elastic APM Attacher for Kubernetes
 
@@ -117,7 +117,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (2 days ago)
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (3 days ago)
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (3 weeks ago)
 - [atas/autotunnel](https://github.com/atas/autotunnel) - On-demand port forwarding to k8s. (3 weeks ago)
 - [fuzionix/devtool-plus](https://github.com/fuzionix/devtool-plus) - A VSCode extension that provides common developer tools directly in code editor (1 month ago)
