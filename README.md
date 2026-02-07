@@ -117,11 +117,11 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (3 days ago)
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (today)
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (4 days ago)
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (3 weeks ago)
 - [atas/autotunnel](https://github.com/atas/autotunnel) - On-demand port forwarding to k8s. (3 weeks ago)
 - [fuzionix/devtool-plus](https://github.com/fuzionix/devtool-plus) - A VSCode extension that provides common developer tools directly in code editor (1 month ago)
-- [toms-place/external-dns](https://github.com/toms-place/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (2 months ago)
 
 ### 👯 Check out some of my recent followers
 
