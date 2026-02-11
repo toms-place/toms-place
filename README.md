@@ -117,18 +117,18 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (3 days ago)
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (4 days ago)
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (1 week ago)
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (3 weeks ago)
-- [atas/autotunnel](https://github.com/atas/autotunnel) - On-demand port forwarding to k8s. (3 weeks ago)
+- [atas/autotunnel](https://github.com/atas/autotunnel) - On-demand port forwarding to k8s. (4 weeks ago)
 - [fuzionix/devtool-plus](https://github.com/fuzionix/devtool-plus) - A VSCode extension that provides common developer tools directly in code editor (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
 - [standardgalactic](https://github.com/standardgalactic)
 - [patrickpichler](https://github.com/patrickpichler)
 - [inkrement](https://github.com/inkrement)
 - [LaserKaspar](https://github.com/LaserKaspar)
-- [Naexon](https://github.com/Naexon)
 
 #### 🤖 This profile was generated with [readme-scribe](https://github.com/muesli/readme-scribe)!
