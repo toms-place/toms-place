@@ -76,7 +76,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 - [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (2 months ago)
 - [VereinLebenslicht/pages-at](https://github.com/VereinLebenslicht/pages-at) -  (5 months ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (8 months ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (9 months ago)
 - [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (9 months ago)
 - [toms-place/google-drive-mover](https://github.com/toms-place/google-drive-mover) - Moves File Ownerships from one Google Drive User to another Google Drive User (11 months ago)
 
@@ -104,7 +104,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 🔨 My recent Pull Requests
 
-- [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (8 months ago)
+- [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (9 months ago)
 - [Add custom configuration to nginx/metrics](https://github.com/elastic/integrations/pull/12865) on [elastic/integrations](https://github.com/elastic/integrations) (11 months ago)
 - [fix(#130): add SecurityContext to createInitContainerPatch](https://github.com/elastic/apm-k8s-attacher/pull/131) on [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) (1 year ago)
 - [feature: create run task implementation (#15)](https://github.com/AustrianDataLAB/execDAT-operator/pull/16) on [AustrianDataLAB/execDAT-operator](https://github.com/AustrianDataLAB/execDAT-operator) (2 years ago)
@@ -117,15 +117,15 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (2 days ago)
-- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (6 days ago)
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (3 days ago)
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (1 week ago)
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (1 week ago)
-- [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (4 weeks ago)
+- [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (1 month ago)
 - [atas/autotunnel](https://github.com/atas/autotunnel) - On-demand port forwarding to k8s. (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
-- [helallao](https://github.com/helallao)
+- [seckinyasar](https://github.com/seckinyasar)
 - [standardgalactic](https://github.com/standardgalactic)
 - [patrickpichler](https://github.com/patrickpichler)
 - [inkrement](https://github.com/inkrement)
