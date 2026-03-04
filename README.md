@@ -98,7 +98,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 ### 🔭 Latest releases I've contributed to
 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.7.5](https://github.com/jkroepke/helm-secrets/releases/tag/v4.7.5), 1 month ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [toms-place/wkid](https://github.com/toms-place/wkid) ([v0.0.7](https://github.com/toms-place/wkid/releases/tag/v0.0.7), 3 months ago) - WorkloadIdentity K8s JWKS server
+- [toms-place/wkid](https://github.com/toms-place/wkid) ([v0.0.7](https://github.com/toms-place/wkid/releases/tag/v0.0.7), 4 months ago) - WorkloadIdentity K8s JWKS server
 
 ### 🔨 My recent Pull Requests
 
@@ -116,7 +116,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 ### ⭐ Recent Stars
 
 - [WPS/egon.io-website](https://github.com/WPS/egon.io-website) - Website for Egon.io–The Domain Story Modeler (1 week ago)
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (2 weeks ago)
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (3 weeks ago)
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (3 weeks ago)
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go (4 weeks ago)
 - [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager (1 month ago)
