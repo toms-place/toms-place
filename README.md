@@ -97,7 +97,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 🔭 Latest releases I've contributed to
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.7.6](https://github.com/jkroepke/helm-secrets/releases/tag/v4.7.6), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.7.6](https://github.com/jkroepke/helm-secrets/releases/tag/v4.7.6), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [toms-place/wkid](https://github.com/toms-place/wkid) ([v0.0.7](https://github.com/toms-place/wkid/releases/tag/v0.0.7), 5 months ago) - WorkloadIdentity K8s JWKS server
 
 ### 🔨 My recent Pull Requests
