@@ -77,7 +77,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 - [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (4 months ago)
 - [VereinLebenslicht/pages-at](https://github.com/VereinLebenslicht/pages-at) -  (7 months ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (10 months ago)
-- [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (10 months ago)
+- [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (11 months ago)
 
 ### 🌱 My latest projects
 
@@ -115,7 +115,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [Wawona/Wawona](https://github.com/Wawona/Wawona) - A native macOS Wayland Compositor (4 days ago)
+- [Wawona/Wawona](https://github.com/Wawona/Wawona) - A native macOS Wayland Compositor (5 days ago)
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (2 weeks ago)
 - [timebertt/kubernetes-controller-sharding](https://github.com/timebertt/kubernetes-controller-sharding) - Horizontally Scalable Kubernetes Controllers: distribute reconciliation of Kubernetes objects across multiple controller instances (2 weeks ago)
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor (1 month ago)
