@@ -76,7 +76,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 - [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (4 months ago)
 - [VereinLebenslicht/pages-at](https://github.com/VereinLebenslicht/pages-at) -  (7 months ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (10 months ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (11 months ago)
 - [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (11 months ago)
 
 ### 🌱 My latest projects
@@ -102,7 +102,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 🔨 My recent Pull Requests
 
-- [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (10 months ago)
+- [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (11 months ago)
 - [Add custom configuration to nginx/metrics](https://github.com/elastic/integrations/pull/12865) on [elastic/integrations](https://github.com/elastic/integrations) (1 year ago)
 - [fix(#130): add SecurityContext to createInitContainerPatch](https://github.com/elastic/apm-k8s-attacher/pull/131) on [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) (1 year ago)
 - [feature: create run task implementation (#15)](https://github.com/AustrianDataLAB/execDAT-operator/pull/16) on [AustrianDataLAB/execDAT-operator](https://github.com/AustrianDataLAB/execDAT-operator) (2 years ago)
@@ -115,9 +115,9 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [Wawona/Wawona](https://github.com/Wawona/Wawona) - A native macOS Wayland Compositor (5 days ago)
-- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (2 weeks ago)
-- [timebertt/kubernetes-controller-sharding](https://github.com/timebertt/kubernetes-controller-sharding) - Horizontally Scalable Kubernetes Controllers: distribute reconciliation of Kubernetes objects across multiple controller instances (2 weeks ago)
+- [Wawona/Wawona](https://github.com/Wawona/Wawona) - A native macOS Wayland Compositor (6 days ago)
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (3 weeks ago)
+- [timebertt/kubernetes-controller-sharding](https://github.com/timebertt/kubernetes-controller-sharding) - Horizontally Scalable Kubernetes Controllers: distribute reconciliation of Kubernetes objects across multiple controller instances (3 weeks ago)
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor (1 month ago)
 - [WPS/egon.io-website](https://github.com/WPS/egon.io-website) - Website for Egon.io–The Domain Story Modeler (1 month ago)
 
