@@ -74,7 +74,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 👷 Check out what I'm currently working on
 
-- [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (4 months ago)
+- [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (5 months ago)
 - [VereinLebenslicht/pages-at](https://github.com/VereinLebenslicht/pages-at) -  (7 months ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (11 months ago)
 - [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (11 months ago)
@@ -85,7 +85,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 - [toms-place/google-drive-mover](https://github.com/toms-place/google-drive-mover) - Moves File Ownerships from one Google Drive User to another Google Drive User
 - [toms-place/k3c](https://github.com/toms-place/k3c) - k3s setup with docker-compose
 - [toms-place/helm-global-values-sharing-between-charts](https://github.com/toms-place/helm-global-values-sharing-between-charts) - Just a demo repo to showcase helm global values to share values between subcharts.
-- [toms-place/ibm-spectrum-scale-csi-permission-operator](https://github.com/toms-place/ibm-spectrum-scale-csi-permission-operator) - k8s operator changes permissions of a recently bound spectrum scale PV.
+- [toms-place/lti13oauthenticator](https://github.com/toms-place/lti13oauthenticator) - 
 
 ### 🍴 My recent forks
 
@@ -115,10 +115,10 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 day ago)
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (2 days ago)
 - [Wawona/Wawona](https://github.com/Wawona/Wawona) - A native macOS Wayland Compositor (2 weeks ago)
-- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (4 weeks ago)
-- [timebertt/kubernetes-controller-sharding](https://github.com/timebertt/kubernetes-controller-sharding) - Horizontally Scalable Kubernetes Controllers: distribute reconciliation of Kubernetes objects across multiple controller instances (4 weeks ago)
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (1 month ago)
+- [timebertt/kubernetes-controller-sharding](https://github.com/timebertt/kubernetes-controller-sharding) - Horizontally Scalable Kubernetes Controllers: distribute reconciliation of Kubernetes objects across multiple controller instances (1 month ago)
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor (1 month ago)
 
 ### 👯 Check out some of my recent followers
