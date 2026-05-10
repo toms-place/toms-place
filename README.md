@@ -115,11 +115,11 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
+- [ishioni/unifi-pppoe-fix-mtu](https://github.com/ishioni/unifi-pppoe-fix-mtu) -  (1 day ago)
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids (1 week ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (2 weeks ago)
 - [Wawona/Wawona](https://github.com/Wawona/Wawona) - A native macOS Wayland Compositor (1 month ago)
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (1 month ago)
-- [timebertt/kubernetes-controller-sharding](https://github.com/timebertt/kubernetes-controller-sharding) - Horizontally Scalable Kubernetes Controllers: distribute reconciliation of Kubernetes objects across multiple controller instances (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
