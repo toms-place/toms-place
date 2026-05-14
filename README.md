@@ -77,7 +77,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 - [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (5 months ago)
 - [VereinLebenslicht/pages-at](https://github.com/VereinLebenslicht/pages-at) -  (8 months ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (11 months ago)
-- [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (11 months ago)
+- [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (1 year ago)
 
 ### 🌱 My latest projects
 
@@ -115,8 +115,8 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [ozgurcd/gograph](https://github.com/ozgurcd/gograph) - A fast, local-only CLI tool to generate repository structures and improve IDE context awareness for Go codebases. (today)
-- [ishioni/unifi-pppoe-fix-mtu](https://github.com/ishioni/unifi-pppoe-fix-mtu) -  (4 days ago)
+- [ozgurcd/gograph](https://github.com/ozgurcd/gograph) - A fast, local-only CLI tool to generate repository structures and improve IDE context awareness for Go codebases. (1 day ago)
+- [ishioni/unifi-pppoe-fix-mtu](https://github.com/ishioni/unifi-pppoe-fix-mtu) -  (5 days ago)
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids (1 week ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (3 weeks ago)
 - [Wawona/Wawona](https://github.com/Wawona/Wawona) - A native macOS Wayland Compositor (1 month ago)
