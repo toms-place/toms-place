@@ -74,7 +74,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 👷 Check out what I'm currently working on
 
-- [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (5 months ago)
+- [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (6 months ago)
 - [VereinLebenslicht/pages-at](https://github.com/VereinLebenslicht/pages-at) -  (8 months ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 year ago)
 - [VereinLebenslicht/pages](https://github.com/VereinLebenslicht/pages) -  (1 year ago)
@@ -114,7 +114,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI (5 days ago)
+- [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI (6 days ago)
 - [ozgurcd/gograph](https://github.com/ozgurcd/gograph) - A fast, local-only CLI tool to generate repository structures and improve IDE context awareness for Go codebases. (1 week ago)
 - [ishioni/unifi-pppoe-fix-mtu](https://github.com/ishioni/unifi-pppoe-fix-mtu) -  (2 weeks ago)
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids (3 weeks ago)
