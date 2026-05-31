@@ -87,11 +87,11 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 🍴 My recent forks
 
+- [toms-place/karenz-wizard](https://github.com/toms-place/karenz-wizard) - Planer für Elternkarenz und einkommensabhängiges Kinderbetreuungsgeld. Proof of concept, um zu zeigen dass ein Online-Tool easy möglich wäre für schmerzfreiere Karenzplanung in Österreich!
 - [toms-place/eti-compose](https://github.com/toms-place/eti-compose) - An ETI sync server powered by a snake and a whale
 - [toms-place/cdn-apiserver](https://github.com/toms-place/cdn-apiserver) - A Kubernetes sample API server that demonstrates how to build a custom aggregated API server with file/CDN management capabilities.
 - [toms-place/helm-secrets](https://github.com/toms-place/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [toms-place/external-dns](https://github.com/toms-place/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [toms-place/elastic-integrations](https://github.com/toms-place/elastic-integrations) - 
 
 ### 🔭 Latest releases I've contributed to
 
@@ -112,8 +112,8 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s clusters, stateful config via filesystem or  git - GUI and TUI available (6 days ago)
-- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills (6 days ago)
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s clusters, stateful config via filesystem or  git - GUI and TUI available (1 week ago)
+- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills (1 week ago)
 - [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI (1 week ago)
 - [ozgurcd/gograph](https://github.com/ozgurcd/gograph) - A fast, local-only CLI tool to generate repository structures and improve IDE context awareness for Go codebases. (2 weeks ago)
 - [ishioni/unifi-pppoe-fix-mtu](https://github.com/ishioni/unifi-pppoe-fix-mtu) -  (3 weeks ago)
