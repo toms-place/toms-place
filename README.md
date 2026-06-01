@@ -112,11 +112,11 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 day ago)
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s clusters, stateful config via filesystem or  git - GUI and TUI available (1 week ago)
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills (1 week ago)
-- [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI (1 week ago)
+- [gammons/slk](https://github.com/gammons/slk) - A blazingly fast Slack TUI (2 weeks ago)
 - [ozgurcd/gograph](https://github.com/ozgurcd/gograph) - A fast, local-only CLI tool to generate repository structures and improve IDE context awareness for Go codebases. (2 weeks ago)
-- [ishioni/unifi-pppoe-fix-mtu](https://github.com/ishioni/unifi-pppoe-fix-mtu) -  (3 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
