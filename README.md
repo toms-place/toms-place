@@ -74,7 +74,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 👷 Check out what I'm currently working on
 
-- [toms-place/karenzulator](https://github.com/toms-place/karenzulator) - Tagesgenaue Simulation auf Basis von §§ 24, 24a, 24b KBGG für die volle Periode 2 Jahre ab Geburt. Höchstbetrag, Wochengeld-Faktor, 61-Tage-Regel, max. 2 Wechsel sowie der Partnerschaftsbonus werden gesetzeskonform berücksichtigt. (5 days ago)
+- [toms-place/karenzulator](https://github.com/toms-place/karenzulator) - Tagesgenaue Simulation auf Basis von §§ 24, 24a, 24b KBGG für die volle Periode 2 Jahre ab Geburt. Höchstbetrag, Wochengeld-Faktor, 61-Tage-Regel, max. 2 Wechsel sowie der Partnerschaftsbonus werden gesetzeskonform berücksichtigt. (6 days ago)
 - [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (6 months ago)
 - [VereinLebenslicht/pages-at](https://github.com/VereinLebenslicht/pages-at) -  (9 months ago)
 
@@ -102,8 +102,8 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 - [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 year ago)
 - [Add custom configuration to nginx/metrics](https://github.com/elastic/integrations/pull/12865) on [elastic/integrations](https://github.com/elastic/integrations) (1 year ago)
-- [fix(#130): add SecurityContext to createInitContainerPatch](https://github.com/elastic/apm-k8s-attacher/pull/131) on [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) (1 year ago)
-- [feature: create run task implementation (#15)](https://github.com/AustrianDataLAB/execDAT-operator/pull/16) on [AustrianDataLAB/execDAT-operator](https://github.com/AustrianDataLAB/execDAT-operator) (2 years ago)
+- [fix(#130): add SecurityContext to createInitContainerPatch](https://github.com/elastic/apm-k8s-attacher/pull/131) on [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) (2 years ago)
+- [feature: create run task implementation (#15)](https://github.com/AustrianDataLAB/execDAT-operator/pull/16) on [AustrianDataLAB/execDAT-operator](https://github.com/AustrianDataLAB/execDAT-operator) (3 years ago)
 - [Feature: create run task implementation](https://github.com/AustrianDataLAB/execDAT-operator/pull/15) on [AustrianDataLAB/execDAT-operator](https://github.com/AustrianDataLAB/execDAT-operator) (3 years ago)
 
 ### 📓 Gists I wrote
