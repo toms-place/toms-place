@@ -108,13 +108,13 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 📓 Gists I wrote
 
-- [TPM-backed LUKS unlock with systemd-cryptenroll](https://gist.github.com/be319c6705a3d197de021c7ac52ddd7f) (5 days ago)
+- [TPM-backed LUKS unlock with systemd-cryptenroll](https://gist.github.com/be319c6705a3d197de021c7ac52ddd7f) (6 days ago)
 - [Sourcing Environment Variables from Hashicorp Vault with bash](https://gist.github.com/6f0e2f3f2c50c501357780af2a46ad96) (2 years ago)
 - [kubectl run with volume mount](https://gist.github.com/44f7dd8a12693304d3a8f6a3f31ceb74) (3 years ago)
 
 ### ⭐ Recent Stars
 
-- [Augani/dory](https://github.com/Augani/dory) - A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon. (6 days ago)
+- [Augani/dory](https://github.com/Augani/dory) - A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon. (1 week ago)
 - [danfry1/bonsai-js](https://github.com/danfry1/bonsai-js) - A safe, zero-dependency expression language for rules, filters, and templates (1 month ago)
 - [olafkfreund/gnome-quick-web-apps](https://github.com/olafkfreund/gnome-quick-web-apps) - Turn any website into a first-class GNOME desktop app — GTK4/libadwaita web-app manager with PWA manifest autofill, auto icons, scope confinement and CEF rendering (1 month ago)
 - [malbiruk/driftwm](https://github.com/malbiruk/driftwm) - A trackpad-first infinite canvas Wayland compositor. (1 month ago)
