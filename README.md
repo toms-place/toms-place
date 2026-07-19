@@ -114,8 +114,8 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [EddyXorb/claudecatraz](https://github.com/EddyXorb/claudecatraz) - put your agent in a sandbox and stay in control of what gets in and out (5 days ago)
-- [Augani/dory](https://github.com/Augani/dory) - A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon. (1 week ago)
+- [EddyXorb/claudecatraz](https://github.com/EddyXorb/claudecatraz) - put your agent in a sandbox and stay in control of what gets in and out (6 days ago)
+- [Augani/dory](https://github.com/Augani/dory) - A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon. (2 weeks ago)
 - [danfry1/bonsai-js](https://github.com/danfry1/bonsai-js) - A safe, zero-dependency expression language for rules, filters, and templates (1 month ago)
 - [olafkfreund/gnome-quick-web-apps](https://github.com/olafkfreund/gnome-quick-web-apps) - Turn any website into a first-class GNOME desktop app — GTK4/libadwaita web-app manager with PWA manifest autofill, auto icons, scope confinement and CEF rendering (1 month ago)
 - [malbiruk/driftwm](https://github.com/malbiruk/driftwm) - A trackpad-first infinite canvas Wayland compositor. (1 month ago)
