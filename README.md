@@ -1,3 +1,4 @@
+
 # Thomas Hanser | [@toms-place](https://github.com/toms-place)
 
 Hi and welcome to my GitHub profile! 👋
@@ -70,12 +71,12 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ## 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toms-place&count_private=false&theme=tokyonight&show_icons=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=toms-place&count_private=false&theme=tokyonight&show_icons=true)
 
 ### 👷 Check out what I'm currently working on
 
 - [toms-place/karenzulator](https://github.com/toms-place/karenzulator) - Tagesgenaue Simulation auf Basis von §§ 24, 24a, 24b KBGG für die volle Periode 2 Jahre ab Geburt. Höchstbetrag, Wochengeld-Faktor, 61-Tage-Regel, max. 2 Wechsel sowie der Partnerschaftsbonus werden gesetzeskonform berücksichtigt. (1 month ago)
-- [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (7 months ago)
+- [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (8 months ago)
 - [VereinLebenslicht/pages-at](https://github.com/VereinLebenslicht/pages-at) -  (10 months ago)
 
 ### 🌱 My latest projects
@@ -114,11 +115,11 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
+- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (today)
 - [EddyXorb/claudecatraz](https://github.com/EddyXorb/claudecatraz) - put your agent in a sandbox and stay in control of what gets in and out (1 week ago)
 - [Augani/dory](https://github.com/Augani/dory) - A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon. (2 weeks ago)
 - [danfry1/bonsai-js](https://github.com/danfry1/bonsai-js) - A safe, zero-dependency expression language for rules, filters, and templates (1 month ago)
 - [olafkfreund/gnome-quick-web-apps](https://github.com/olafkfreund/gnome-quick-web-apps) - Turn any website into a first-class GNOME desktop app — GTK4/libadwaita web-app manager with PWA manifest autofill, auto icons, scope confinement and CEF rendering (1 month ago)
-- [malbiruk/driftwm](https://github.com/malbiruk/driftwm) - A trackpad-first infinite canvas Wayland compositor. (1 month ago)
 
 ### 👯 Check out some of my recent followers
 
