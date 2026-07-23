@@ -70,7 +70,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ## 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toms-place&count_private=false&theme=tokyonight&show_icons=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=toms-place&count_private=false&theme=tokyonight&show_icons=true)
 
 ### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
