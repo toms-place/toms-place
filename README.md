@@ -115,7 +115,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (6 days ago)
+- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (1 week ago)
 - [EddyXorb/claudecatraz](https://github.com/EddyXorb/claudecatraz) - put your agent in a sandbox and stay in control of what gets in and out (2 weeks ago)
 - [Augani/dory](https://github.com/Augani/dory) - A free, open-source native macOS app for Docker & Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon. (3 weeks ago)
 - [danfry1/bonsai-js](https://github.com/danfry1/bonsai-js) - A safe, zero-dependency expression language for rules, filters, and templates (1 month ago)
