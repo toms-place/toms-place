@@ -89,11 +89,11 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 🍴 My recent forks
 
+- [toms-place/helmfile](https://github.com/toms-place/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [toms-place/karenz-wizard](https://github.com/toms-place/karenz-wizard) - Planer für Elternkarenz und einkommensabhängiges Kinderbetreuungsgeld. Proof of concept, um zu zeigen dass ein Online-Tool easy möglich wäre für schmerzfreiere Karenzplanung in Österreich!
 - [toms-place/eti-compose](https://github.com/toms-place/eti-compose) - An ETI sync server powered by a snake and a whale
 - [toms-place/cdn-apiserver](https://github.com/toms-place/cdn-apiserver) - A Kubernetes sample API server that demonstrates how to build a custom aggregated API server with file/CDN management capabilities.
 - [toms-place/helm-secrets](https://github.com/toms-place/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [toms-place/external-dns](https://github.com/toms-place/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
 ### 🔭 Latest releases I've contributed to
 
@@ -115,10 +115,10 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor. (5 days ago)
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor. (6 days ago)
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler (1 week ago)
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (1 week ago)
-- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (2 weeks ago)
+- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (3 weeks ago)
 - [EddyXorb/claudecatraz](https://github.com/EddyXorb/claudecatraz) - put your agent in a sandbox and stay in control of what gets in and out (1 month ago)
 
 ### 👯 Check out some of my recent followers
