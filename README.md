@@ -117,11 +117,11 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [major1201/kubectl-rsync](https://github.com/major1201/kubectl-rsync) - A kubectl plugin that syncs files between local filesystem and Kubernetes pods using rsync. (2 days ago)
-- [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) - Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server. (6 days ago)
-- [ngrok/webernetes](https://github.com/ngrok/webernetes) - Kubernetes in the browser. (1 week ago)
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor. (2 weeks ago)
+- [costantinoai/bring-shopping-card](https://github.com/costantinoai/bring-shopping-card) - Bring! Shopping Card - A beautiful shopping list card for Home Assistant (1 day ago)
+- [superdingo101/daylight-calendar-card](https://github.com/superdingo101/daylight-calendar-card) - A beautiful, custom Home Assistant calendar card (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
+- [major1201/kubectl-rsync](https://github.com/major1201/kubectl-rsync) - A kubectl plugin that syncs files between local filesystem and Kubernetes pods using rsync. (3 days ago)
+- [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) - Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server. (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
