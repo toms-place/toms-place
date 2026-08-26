@@ -117,11 +117,11 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [costantinoai/bring-shopping-card](https://github.com/costantinoai/bring-shopping-card) - Bring! Shopping Card - A beautiful shopping list card for Home Assistant (2 days ago)
-- [superdingo101/daylight-calendar-card](https://github.com/superdingo101/daylight-calendar-card) - A beautiful, custom Home Assistant calendar card (2 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
-- [major1201/kubectl-rsync](https://github.com/major1201/kubectl-rsync) - A kubectl plugin that syncs files between local filesystem and Kubernetes pods using rsync. (4 days ago)
-- [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) - Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server. (1 week ago)
+- [abcdesktopio/images](https://github.com/abcdesktopio/images) - images repository (1 day ago)
+- [abcdesktopio/docs](https://github.com/abcdesktopio/docs) - newsdocs (1 day ago)
+- [costantinoai/bring-shopping-card](https://github.com/costantinoai/bring-shopping-card) - Bring! Shopping Card - A beautiful shopping list card for Home Assistant (3 days ago)
+- [superdingo101/daylight-calendar-card](https://github.com/superdingo101/daylight-calendar-card) - A beautiful, custom Home Assistant calendar card (3 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
 
 ### 👯 Check out some of my recent followers
 
