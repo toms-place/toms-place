@@ -117,11 +117,11 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [abcdesktopio/images](https://github.com/abcdesktopio/images) - images repository (2 days ago)
-- [abcdesktopio/docs](https://github.com/abcdesktopio/docs) - newsdocs (2 days ago)
-- [costantinoai/bring-shopping-card](https://github.com/costantinoai/bring-shopping-card) - Bring! Shopping Card - A beautiful shopping list card for Home Assistant (4 days ago)
-- [superdingo101/daylight-calendar-card](https://github.com/superdingo101/daylight-calendar-card) - A beautiful, custom Home Assistant calendar card (4 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
+- [AshishKapoor/fintrack](https://github.com/AshishKapoor/fintrack) - FinTrack by Sannty | Your financial success starts here (today)
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux (today)
+- [abcdesktopio/images](https://github.com/abcdesktopio/images) - images repository (3 days ago)
+- [abcdesktopio/docs](https://github.com/abcdesktopio/docs) - newsdocs (3 days ago)
+- [costantinoai/bring-shopping-card](https://github.com/costantinoai/bring-shopping-card) - Bring! Shopping Card - A beautiful shopping list card for Home Assistant (5 days ago)
 
 ### 👯 Check out some of my recent followers
 
