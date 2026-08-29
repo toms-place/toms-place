@@ -75,7 +75,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 👷 Check out what I'm currently working on
 
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (1 week ago)
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (2 weeks ago)
 - [toms-place/karenzulator](https://github.com/toms-place/karenzulator) - Tagesgenaue Simulation auf Basis von §§ 24, 24a, 24b KBGG für die volle Periode 2 Jahre ab Geburt. Höchstbetrag, Wochengeld-Faktor, 61-Tage-Regel, max. 2 Wechsel sowie der Partnerschaftsbonus werden gesetzeskonform berücksichtigt. (2 months ago)
 - [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (9 months ago)
 - [VereinLebenslicht/pages-at](https://github.com/VereinLebenslicht/pages-at) -  (1 year ago)
@@ -117,11 +117,11 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [AshishKapoor/fintrack](https://github.com/AshishKapoor/fintrack) - FinTrack by Sannty | Your financial success starts here (today)
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux (today)
-- [abcdesktopio/images](https://github.com/abcdesktopio/images) - images repository (3 days ago)
-- [abcdesktopio/docs](https://github.com/abcdesktopio/docs) - newsdocs (3 days ago)
-- [costantinoai/bring-shopping-card](https://github.com/costantinoai/bring-shopping-card) - Bring! Shopping Card - A beautiful shopping list card for Home Assistant (5 days ago)
+- [AshishKapoor/fintrack](https://github.com/AshishKapoor/fintrack) - FinTrack by Sannty | Your financial success starts here (1 day ago)
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux (1 day ago)
+- [abcdesktopio/images](https://github.com/abcdesktopio/images) - images repository (4 days ago)
+- [abcdesktopio/docs](https://github.com/abcdesktopio/docs) - newsdocs (4 days ago)
+- [costantinoai/bring-shopping-card](https://github.com/costantinoai/bring-shopping-card) - Bring! Shopping Card - A beautiful shopping list card for Home Assistant (6 days ago)
 
 ### 👯 Check out some of my recent followers
 
