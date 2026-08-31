@@ -78,7 +78,6 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (2 weeks ago)
 - [toms-place/karenzulator](https://github.com/toms-place/karenzulator) - Tagesgenaue Simulation auf Basis von §§ 24, 24a, 24b KBGG für die volle Periode 2 Jahre ab Geburt. Höchstbetrag, Wochengeld-Faktor, 61-Tage-Regel, max. 2 Wechsel sowie der Partnerschaftsbonus werden gesetzeskonform berücksichtigt. (2 months ago)
 - [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (9 months ago)
-- [VereinLebenslicht/pages-at](https://github.com/VereinLebenslicht/pages-at) -  (1 year ago)
 
 ### 🌱 My latest projects
 
@@ -99,7 +98,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 ### 🔭 Latest releases I've contributed to
 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.7.4](https://github.com/helmfile/helmfile/releases/tag/v1.7.4), 2 weeks ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [toms-place/wkid](https://github.com/toms-place/wkid) ([v0.0.7](https://github.com/toms-place/wkid/releases/tag/v0.0.7), 9 months ago) - WorkloadIdentity K8s JWKS server
+- [toms-place/wkid](https://github.com/toms-place/wkid) ([v0.0.7](https://github.com/toms-place/wkid/releases/tag/v0.0.7), 10 months ago) - WorkloadIdentity K8s JWKS server
 
 ### 🔨 My recent Pull Requests
 
@@ -117,10 +116,10 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [AshishKapoor/fintrack](https://github.com/AshishKapoor/fintrack) - FinTrack by Sannty | Your financial success starts here (2 days ago)
-- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux (2 days ago)
-- [abcdesktopio/images](https://github.com/abcdesktopio/images) - images repository (5 days ago)
-- [abcdesktopio/docs](https://github.com/abcdesktopio/docs) - newsdocs (5 days ago)
+- [AshishKapoor/fintrack](https://github.com/AshishKapoor/fintrack) - FinTrack by Sannty | Your financial success starts here (3 days ago)
+- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux (3 days ago)
+- [abcdesktopio/images](https://github.com/abcdesktopio/images) - images repository (6 days ago)
+- [abcdesktopio/docs](https://github.com/abcdesktopio/docs) - newsdocs (6 days ago)
 - [costantinoai/bring-shopping-card](https://github.com/costantinoai/bring-shopping-card) - Bring! Shopping Card - A beautiful shopping list card for Home Assistant (1 week ago)
 
 ### 👯 Check out some of my recent followers
