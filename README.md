@@ -116,10 +116,10 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [AshishKapoor/fintrack](https://github.com/AshishKapoor/fintrack) - FinTrack by Sannty | Your financial success starts here (3 days ago)
-- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux (3 days ago)
-- [abcdesktopio/images](https://github.com/abcdesktopio/images) - images repository (6 days ago)
-- [abcdesktopio/docs](https://github.com/abcdesktopio/docs) - newsdocs (6 days ago)
+- [AshishKapoor/fintrack](https://github.com/AshishKapoor/fintrack) - FinTrack by Sannty | Your financial success starts here (4 days ago)
+- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux (4 days ago)
+- [abcdesktopio/images](https://github.com/abcdesktopio/images) - images repository (1 week ago)
+- [abcdesktopio/docs](https://github.com/abcdesktopio/docs) - newsdocs (1 week ago)
 - [costantinoai/bring-shopping-card](https://github.com/costantinoai/bring-shopping-card) - Bring! Shopping Card - A beautiful shopping list card for Home Assistant (1 week ago)
 
 ### 👯 Check out some of my recent followers
