@@ -110,24 +110,24 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 📓 Gists I wrote
 
-- [TPM-backed LUKS unlock with systemd-cryptenroll](https://gist.github.com/be319c6705a3d197de021c7ac52ddd7f) (1 month ago)
+- [TPM-backed LUKS unlock with systemd-cryptenroll](https://gist.github.com/be319c6705a3d197de021c7ac52ddd7f) (2 months ago)
 - [Sourcing Environment Variables from Hashicorp Vault with bash](https://gist.github.com/6f0e2f3f2c50c501357780af2a46ad96) (2 years ago)
 - [kubectl run with volume mount](https://gist.github.com/44f7dd8a12693304d3a8f6a3f31ceb74) (3 years ago)
 
 ### ⭐ Recent Stars
 
-- [AshishKapoor/fintrack](https://github.com/AshishKapoor/fintrack) - FinTrack by Sannty | Your financial success starts here (6 days ago)
-- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux (6 days ago)
+- [AshishKapoor/fintrack](https://github.com/AshishKapoor/fintrack) - FinTrack by Sannty | Your financial success starts here (1 week ago)
+- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux (1 week ago)
 - [abcdesktopio/images](https://github.com/abcdesktopio/images) - images repository (1 week ago)
 - [abcdesktopio/docs](https://github.com/abcdesktopio/docs) - newsdocs (1 week ago)
 - [costantinoai/bring-shopping-card](https://github.com/costantinoai/bring-shopping-card) - Bring! Shopping Card - A beautiful shopping list card for Home Assistant (1 week ago)
 
 ### 👯 Check out some of my recent followers
 
+- [TranscranialAvenue](https://github.com/TranscranialAvenue)
 - [standardgalactic](https://github.com/standardgalactic)
 - [patrickpichler](https://github.com/patrickpichler)
 - [inkrement](https://github.com/inkrement)
 - [LaserKaspar](https://github.com/LaserKaspar)
-- [Naexon](https://github.com/Naexon)
 
 #### 🤖 This profile was generated with [readme-scribe](https://github.com/muesli/readme-scribe)!
