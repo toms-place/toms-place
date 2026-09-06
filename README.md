@@ -97,7 +97,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 🔭 Latest releases I've contributed to
 
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.7.4](https://github.com/helmfile/helmfile/releases/tag/v1.7.4), 2 weeks ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.7.4](https://github.com/helmfile/helmfile/releases/tag/v1.7.4), 3 weeks ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [toms-place/wkid](https://github.com/toms-place/wkid) ([v0.0.7](https://github.com/toms-place/wkid/releases/tag/v0.0.7), 10 months ago) - WorkloadIdentity K8s JWKS server
 
 ### 🔨 My recent Pull Requests
@@ -120,7 +120,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux (1 week ago)
 - [abcdesktopio/images](https://github.com/abcdesktopio/images) - images repository (1 week ago)
 - [abcdesktopio/docs](https://github.com/abcdesktopio/docs) - newsdocs (1 week ago)
-- [costantinoai/bring-shopping-card](https://github.com/costantinoai/bring-shopping-card) - Bring! Shopping Card - A beautiful shopping list card for Home Assistant (1 week ago)
+- [costantinoai/bring-shopping-card](https://github.com/costantinoai/bring-shopping-card) - Bring! Shopping Card - A beautiful shopping list card for Home Assistant (2 weeks ago)
 
 ### 👯 Check out some of my recent followers
 
