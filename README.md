@@ -102,7 +102,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 🔨 My recent Pull Requests
 
-- [fix(#2741): prefetch shared remote charts instead of serializing sync](https://github.com/helmfile/helmfile/pull/2743) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (3 weeks ago)
+- [fix(#2741): prefetch shared remote charts instead of serializing sync](https://github.com/helmfile/helmfile/pull/2743) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (4 weeks ago)
 - [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 year ago)
 - [Add custom configuration to nginx/metrics](https://github.com/elastic/integrations/pull/12865) on [elastic/integrations](https://github.com/elastic/integrations) (2 years ago)
 - [fix(#130): add SecurityContext to createInitContainerPatch](https://github.com/elastic/apm-k8s-attacher/pull/131) on [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) (2 years ago)
@@ -116,7 +116,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) - The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.  (3 days ago)
+- [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) - The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.  (4 days ago)
 - [AshishKapoor/fintrack](https://github.com/AshishKapoor/fintrack) - FinTrack by Sannty | Your financial success starts here (1 week ago)
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux (1 week ago)
 - [abcdesktopio/images](https://github.com/abcdesktopio/images) - images repository (2 weeks ago)
