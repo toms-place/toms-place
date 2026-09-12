@@ -75,7 +75,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 👷 Check out what I'm currently working on
 
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (3 weeks ago)
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (4 weeks ago)
 - [toms-place/karenzulator](https://github.com/toms-place/karenzulator) - Tagesgenaue Simulation auf Basis von §§ 24, 24a, 24b KBGG für die volle Periode 2 Jahre ab Geburt. Höchstbetrag, Wochengeld-Faktor, 61-Tage-Regel, max. 2 Wechsel sowie der Partnerschaftsbonus werden gesetzeskonform berücksichtigt. (3 months ago)
 - [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (9 months ago)
 
@@ -102,7 +102,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 🔨 My recent Pull Requests
 
-- [fix(#2741): prefetch shared remote charts instead of serializing sync](https://github.com/helmfile/helmfile/pull/2743) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (4 weeks ago)
+- [fix(#2741): prefetch shared remote charts instead of serializing sync](https://github.com/helmfile/helmfile/pull/2743) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (1 month ago)
 - [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 year ago)
 - [Add custom configuration to nginx/metrics](https://github.com/elastic/integrations/pull/12865) on [elastic/integrations](https://github.com/elastic/integrations) (2 years ago)
 - [fix(#130): add SecurityContext to createInitContainerPatch](https://github.com/elastic/apm-k8s-attacher/pull/131) on [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) (2 years ago)
@@ -116,8 +116,8 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. (today)
-- [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) - The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.  (5 days ago)
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. (1 day ago)
+- [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) - The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.  (6 days ago)
 - [AshishKapoor/fintrack](https://github.com/AshishKapoor/fintrack) - FinTrack by Sannty | Your financial success starts here (2 weeks ago)
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux (2 weeks ago)
 - [abcdesktopio/images](https://github.com/abcdesktopio/images) - images repository (2 weeks ago)
