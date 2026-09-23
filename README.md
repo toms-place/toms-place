@@ -124,10 +124,10 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 👯 Check out some of my recent followers
 
+- [buraksocial](https://github.com/buraksocial)
 - [TranscranialAvenue](https://github.com/TranscranialAvenue)
 - [standardgalactic](https://github.com/standardgalactic)
 - [patrickpichler](https://github.com/patrickpichler)
 - [inkrement](https://github.com/inkrement)
-- [LaserKaspar](https://github.com/LaserKaspar)
 
 #### 🤖 This profile was generated with [readme-scribe](https://github.com/muesli/readme-scribe)!
