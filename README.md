@@ -116,10 +116,10 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### ⭐ Recent Stars
 
-- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. (1 week ago)
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. (2 weeks ago)
 - [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) - The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.  (2 weeks ago)
-- [AshishKapoor/fintrack](https://github.com/AshishKapoor/fintrack) - FinTrack by Sannty | Your financial success starts here (3 weeks ago)
-- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux (3 weeks ago)
+- [AshishKapoor/fintrack](https://github.com/AshishKapoor/fintrack) - FinTrack by Sannty | Your financial success starts here (4 weeks ago)
+- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux (4 weeks ago)
 - [abcdesktopio/images](https://github.com/abcdesktopio/images) - images repository (1 month ago)
 
 ### 👯 Check out some of my recent followers
