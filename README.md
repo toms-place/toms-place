@@ -97,7 +97,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 🔭 Latest releases I've contributed to
 
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.8.1](https://github.com/helmfile/helmfile/releases/tag/v1.8.1), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.8.1](https://github.com/helmfile/helmfile/releases/tag/v1.8.1), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [toms-place/wkid](https://github.com/toms-place/wkid) ([v0.0.7](https://github.com/toms-place/wkid/releases/tag/v0.0.7), 11 months ago) - WorkloadIdentity K8s JWKS server
 
 ### 🔨 My recent Pull Requests
