@@ -77,7 +77,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (2 months ago)
 - [toms-place/karenzulator](https://github.com/toms-place/karenzulator) - Tagesgenaue Simulation auf Basis von §§ 24, 24a, 24b KBGG für die volle Periode 2 Jahre ab Geburt. Höchstbetrag, Wochengeld-Faktor, 61-Tage-Regel, max. 2 Wechsel sowie der Partnerschaftsbonus werden gesetzeskonform berücksichtigt. (4 months ago)
-- [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (10 months ago)
+- [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (11 months ago)
 
 ### 🌱 My latest projects
 
@@ -97,7 +97,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 🔭 Latest releases I've contributed to
 
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.8.2](https://github.com/helmfile/helmfile/releases/tag/v1.8.2), 4 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.8.2](https://github.com/helmfile/helmfile/releases/tag/v1.8.2), 5 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [toms-place/wkid](https://github.com/toms-place/wkid) ([v0.0.7](https://github.com/toms-place/wkid/releases/tag/v0.0.7), 11 months ago) - WorkloadIdentity K8s JWKS server
 
 ### 🔨 My recent Pull Requests
