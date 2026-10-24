@@ -120,14 +120,14 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 - [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) - The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.  (1 month ago)
 - [AshishKapoor/fintrack](https://github.com/AshishKapoor/fintrack) - FinTrack by Sannty | Your financial success starts here (1 month ago)
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux (1 month ago)
-- [abcdesktopio/images](https://github.com/abcdesktopio/images) - images repository (1 month ago)
+- [abcdesktopio/images](https://github.com/abcdesktopio/images) - images repository (2 months ago)
 
 ### 👯 Check out some of my recent followers
 
-- [buraksocial](https://github.com/buraksocial)
 - [TranscranialAvenue](https://github.com/TranscranialAvenue)
 - [standardgalactic](https://github.com/standardgalactic)
 - [patrickpichler](https://github.com/patrickpichler)
 - [inkrement](https://github.com/inkrement)
+- [LaserKaspar](https://github.com/LaserKaspar)
 
 #### 🤖 This profile was generated with [readme-scribe](https://github.com/muesli/readme-scribe)!
