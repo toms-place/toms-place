@@ -97,7 +97,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 🔭 Latest releases I've contributed to
 
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.8.3](https://github.com/helmfile/helmfile/releases/tag/v1.8.3), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.8.3](https://github.com/helmfile/helmfile/releases/tag/v1.8.3), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [toms-place/wkid](https://github.com/toms-place/wkid) ([v0.0.7](https://github.com/toms-place/wkid/releases/tag/v0.0.7), 1 year ago) - WorkloadIdentity K8s JWKS server
 
 ### 🔨 My recent Pull Requests
@@ -111,7 +111,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 ### 📓 Gists I wrote
 
 - [TPM-backed LUKS unlock with systemd-cryptenroll](https://gist.github.com/be319c6705a3d197de021c7ac52ddd7f) (4 months ago)
-- [Sourcing Environment Variables from Hashicorp Vault with bash](https://gist.github.com/6f0e2f3f2c50c501357780af2a46ad96) (2 years ago)
+- [Sourcing Environment Variables from Hashicorp Vault with bash](https://gist.github.com/6f0e2f3f2c50c501357780af2a46ad96) (3 years ago)
 - [kubectl run with volume mount](https://gist.github.com/44f7dd8a12693304d3a8f6a3f31ceb74) (3 years ago)
 
 ### ⭐ Recent Stars
