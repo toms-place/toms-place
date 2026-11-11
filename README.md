@@ -97,13 +97,13 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 🔭 Latest releases I've contributed to
 
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.8.3](https://github.com/helmfile/helmfile/releases/tag/v1.8.3), 4 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.8.3](https://github.com/helmfile/helmfile/releases/tag/v1.8.3), 5 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [toms-place/wkid](https://github.com/toms-place/wkid) ([v0.0.7](https://github.com/toms-place/wkid/releases/tag/v0.0.7), 1 year ago) - WorkloadIdentity K8s JWKS server
 
 ### 🔨 My recent Pull Requests
 
-- [fix(#2741): prefetch shared remote charts instead of serializing sync](https://github.com/helmfile/helmfile/pull/2743) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (2 months ago)
-- [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 year ago)
+- [fix(#2741): prefetch shared remote charts instead of serializing sync](https://github.com/helmfile/helmfile/pull/2743) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (3 months ago)
+- [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 years ago)
 - [Add custom configuration to nginx/metrics](https://github.com/elastic/integrations/pull/12865) on [elastic/integrations](https://github.com/elastic/integrations) (2 years ago)
 - [fix(#130): add SecurityContext to createInitContainerPatch](https://github.com/elastic/apm-k8s-attacher/pull/131) on [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) (2 years ago)
 - [feature: create run task implementation (#15)](https://github.com/AustrianDataLAB/execDAT-operator/pull/16) on [AustrianDataLAB/execDAT-operator](https://github.com/AustrianDataLAB/execDAT-operator) (3 years ago)
