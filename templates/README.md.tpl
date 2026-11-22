@@ -26,7 +26,7 @@ Outside work I go cycling, play padel tennis and spend time with my family. I be
 - Drive platform engineering, DevOps practices and cloud-native adoption across teams
 - Stack: Kubernetes, GitOps, Terraform, Helm, FluxCD
 
-**DevOps / Cloud Engineer** (part-time) · [WU Vienna University of Economics and Business](https://www.wu.ac.at/) *2020 – 2023*
+**DevOps / Cloud Engineer** (part-time) · [WU Vienna](https://www.wu.ac.at/) *2020 – 2023*
 - System administration for the Institute for Data, Process and Knowledge Management
 - Server infrastructure and IT services for the Austrian DataLab and Services project
 
@@ -45,7 +45,7 @@ Outside work I go cycling, play padel tennis and spend time with my family. I be
 - **Cloud**: Azure, GCP, nextlayer
 - **Observability**: Prometheus, Grafana, ELK Stack
 - **Databases**: PostgreSQL, MySQL, MariaDB, MongoDB, Redis
-- **Security & networking**: Vault, NGINX, External DNS
+- **Security & networking**: Vault, NGINX, ExternalDNS
 - **Systems**: Linux, Git
 - **Spoken languages**: German (native), English (fluent)
 

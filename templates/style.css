@@ -96,7 +96,7 @@ dark-mode::part(icon) { display: block; width: 1em; height: 1em; text-align: cen
   .markdown-style {
     position: relative; display: flex !important; flex-direction: column;
     max-width: none !important; margin: 0 !important; padding: 0 !important;
-    font-size: 9.6pt !important; line-height: 1.38 !important; color: #1f2328 !important; background: #fff !important;
+    font-size: 10.2pt !important; line-height: 1.38 !important; color: #1f2328 !important; background: #fff !important;
     --color-fg-default: #1f2328; --color-fg-muted: #57606a; --color-accent-fg: #0b5cad; --color-border-muted: #d0d7de;
   }
   .markdown-style > * { order: 4; }
@@ -126,7 +126,6 @@ dark-mode::part(icon) { display: block; width: 1em; height: 1em; text-align: cen
   .markdown-style ul { margin: 0 0 1mm !important; padding-left: 4.5mm !important; break-inside: avoid; }
   .markdown-style li + li { margin-top: 0 !important; }
 
-  /* Skills in two columns */
-  [id$="skills"] + ul { columns: 2; column-gap: 8mm; }
-  [id$="skills"] + ul li { break-inside: avoid; }
+  /* Skills: one group per line, no bullets */
+  .markdown-style [id$="skills"] + ul { list-style: none; padding-left: 0 !important; }
 }
