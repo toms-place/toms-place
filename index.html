@@ -17,76 +17,94 @@
     <link rel="icon" href="https://avatars.githubusercontent.com/u/2061183?v=4&#x26;s=48">
     <style>/* Extra styles for toms.place. Built into index.html by markdown-to-html-cli. */
 
-/* Screen: keep the dark-mode button and GitHub corner off the heading */
+/* ---------- Screen ---------- */
+
+/* Keep the dark-mode button and GitHub corner off the heading */
 @media (max-width: 1100px) { body { padding-top: 40px; } }
 
-/* Avatar next to the name */
+/* Dark-mode button: same font as the page */
+dark-mode {
+  font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  color: var(--color-fg-muted, #57606a);
+}
+
+/* Avatar: square with rounded corners.
+   The base style adds padding-left: 20px to align=right images; remove it. */
 .markdown-style img[alt="Thomas Hanser"] {
-  /* the base style adds padding-left: 20px to align=right images; that made the circle an oval */
   padding: 0 !important; box-sizing: border-box; width: 120px; height: 120px; aspect-ratio: 1 / 1;
   object-fit: cover; border-radius: 16%; margin: 0 0 8px 16px; background: transparent;
 }
 @media (max-width: 500px) { .markdown-style img[alt="Thomas Hanser"] { width: 80px; height: 80px; } }
+
+/* Name and title */
+.markdown-style > h1 { border-bottom: 0 !important; margin-bottom: 0 !important; padding-bottom: 0 !important; }
+.markdown-style > h1 .anchor, .markdown-style > h2:first-of-type .anchor { display: none; }
+.markdown-style > h2#platform-engineer {
+  border-bottom: 0 !important; margin-top: 0 !important; padding-bottom: 0 !important;
+  font-weight: 400; color: var(--color-fg-muted);
+}
+
+/* Section headings */
+.markdown-style h3 {
+  font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.08em;
+  color: var(--color-accent-fg); border-bottom: 1px solid var(--color-border-muted);
+  padding-bottom: 0.3em; margin-top: 2em;
+}
+.markdown-style h2#open-source { margin-top: 2.5em; }
+
+/* Job and degree lines: title and place on the left, dates on the right */
+.markdown-style p:has(> strong:first-child) {
+  display: flex; flex-wrap: wrap; align-items: baseline; column-gap: 0.35em;
+  margin: 1.1em 0 0.25em;
+}
+.markdown-style p:has(> strong:first-child) > em:last-child {
+  margin-left: auto; font-style: normal; color: var(--color-fg-muted); white-space: nowrap;
+}
+.markdown-style p:has(> strong:first-child) + ul { margin-top: 0; }
+
+/* Contact list in one row */
+.markdown-style #contact + ul { list-style: none; padding-left: 0; display: flex; flex-wrap: wrap; gap: 0.25em 1.5em; }
+.markdown-style #contact + ul li { margin: 0; }
 
 /* ---------- Print: one-page A4 CV ---------- */
 @media print {
   @page { size: A4; margin: 14mm 16mm; }
   :root, html, body, [data-color-mode] body { color-scheme: light !important; background: #fff !important; color: #1f2328 !important; padding: 0 !important; }
   dark-mode, body > svg, .anchor { display: none !important; }
-  .markdown-style { max-width: none !important; margin: 0 !important; padding: 0 !important;
+
+  .markdown-style {
+    position: relative; display: flex !important; flex-direction: column;
+    max-width: none !important; margin: 0 !important; padding: 0 !important;
     font-size: 9.6pt !important; line-height: 1.38 !important; color: #1f2328 !important; background: #fff !important;
-    --color-fg-default:#1f2328; --color-fg-muted:#57606a; --color-accent-fg:#0b5cad; --color-border-muted:#d0d7de; }
-  .markdown-style a { color: inherit !important; text-decoration: none !important; }
-  /* hide everything from the Stats section on */
-  #-stats, #-stats ~ * { display: none !important; }
-  /* hide the welcome line */
-  .markdown-style > h1 + p { display: none !important; }
-  /* header */
-  .markdown-style h1 { font-size: 22pt !important; border: 0 !important; margin: 0 0 1mm !important; padding: 0 !important; }
-  .markdown-style h1 a { display: none !important; }
-  .markdown-style h1 { line-height: 1.1 !important; }
-  .markdown-style h2 { font-size: 12pt !important; border: 0 !important; margin: 0 0 3mm !important; padding: 0 !important; color: #57606a !important; font-weight: 500 !important; }
-  .markdown-style h2 a { display: none !important; }
-  .markdown-style h3 { font-size: 10.5pt !important; text-transform: uppercase; letter-spacing: .06em;
-    border-bottom: 0.6pt solid #d0d7de !important; padding-bottom: 1mm !important; margin: 4mm 0 2mm !important; color: #0b5cad !important; }
-  .markdown-style p { margin: 0 0 1.5mm !important; }
-  .markdown-style ul { margin: 0 0 2.2mm !important; padding-left: 4.5mm !important; }
-  .markdown-style li + li { margin-top: 0 !important; }
-  /* contact list in one row, placed under the title */
-  #-how-to-reach-me { display: none !important; }
-  #-how-to-reach-me + ul { list-style: none; padding: 0 !important; display: flex; gap: 6mm; flex-wrap: wrap; margin-bottom: 1mm !important; }
-  /* skills in two columns */
-  [id$="-my-skills"] + ul { columns: 2; column-gap: 8mm; }
-  [id$="-my-skills"] + ul li { break-inside: avoid; }
-  /* keep a job title with its details */
-  .markdown-style p:has(> strong:first-child) { break-after: avoid; margin-top: 2mm !important; }
-  .markdown-style ul { break-inside: avoid; }
-}
-@media print {
-  /* summary: keep only the first paragraph on paper */
-  .markdown-style > h2 + p + p { display: none !important; }
-  .markdown-style > h2 + p { margin-bottom: 2.5mm !important; }
-  /* contacts row: hide the blog item on paper */
-  #-how-to-reach-me + ul li:last-child { display: none !important; }
-  #-how-to-reach-me + ul { margin-bottom: 0 !important; font-size: 9pt; color: #57606a; }
-  .markdown-style > h1 { margin-bottom: 0 !important; }
-  .markdown-style > h2 { margin-bottom: 2mm !important; }
-  /* contacts come first visually: move them under the title */
-  .markdown-style { display: flex !important; flex-direction: column; }
-  .markdown-style > h1 { order: 1; } .markdown-style > h2 { order: 2; }
-  #-how-to-reach-me + ul { order: 3; margin: 0 0 3mm !important; }
+    --color-fg-default: #1f2328; --color-fg-muted: #57606a; --color-accent-fg: #0b5cad; --color-border-muted: #d0d7de;
+  }
   .markdown-style > * { order: 4; }
-}
-@media print {
-  #-how-to-reach-me + ul { gap: 0 5mm !important; }
-  #-how-to-reach-me + ul li { margin: 0 !important; }
-}
-@media print {
-  .markdown-style { position: relative; }
-  /* take the avatar out of the flow and pin it to the top right */
+  .markdown-style a { color: inherit !important; text-decoration: none !important; }
+
+  /* Not on paper: the open-source lists, the personal paragraph, the blog link */
+  #open-source, #open-source ~ * { display: none !important; }
+  .markdown-style > h2 + p + p { display: none !important; }
+  #contact { display: none !important; }
+  #contact + ul li:last-child { display: none !important; }
+
+  /* Header: name, title, contacts, avatar on the right */
   .markdown-style > img[alt="Thomas Hanser"] { position: absolute; top: 0; right: 0; width: 26mm !important; height: 26mm !important; margin: 0 !important; }
-  /* the welcome line now follows h1 directly; contacts + summary need room for the avatar */
-  .markdown-style > h1, .markdown-style > h2, #-how-to-reach-me + ul { padding-right: 32mm !important; }
+  .markdown-style > h1 { order: 1; font-size: 22pt !important; line-height: 1.1 !important; margin: 0 !important; }
+  .markdown-style > h2#platform-engineer { order: 2; font-size: 12pt !important; margin: 0 0 2mm !important; }
+  #contact + ul { order: 3; margin: 0 0 3mm !important; padding-left: 0 !important; font-size: 9pt; color: #57606a; gap: 0 5mm !important; }
+  .markdown-style > h1, .markdown-style > h2, #contact + ul { padding-right: 32mm !important; }
+  .markdown-style > h2 + p { margin-bottom: 1mm !important; }
+
+  /* Sections */
+  .markdown-style h3 { font-size: 10pt !important; margin: 4mm 0 1.5mm !important; padding-bottom: 1mm !important; border-bottom: 0.6pt solid #d0d7de !important; }
+  .markdown-style p { margin: 0 0 1.5mm !important; }
+  .markdown-style p:has(> strong:first-child) { margin: 2mm 0 0.5mm !important; break-after: avoid; }
+  .markdown-style ul { margin: 0 0 1mm !important; padding-left: 4.5mm !important; break-inside: avoid; }
+  .markdown-style li + li { margin-top: 0 !important; }
+
+  /* Skills in two columns */
+  #skills + ul { columns: 2; column-gap: 8mm; }
+  #skills + ul li { break-inside: avoid; }
 }
 </style>
     <style>
@@ -185,19 +203,10 @@ svg { z-index: 99; position: fixed; border: 0px; top: 0px; right: 0; }
     `;s.appendChild(a)}i(t,e){this.dispatchEvent(new CustomEvent(t,{bubbles:true,composed:true,detail:e}))}}customElements.define("dark-mode",a);</script><div style="max-width: 960px; margin: 0 auto 60px auto; padding: 8px;max-width: 960px;" class="markdown-style">
     <img src="https://avatars.githubusercontent.com/u/2061183?v=4&#x26;s=240" alt="Thomas Hanser" width="120" align="right">
     <h1 id="thomas-hanser"><a class="anchor" aria-hidden="true" tabindex="-1" href="#thomas-hanser"><span class="octicon octicon-link"></span></a>Thomas Hanser</h1>
-    <p>Hi, I'm Thomas. Welcome! 👋</p>
     <h2 id="platform-engineer"><a class="anchor" aria-hidden="true" tabindex="-1" href="#platform-engineer"><span class="octicon octicon-link"></span></a>Platform Engineer</h2>
-    <p>
-      I'm a Platform Engineer with a passion for Kubernetes, GitOps, and cloud-native technologies. I love to automate processes and make things easier for developers.
-      I enjoy working with tools like Terraform, Helm, and FluxCD to build scalable and reliable infrastructure.
-    </p>
-    <p>
-      When I'm not coding, you can find me biking, playing padel tennis or spending time with my family.
-      I also love to share my knowledge and experiences with others.
-      I believe in the power of open source and love to contribute to projects that make a difference.
-      I am always looking for new challenges and opportunities to learn and grow. If you have an interesting project or idea, feel free to reach out!
-    </p>
-    <h3 id="-how-to-reach-me"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-how-to-reach-me"><span class="octicon octicon-link"></span></a>📫 How to reach me</h3>
+    <p>Platform Engineer focused on Kubernetes, GitOps and cloud-native infrastructure. I move workloads from virtual machines to Kubernetes, automate release processes, and build scalable, reliable platforms with Terraform, Helm and FluxCD, so that developers can ship with less effort.</p>
+    <p>Outside work I go cycling, play padel tennis and spend time with my family. I believe in open source and like to share what I learn. If you have an interesting project or idea, feel free to reach out.</p>
+    <h3 id="contact"><a class="anchor" aria-hidden="true" tabindex="-1" href="#contact"><span class="octicon octicon-link"></span></a>Contact</h3>
     <ul>
       <li>Web: <a href="https://toms.place/">toms.place</a></li>
       <li>Mail: <a href="mailto:hello@toms.place">hello@toms.place</a></li>
@@ -205,67 +214,62 @@ svg { z-index: 99; position: fixed; border: 0px; top: 0px; right: 0; }
       <li>GitHub: <a href="https://github.com/toms-place">github.com/toms-place</a></li>
       <li>Blog: <a href="pages/blog.html">toms.place blog</a></li>
     </ul>
-    <h3 id="️-my-skills"><a class="anchor" aria-hidden="true" tabindex="-1" href="#️-my-skills"><span class="octicon octicon-link"></span></a>🛠️ My skills</h3>
-    <ul>
-      <li><strong>Languages</strong>: Java, TypeScript, Python, Go, Bash</li>
-      <li><strong>Cloud</strong>: Azure, nextlayer, GCP</li>
-      <li><strong>Containerization</strong>: Kubernetes, Docker, containerd, Rancher</li>
-      <li><strong>CI/CD</strong>: GitLab CI, GitHub Actions, FluxCD</li>
-      <li><strong>Infrastructure as Code</strong>: Terraform, Ansible</li>
-      <li><strong>Monitoring</strong>: Prometheus, Grafana, ELK Stack</li>
-      <li><strong>Databases</strong>: PostgreSQL, MySQL, MariaDB, MongoDB</li>
-      <li><strong>Version Control</strong>: Git, GitHub, GitLab</li>
-      <li><strong>Operating Systems</strong>: Linux, macOS, Windows</li>
-      <li><strong>Other</strong>: Helm, Cilium, K3s, NGINX, Vault, Redis, External DNS, Knative, KEDA</li>
-      <li><strong>Soft Skills</strong>: Teamwork, Communication, Problem Solving, Adaptability</li>
-      <li><strong>Spoken languages</strong>: German (native), English (fluent)</li>
-    </ul>
-    <h3 id="-career"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-career"><span class="octicon octicon-link"></span></a>💼 Career</h3>
-    <p><strong>Platform Engineer &#x26; DevOps Advocate</strong> · <a href="https://www.untis.at/">Untis GmbH</a> · Full-time · 2023 – Present</p>
+    <h3 id="experience"><a class="anchor" aria-hidden="true" tabindex="-1" href="#experience"><span class="octicon octicon-link"></span></a>Experience</h3>
+    <p><strong>Platform Engineer &#x26; DevOps Advocate</strong> · <a href="https://www.untis.at/">Untis GmbH</a> <em>2023 – present</em></p>
     <ul>
       <li>Moved the complete VM-based application stack to containerized deployments on Kubernetes</li>
       <li>Automated the release process end to end with GitOps, from build to production rollout</li>
       <li>Drive platform engineering, DevOps practices and cloud-native adoption across teams</li>
-      <li>Kubernetes · GitOps · Terraform · Helm · FluxCD</li>
+      <li>Stack: Kubernetes, GitOps, Terraform, Helm, FluxCD</li>
     </ul>
-    <p><strong>DevOps / Cloud Engineer</strong> · <a href="https://www.wu.ac.at/">WU Vienna University of Economics and Business</a> · Part-time · 2020 – 2023</p>
+    <p><strong>DevOps / Cloud Engineer</strong> (part-time) · <a href="https://www.wu.ac.at/">WU Vienna University of Economics and Business</a> <em>2020 – 2023</em></p>
     <ul>
-      <li>System Administration at the Institute for Data, Process and Knowledge Management</li>
-      <li>Austrian DataLab and Services · IT-Services · Server Infrastructure</li>
+      <li>System administration for the Institute for Data, Process and Knowledge Management</li>
+      <li>Server infrastructure and IT services for the Austrian DataLab and Services project</li>
     </ul>
-    <p><strong>Internship</strong> · <a href="https://bmlrt.gv.at/">Bundesministerium</a> (Nachhaltigkeit &#x26; Tourismus) · 2019 · 1 month</p>
+    <p><strong>Intern</strong> · <a href="https://bmlrt.gv.at/">Austrian Federal Ministry for Sustainability and Tourism</a> <em>2019 · 1 month</em></p>
     <ul>
-      <li>IKT Management · Web Development · GitLab CI/CD</li>
+      <li>ICT management, web development and GitLab CI/CD</li>
     </ul>
-    <p><strong>Working Student</strong> · <a href="https://studo.co/">Studo (Moshbit GmbH)</a> · 2018 · 2 months</p>
+    <p><strong>Working Student</strong> · <a href="https://studo.co/">Studo (Moshbit GmbH)</a> <em>2018 · 2 months</em></p>
     <ul>
-      <li>Project Management · App Development</li>
+      <li>Project management and app development</li>
     </ul>
-    <h3 id="-education"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-education"><span class="octicon octicon-link"></span></a>📚 Education</h3>
-    <p><strong>MSc Software Engineering &#x26; Internet Computing</strong> · <a href="https://www.tuwien.at/">TU Wien</a> · 2022 – ongoing</p>
+    <h3 id="skills"><a class="anchor" aria-hidden="true" tabindex="-1" href="#skills"><span class="octicon octicon-link"></span></a>Skills</h3>
     <ul>
-      <li>Focus: Microservices &#x26; Cloud Computing</li>
+      <li><strong>Languages</strong>: Java, TypeScript, Python, Go, Bash</li>
+      <li><strong>Kubernetes &#x26; containers</strong>: Kubernetes, K3s, Rancher, Docker, containerd, Cilium, Knative, KEDA</li>
+      <li><strong>GitOps &#x26; CI/CD</strong>: FluxCD, Helm, GitLab CI, GitHub Actions</li>
+      <li><strong>Infrastructure as Code</strong>: Terraform, Ansible</li>
+      <li><strong>Cloud</strong>: Azure, GCP, nextlayer</li>
+      <li><strong>Observability</strong>: Prometheus, Grafana, ELK Stack</li>
+      <li><strong>Databases</strong>: PostgreSQL, MySQL, MariaDB, MongoDB, Redis</li>
+      <li><strong>Security &#x26; networking</strong>: Vault, NGINX, External DNS</li>
+      <li><strong>Systems</strong>: Linux, Git</li>
+      <li><strong>Spoken languages</strong>: German (native), English (fluent)</li>
     </ul>
-    <p><strong>BSc Business Informatics</strong> · <a href="https://www.wu.ac.at/">WU Vienna University of Economics and Business</a> · 2016 – 2020</p>
+    <h3 id="education"><a class="anchor" aria-hidden="true" tabindex="-1" href="#education"><span class="octicon octicon-link"></span></a>Education</h3>
+    <p><strong>MSc Software Engineering &#x26; Internet Computing</strong> · <a href="https://www.tuwien.at/">TU Wien</a> <em>2022 – present</em></p>
+    <ul>
+      <li>Focus: microservices and cloud computing</li>
+    </ul>
+    <p><strong>BSc Business Informatics</strong> · <a href="https://www.wu.ac.at/">WU Vienna University of Economics and Business</a> <em>2016 – 2020</em></p>
     <ul>
       <li>Thesis: <a href="https://aic.ai.wu.ac.at/~polleres/supervised_theses/Thomas_Weber_BSc_2020.pdf">Open Dataset Archive – Scalable dataset crawling with efficient archiving and the investigation of changes between versions</a></li>
       <li>Paper: <a href="https://aic.ai.wu.ac.at/~polleres/publications/webe-etal-2020ISWC.pdf">ODArchive – Creating an Archive for Structured Data from Open Data Portals</a></li>
     </ul>
-    <p><strong>High school diploma with honors, Tourism</strong> · <a href="https://www.hltsemmering.ac.at/">Tourismusschulen Semmering</a> · 2010 – 2015</p>
+    <p><strong>High school diploma with honors, Tourism</strong> · <a href="https://www.hltsemmering.ac.at/">Tourismusschulen Semmering</a> <em>2010 – 2015</em></p>
     <ul>
-      <li>Certified Tourism Manager · 3 years as student representative</li>
+      <li>Certified Tourism Manager; student representative for 3 years</li>
     </ul>
-    <h2 id="-stats"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-stats"><span class="octicon octicon-link"></span></a>📈 Stats</h2>
-    <p>
-      <img src="https://github-stats-extended.vercel.app/api?username=toms-place&#x26;count_private=false&#x26;theme=tokyonight&#x26;show_icons=true" alt="GitHub Stats">
-    </p>
-    <h3 id="-check-out-what-im-currently-working-on"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-check-out-what-im-currently-working-on"><span class="octicon octicon-link"></span></a>👷 Check out what I'm currently working on</h3>
+    <h2 id="open-source"><a class="anchor" aria-hidden="true" tabindex="-1" href="#open-source"><span class="octicon octicon-link"></span></a>Open source</h2>
+    <h3 id="currently-working-on"><a class="anchor" aria-hidden="true" tabindex="-1" href="#currently-working-on"><span class="octicon octicon-link"></span></a>Currently working on</h3>
     <ul>
       <li><a href="https://github.com/helmfile/helmfile">helmfile/helmfile</a> - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (3 months ago)</li>
       <li><a href="https://github.com/toms-place/karenzulator">toms-place/karenzulator</a> - Tagesgenaue Simulation auf Basis von §§ 24, 24a, 24b KBGG für die volle Periode 2 Jahre ab Geburt. Höchstbetrag, Wochengeld-Faktor, 61-Tage-Regel, max. 2 Wechsel sowie der Partnerschaftsbonus werden gesetzeskonform berücksichtigt. (5 months ago)</li>
       <li><a href="https://github.com/toms-place/wkid">toms-place/wkid</a> - WorkloadIdentity K8s JWKS server (1 year ago)</li>
     </ul>
-    <h3 id="-my-latest-projects"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-my-latest-projects"><span class="octicon octicon-link"></span></a>🌱 My latest projects</h3>
+    <h3 id="latest-projects"><a class="anchor" aria-hidden="true" tabindex="-1" href="#latest-projects"><span class="octicon octicon-link"></span></a>Latest projects</h3>
     <ul>
       <li><a href="https://github.com/toms-place/karenzulator">toms-place/karenzulator</a> - Tagesgenaue Simulation auf Basis von §§ 24, 24a, 24b KBGG für die volle Periode 2 Jahre ab Geburt. Höchstbetrag, Wochengeld-Faktor, 61-Tage-Regel, max. 2 Wechsel sowie der Partnerschaftsbonus werden gesetzeskonform berücksichtigt.</li>
       <li><a href="https://github.com/toms-place/wkid">toms-place/wkid</a> - WorkloadIdentity K8s JWKS server</li>
@@ -273,49 +277,25 @@ svg { z-index: 99; position: fixed; border: 0px; top: 0px; right: 0; }
       <li><a href="https://github.com/toms-place/k3c">toms-place/k3c</a> - k3s setup with docker-compose</li>
       <li><a href="https://github.com/toms-place/helm-global-values-sharing-between-charts">toms-place/helm-global-values-sharing-between-charts</a> - Just a demo repo to showcase helm global values to share values between subcharts.</li>
     </ul>
-    <h3 id="-my-recent-forks"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-my-recent-forks"><span class="octicon octicon-link"></span></a>🍴 My recent forks</h3>
-    <ul>
-      <li><a href="https://github.com/toms-place/helmfile">toms-place/helmfile</a> - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.</li>
-      <li><a href="https://github.com/toms-place/karenz-wizard">toms-place/karenz-wizard</a> - Planer für Elternkarenz und einkommensabhängiges Kinderbetreuungsgeld. Proof of concept, um zu zeigen dass ein Online-Tool easy möglich wäre für schmerzfreiere Karenzplanung in Österreich!</li>
-      <li><a href="https://github.com/toms-place/eti-compose">toms-place/eti-compose</a> - An ETI sync server powered by a snake and a whale</li>
-      <li><a href="https://github.com/toms-place/cdn-apiserver">toms-place/cdn-apiserver</a> - A Kubernetes sample API server that demonstrates how to build a custom aggregated API server with file/CDN management capabilities.</li>
-      <li><a href="https://github.com/toms-place/helm-secrets">toms-place/helm-secrets</a> - A helm plugin that help manage secrets with Git workflow and store them anywhere</li>
-    </ul>
-    <h3 id="-latest-releases-ive-contributed-to"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-latest-releases-ive-contributed-to"><span class="octicon octicon-link"></span></a>🔭 Latest releases I've contributed to</h3>
+    <h3 id="releases-i-contributed-to"><a class="anchor" aria-hidden="true" tabindex="-1" href="#releases-i-contributed-to"><span class="octicon octicon-link"></span></a>Releases I contributed to</h3>
     <ul>
       <li><a href="https://github.com/helmfile/helmfile">helmfile/helmfile</a> (<a href="https://github.com/helmfile/helmfile/releases/tag/v1.8.4">v1.8.4</a>, 1 week ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.</li>
       <li><a href="https://github.com/toms-place/wkid">toms-place/wkid</a> (<a href="https://github.com/toms-place/wkid/releases/tag/v0.0.7">v0.0.7</a>, 1 year ago) - WorkloadIdentity K8s JWKS server</li>
     </ul>
-    <h3 id="-my-recent-pull-requests"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-my-recent-pull-requests"><span class="octicon octicon-link"></span></a>🔨 My recent Pull Requests</h3>
+    <h3 id="recent-pull-requests"><a class="anchor" aria-hidden="true" tabindex="-1" href="#recent-pull-requests"><span class="octicon octicon-link"></span></a>Recent pull requests</h3>
     <ul>
       <li><a href="https://github.com/helmfile/helmfile/pull/2743">fix(#2741): prefetch shared remote charts instead of serializing sync</a> on <a href="https://github.com/helmfile/helmfile">helmfile/helmfile</a> (3 months ago)</li>
       <li><a href="https://github.com/jkroepke/helm-secrets/pull/531">fix(#530): move deprecated command to platformCommand section</a> on <a href="https://github.com/jkroepke/helm-secrets">jkroepke/helm-secrets</a> (2 years ago)</li>
       <li><a href="https://github.com/elastic/integrations/pull/12865">Add custom configuration to nginx/metrics</a> on <a href="https://github.com/elastic/integrations">elastic/integrations</a> (2 years ago)</li>
       <li><a href="https://github.com/elastic/apm-k8s-attacher/pull/131">fix(#130): add SecurityContext to createInitContainerPatch</a> on <a href="https://github.com/elastic/apm-k8s-attacher">elastic/apm-k8s-attacher</a> (2 years ago)</li>
     </ul>
-    <h3 id="-gists-i-wrote"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-gists-i-wrote"><span class="octicon octicon-link"></span></a>📓 Gists I wrote</h3>
+    <h3 id="gists"><a class="anchor" aria-hidden="true" tabindex="-1" href="#gists"><span class="octicon octicon-link"></span></a>Gists</h3>
     <ul>
       <li><a href="https://gist.github.com/be319c6705a3d197de021c7ac52ddd7f">TPM-backed LUKS unlock with systemd-cryptenroll</a> (4 months ago)</li>
       <li><a href="https://gist.github.com/6f0e2f3f2c50c501357780af2a46ad96">Sourcing Environment Variables from Hashicorp Vault with bash</a> (3 years ago)</li>
       <li><a href="https://gist.github.com/44f7dd8a12693304d3a8f6a3f31ceb74">kubectl run with volume mount</a> (3 years ago)</li>
     </ul>
-    <h3 id="-recent-stars"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-recent-stars"><span class="octicon octicon-link"></span></a>⭐ Recent Stars</h3>
-    <ul>
-      <li><a href="https://github.com/bilawalsidhu/gods-eye-view">bilawalsidhu/gods-eye-view</a> - God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai (2 months ago)</li>
-      <li><a href="https://github.com/CoreBunch/Instatic">CoreBunch/Instatic</a> - The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. (2 months ago)</li>
-      <li><a href="https://github.com/AshishKapoor/fintrack">AshishKapoor/fintrack</a> - FinTrack by Sannty | Your financial success starts here (2 months ago)</li>
-      <li><a href="https://github.com/omacom/omarchy">omacom/omarchy</a> - Beautiful, Modern &#x26; Opinionated Linux (2 months ago)</li>
-      <li><a href="https://github.com/abcdesktopio/images">abcdesktopio/images</a> - images repository (2 months ago)</li>
-    </ul>
-    <h3 id="-check-out-some-of-my-recent-followers"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-check-out-some-of-my-recent-followers"><span class="octicon octicon-link"></span></a>👯 Check out some of my recent followers</h3>
-    <ul>
-      <li><a href="https://github.com/TranscranialAvenue">TranscranialAvenue</a></li>
-      <li><a href="https://github.com/standardgalactic">standardgalactic</a></li>
-      <li><a href="https://github.com/patrickpichler">patrickpichler</a></li>
-      <li><a href="https://github.com/inkrement">inkrement</a></li>
-      <li><a href="https://github.com/LaserKaspar">LaserKaspar</a></li>
-    </ul>
-    <h4 id="-this-profile-was-generated-with-readme-scribe"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-this-profile-was-generated-with-readme-scribe"><span class="octicon octicon-link"></span></a>🤖 This profile was generated with <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>!</h4>
+    <p><sub>This page is updated daily with <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub></p>
     <script>/*! @uiw/copy-to-clipboard v1.0.12 | MIT (c) 2021 Kenny Wang | https://github.com/uiwjs/copy-to-clipboard.git */
 !function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t():"function"==typeof define&&define.amd?define(t):(e="undefined"!=typeof globalThis?globalThis:e||self).copyTextToClipboard=t()}(this,(function(){"use strict";return function(e,t){const o=document.createElement("textarea");o.value=e,o.setAttribute("readonly",""),o.style={position:"absolute",left:"-9999px"},document.body.appendChild(o);const n=document.getSelection().rangeCount>0&&document.getSelection().getRangeAt(0);o.select();let c=!1;try{c=!!document.execCommand("copy")}catch(e){c=!1}document.body.removeChild(o),n&&document.getSelection&&(document.getSelection().removeAllRanges(),document.getSelection().addRange(n)),t&&t(c)}}));
 
