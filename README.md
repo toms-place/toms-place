@@ -1,21 +1,16 @@
-
 <img src="https://avatars.githubusercontent.com/u/2061183?v=4&s=240" alt="Thomas Hanser" width="120" align="right">
 
 # Thomas Hanser
 
-Hi, I'm Thomas. Welcome! 👋
-
 ## Platform Engineer
 
-I'm a Platform Engineer with a passion for Kubernetes, GitOps, and cloud-native technologies. I love to automate processes and make things easier for developers.
-I enjoy working with tools like Terraform, Helm, and FluxCD to build scalable and reliable infrastructure.
+Hi, I'm Thomas! 👋 Welcome to my GitHub profile and website.
 
-When I'm not coding, you can find me biking, playing padel tennis or spending time with my family.
-I also love to share my knowledge and experiences with others.
-I believe in the power of open source and love to contribute to projects that make a difference.
-I am always looking for new challenges and opportunities to learn and grow. If you have an interesting project or idea, feel free to reach out!
+Platform Engineer focused on Kubernetes, GitOps and cloud-native infrastructure. I move workloads from virtual machines to Kubernetes, automate release processes, and build scalable, reliable platforms with Terraform, Helm and FluxCD, so that developers can ship with less effort.
 
-### 📫 How to reach me
+Outside work I go cycling, play padel tennis and spend time with my family. I believe in open source and like to share what I learn. If you have an interesting project or idea, feel free to reach out.
+
+### 📫 Contact
 
 - Web: [toms.place](https://toms.place)
 - Mail: [hello@toms.place](mailto:hello@toms.place)
@@ -23,62 +18,65 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 - GitHub: [github.com/toms-place](https://github.com/toms-place)
 - Blog: [toms.place blog](pages/blog.md)
 
-### 🛠️ My skills
+### 💼 Experience
 
-- **Languages**: Java, TypeScript, Python, Go, Bash
-- **Cloud**: Azure, nextlayer, GCP
-- **Containerization**: Kubernetes, Docker, containerd, Rancher
-- **CI/CD**: GitLab CI, GitHub Actions, FluxCD
-- **Infrastructure as Code**: Terraform, Ansible
-- **Monitoring**: Prometheus, Grafana, ELK Stack
-- **Databases**: PostgreSQL, MySQL, MariaDB, MongoDB
-- **Version Control**: Git, GitHub, GitLab
-- **Operating Systems**: Linux, macOS, Windows
-- **Other**: Helm, Cilium, K3s, NGINX, Vault, Redis, External DNS, Knative, KEDA
-- **Soft Skills**: Teamwork, Communication, Problem Solving, Adaptability
-- **Spoken languages**: German (native), English (fluent)
-
-### 💼 Career
-
-**Platform Engineer & DevOps Advocate** · [Untis GmbH](https://www.untis.at/) · Full-time · 2023 – Present
+**Platform Engineer & DevOps Advocate** · [Untis GmbH](https://www.untis.at/) *2023 – present*
 - Moved the complete VM-based application stack to containerized deployments on Kubernetes
 - Automated the release process end to end with GitOps, from build to production rollout
 - Drive platform engineering, DevOps practices and cloud-native adoption across teams
-- Kubernetes · GitOps · Terraform · Helm · FluxCD
+- Stack: Kubernetes, GitOps, Terraform, Helm, FluxCD
 
-**DevOps / Cloud Engineer** · [WU Vienna University of Economics and Business](https://www.wu.ac.at/) · Part-time · 2020 – 2023
-- System Administration at the Institute for Data, Process and Knowledge Management
-- Austrian DataLab and Services · IT-Services · Server Infrastructure
+**DevOps / Cloud Engineer** (part-time) · [WU Vienna University of Economics and Business](https://www.wu.ac.at/) *2020 – 2023*
+- System administration for the Institute for Data, Process and Knowledge Management
+- Server infrastructure and IT services for the Austrian DataLab and Services project
 
-**Internship** · [Bundesministerium](https://bmlrt.gv.at) (Nachhaltigkeit & Tourismus) · 2019 · 1 month
-- IKT Management · Web Development · GitLab CI/CD
+**Intern** · [Austrian Federal Ministry for Sustainability and Tourism](https://bmlrt.gv.at) *2019 · 1 month*
+- ICT management, web development and GitLab CI/CD
 
-**Working Student** · [Studo (Moshbit GmbH)](https://studo.co) · 2018 · 2 months
-- Project Management · App Development
+**Working Student** · [Studo (Moshbit GmbH)](https://studo.co) *2018 · 2 months*
+- Project management and app development
 
-### 📚 Education
+### 🛠️ Skills
 
-**MSc Software Engineering & Internet Computing** · [TU Wien](https://www.tuwien.at/) · 2022 – ongoing
-- Focus: Microservices & Cloud Computing
+- **Languages**: Java, TypeScript, Python, Go, Bash
+- **Kubernetes & containers**: Kubernetes, K3s, Rancher, Docker, containerd, Cilium, Knative, KEDA
+- **GitOps & CI/CD**: FluxCD, Helm, GitLab CI, GitHub Actions
+- **Infrastructure as Code**: Terraform, Ansible
+- **Cloud**: Azure, GCP, nextlayer
+- **Observability**: Prometheus, Grafana, ELK Stack
+- **Databases**: PostgreSQL, MySQL, MariaDB, MongoDB, Redis
+- **Security & networking**: Vault, NGINX, External DNS
+- **Systems**: Linux, Git
+- **Spoken languages**: German (native), English (fluent)
 
-**BSc Business Informatics** · [WU Vienna University of Economics and Business](https://www.wu.ac.at/) · 2016 – 2020
+![Tech stack](https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,githubactions,gitlab,azure,gcp,prometheus,grafana,go,python,ts,java,bash,postgres,mysql,mongodb,redis,nginx,linux,git&perline=11)
+
+### 🎓 Education
+
+**MSc Software Engineering & Internet Computing** · [TU Wien](https://www.tuwien.at/) *2022 – present*
+- Focus: microservices and cloud computing
+
+**BSc Business Informatics** · [WU Vienna University of Economics and Business](https://www.wu.ac.at/) *2016 – 2020*
 - Thesis: [Open Dataset Archive – Scalable dataset crawling with efficient archiving and the investigation of changes between versions](https://aic.ai.wu.ac.at/~polleres/supervised_theses/Thomas_Weber_BSc_2020.pdf)
 - Paper: [ODArchive – Creating an Archive for Structured Data from Open Data Portals](https://aic.ai.wu.ac.at/~polleres/publications/webe-etal-2020ISWC.pdf)
 
-**High school diploma with honors, Tourism** · [Tourismusschulen Semmering](https://www.hltsemmering.ac.at/) · 2010 – 2015
-- Certified Tourism Manager · 3 years as student representative
+**High school diploma with honors, Tourism** · [Tourismusschulen Semmering](https://www.hltsemmering.ac.at/) *2010 – 2015*
+- Certified Tourism Manager; student representative for 3 years
 
-## 📈 Stats
+## 💻 Open source
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=toms-place&count_private=false&theme=tokyonight&show_icons=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=toms-place&count_private=false&show_icons=true&hide_border=true&disable_animations=true&theme=github_dark">
+  <img src="https://github-stats-extended.vercel.app/api?username=toms-place&count_private=false&show_icons=true&hide_border=true&disable_animations=true&theme=default" alt="GitHub stats">
+</picture>
 
-### 👷 Check out what I'm currently working on
+### 👷 Currently working on
 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (3 months ago)
 - [toms-place/karenzulator](https://github.com/toms-place/karenzulator) - Tagesgenaue Simulation auf Basis von §§ 24, 24a, 24b KBGG für die volle Periode 2 Jahre ab Geburt. Höchstbetrag, Wochengeld-Faktor, 61-Tage-Regel, max. 2 Wechsel sowie der Partnerschaftsbonus werden gesetzeskonform berücksichtigt. (5 months ago)
 - [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (1 year ago)
 
-### 🌱 My latest projects
+### 🌱 Latest projects
 
 - [toms-place/karenzulator](https://github.com/toms-place/karenzulator) - Tagesgenaue Simulation auf Basis von §§ 24, 24a, 24b KBGG für die volle Periode 2 Jahre ab Geburt. Höchstbetrag, Wochengeld-Faktor, 61-Tage-Regel, max. 2 Wechsel sowie der Partnerschaftsbonus werden gesetzeskonform berücksichtigt.
 - [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server
@@ -86,46 +84,22 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 - [toms-place/k3c](https://github.com/toms-place/k3c) - k3s setup with docker-compose
 - [toms-place/helm-global-values-sharing-between-charts](https://github.com/toms-place/helm-global-values-sharing-between-charts) - Just a demo repo to showcase helm global values to share values between subcharts.
 
-### 🍴 My recent forks
-
-- [toms-place/helmfile](https://github.com/toms-place/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [toms-place/karenz-wizard](https://github.com/toms-place/karenz-wizard) - Planer für Elternkarenz und einkommensabhängiges Kinderbetreuungsgeld. Proof of concept, um zu zeigen dass ein Online-Tool easy möglich wäre für schmerzfreiere Karenzplanung in Österreich!
-- [toms-place/eti-compose](https://github.com/toms-place/eti-compose) - An ETI sync server powered by a snake and a whale
-- [toms-place/cdn-apiserver](https://github.com/toms-place/cdn-apiserver) - A Kubernetes sample API server that demonstrates how to build a custom aggregated API server with file/CDN management capabilities.
-- [toms-place/helm-secrets](https://github.com/toms-place/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-
-### 🔭 Latest releases I've contributed to
+### 🔭 Releases I contributed to
 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.8.4](https://github.com/helmfile/helmfile/releases/tag/v1.8.4), 1 week ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [toms-place/wkid](https://github.com/toms-place/wkid) ([v0.0.7](https://github.com/toms-place/wkid/releases/tag/v0.0.7), 1 year ago) - WorkloadIdentity K8s JWKS server
 
-### 🔨 My recent Pull Requests
+### 🔨 Recent pull requests
 
 - [fix(#2741): prefetch shared remote charts instead of serializing sync](https://github.com/helmfile/helmfile/pull/2743) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (3 months ago)
 - [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 years ago)
 - [Add custom configuration to nginx/metrics](https://github.com/elastic/integrations/pull/12865) on [elastic/integrations](https://github.com/elastic/integrations) (2 years ago)
 - [fix(#130): add SecurityContext to createInitContainerPatch](https://github.com/elastic/apm-k8s-attacher/pull/131) on [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) (2 years ago)
 
-### 📓 Gists I wrote
+### 📓 Gists
 
 - [TPM-backed LUKS unlock with systemd-cryptenroll](https://gist.github.com/be319c6705a3d197de021c7ac52ddd7f) (4 months ago)
 - [Sourcing Environment Variables from Hashicorp Vault with bash](https://gist.github.com/6f0e2f3f2c50c501357780af2a46ad96) (3 years ago)
 - [kubectl run with volume mount](https://gist.github.com/44f7dd8a12693304d3a8f6a3f31ceb74) (3 years ago)
 
-### ⭐ Recent Stars
-
-- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai (2 months ago)
-- [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) - The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.  (2 months ago)
-- [AshishKapoor/fintrack](https://github.com/AshishKapoor/fintrack) - FinTrack by Sannty | Your financial success starts here (2 months ago)
-- [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux (2 months ago)
-- [abcdesktopio/images](https://github.com/abcdesktopio/images) - images repository (2 months ago)
-
-### 👯 Check out some of my recent followers
-
-- [TranscranialAvenue](https://github.com/TranscranialAvenue)
-- [standardgalactic](https://github.com/standardgalactic)
-- [patrickpichler](https://github.com/patrickpichler)
-- [inkrement](https://github.com/inkrement)
-- [LaserKaspar](https://github.com/LaserKaspar)
-
-#### 🤖 This profile was generated with [readme-scribe](https://github.com/muesli/readme-scribe)!
+<sub>🤖 This page is updated daily with [readme-scribe](https://github.com/muesli/readme-scribe).</sub>
