@@ -44,11 +44,11 @@ dark-mode::part(icon) { display: block; width: 1em; height: 1em; text-align: cen
 /* GitHub corner: light triangle on the dark theme (the inline style is fixed dark) */
 [data-color-mode*="dark"] body > svg a { fill: #e6edf3 !important; color: #0d1117 !important; }
 
-/* Avatar: square with rounded corners.
-   The base style adds padding-left: 20px to align=right images; remove it. */
+/* Avatar: square with rounded corners, on the left so it stays clear of the GitHub corner.
+   The base style adds side padding to aligned images; remove it. */
 .markdown-style img[alt="Thomas Hanser"] {
   padding: 0 !important; box-sizing: border-box; width: 120px; height: 120px; aspect-ratio: 1 / 1;
-  object-fit: cover; border-radius: 16%; margin: 0 0 8px 16px; background: transparent;
+  object-fit: cover; border-radius: 16%; margin: 0 20px 8px 0; background: transparent;
 }
 @media (max-width: 500px) { .markdown-style img[alt="Thomas Hanser"] { width: 80px; height: 80px; } }
 
@@ -104,12 +104,13 @@ dark-mode::part(icon) { display: block; width: 1em; height: 1em; text-align: cen
   .markdown-style [id$="contact"] + ul li:last-child { display: none !important; }
   .markdown-style p:has(> img[alt="Tech stack"]) { display: none !important; }
 
-  /* Header: name, title, contacts, avatar on the right */
-  .markdown-style > img[alt="Thomas Hanser"] { position: absolute; top: 0; right: 0; width: 26mm !important; height: 26mm !important; margin: 0 !important; }
+  /* Header: avatar on the left, then name, title and contacts */
+  .markdown-style > img[alt="Thomas Hanser"] { position: absolute; top: 0; left: 0; width: 26mm !important; height: 26mm !important; margin: 0 !important; }
   .markdown-style > h1 { order: 1; font-size: 22pt !important; line-height: 1.1 !important; margin: 0 !important; }
   .markdown-style > h2#platform-engineer { order: 2; font-size: 12pt !important; margin: 0 0 2mm !important; }
   .markdown-style [id$="contact"] + ul { order: 3; margin: 0 0 3mm !important; padding-left: 0 !important; font-size: 9pt; color: #57606a; gap: 0 5mm !important; }
-  .markdown-style > h1, .markdown-style > h2, [id$="contact"] + ul { padding-right: 32mm !important; }
+  .markdown-style > h1, .markdown-style > h2, .markdown-style [id$="contact"] + ul { padding-left: 31mm !important; }
+  .markdown-style > h2 + p + p { margin-top: 2mm !important; }
   .markdown-style > h2 + p + p { margin-bottom: 1mm !important; }
 
   /* Sections */
@@ -218,7 +219,7 @@ svg { z-index: 99; position: fixed; border: 0px; top: 0px; right: 0; }
     .wrapper { cursor: pointer; user-select: none; position: relative; }
     .wrapper > span + span { margin-left: .4rem; }
     `;s.appendChild(a)}i(t,e){this.dispatchEvent(new CustomEvent(t,{bubbles:true,composed:true,detail:e}))}}customElements.define("dark-mode",a);</script><div style="max-width: 960px; margin: 0 auto 60px auto; padding: 8px;max-width: 960px;" class="markdown-style">
-    <img src="https://avatars.githubusercontent.com/u/2061183?v=4&#x26;s=240" alt="Thomas Hanser" width="120" align="right">
+    <img src="https://avatars.githubusercontent.com/u/2061183?v=4&#x26;s=240" alt="Thomas Hanser" width="120" align="left">
     <h1 id="thomas-hanser"><a class="anchor" aria-hidden="true" tabindex="-1" href="#thomas-hanser"><span class="octicon octicon-link"></span></a>Thomas Hanser</h1>
     <h2 id="platform-engineer"><a class="anchor" aria-hidden="true" tabindex="-1" href="#platform-engineer"><span class="octicon octicon-link"></span></a>Platform Engineer</h2>
     <p>Hi, I'm Thomas! 👋 Welcome to my GitHub profile and website.</p>
