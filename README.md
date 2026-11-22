@@ -91,7 +91,6 @@ Outside work I go cycling, play padel tennis and spend time with my family. I be
 ### 🔨 Recent pull requests
 
 - [fix(#2741): prefetch shared remote charts instead of serializing sync](https://github.com/helmfile/helmfile/pull/2743) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (3 months ago)
-- [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 years ago)
 
 ### 📓 Gists
 
