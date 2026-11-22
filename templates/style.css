@@ -35,6 +35,29 @@ dark-mode::part(icon) { display: block; width: 1em; height: 1em; text-align: cen
 }
 @media (max-width: 500px) { .markdown-style img[alt="Thomas Hanser"] { width: 80px; height: 80px; } }
 
+/* Header grid: the picture on the left; name, title and greeting on the right.
+   The name starts at the top edge of the picture and the greeting ends at its bottom edge. */
+@media screen {
+  .markdown-style { display: grid !important; grid-template-columns: auto minmax(0, 1fr); column-gap: 20px; }
+  .markdown-style > * { grid-column: 1 / -1; min-width: 0; }
+  .markdown-style > img[alt="Thomas Hanser"] { grid-column: 1; grid-row: 1 / 4; align-self: start; float: none; margin: 0 !important; }
+  .markdown-style > h1 { grid-column: 2; grid-row: 1; align-self: start; margin: 0 !important; line-height: 1.1; }
+  .markdown-style > h2#platform-engineer { grid-column: 2; grid-row: 2; align-self: start; margin: 0 !important; line-height: 1.3; }
+  .markdown-style > h2#platform-engineer + p { grid-column: 2; grid-row: 3; align-self: end; margin: 0 !important; line-height: 1.3; }
+  .markdown-style > h2#platform-engineer + p + p { margin-top: 1.25em; }
+  /* In a grid, the space above and below blocks adds up instead of merging.
+     Most blocks already end with 16px of space, so remove that much from the tops. */
+  .markdown-style > h2:not(#platform-engineer), .markdown-style > h3 { margin-top: 8px !important; }
+  .markdown-style > p:has(> strong:first-child) { margin-top: 0 !important; }
+}
+/* Phones: the greeting needs several lines, so it goes under the header;
+   the picture then lines up with the name and title. */
+@media screen and (max-width: 600px) {
+  .markdown-style > img[alt="Thomas Hanser"] { grid-row: 1 / 3; }
+  .markdown-style > h2#platform-engineer { align-self: end; }
+  .markdown-style > h2#platform-engineer + p { grid-column: 1 / -1; margin-top: 0.9em !important; }
+}
+
 /* Name and title */
 .markdown-style > h1 { border-bottom: 0 !important; margin-bottom: 0 !important; padding-bottom: 0 !important; }
 .markdown-style > h1 .anchor, .markdown-style > h2:first-of-type .anchor { display: none; }
@@ -44,7 +67,7 @@ dark-mode::part(icon) { display: block; width: 1em; height: 1em; text-align: cen
 }
 
 /* Greeting under the name */
-.markdown-style > h2 + p { font-size: 1.1em; }
+.markdown-style > h2#platform-engineer + p { font-size: 1.1em; }
 
 /* Tech stack icons and stats card */
 .markdown-style img[alt="Tech stack"] { max-width: 100%; height: auto; }
