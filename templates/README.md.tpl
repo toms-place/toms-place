@@ -49,7 +49,8 @@ Outside work I go cycling, play padel tennis and spend time with my family. I be
 - **Systems**: Linux, Git
 - **Spoken languages**: German (native), English (fluent)
 
-![Tech stack](https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,githubactions,gitlab,azure,gcp,prometheus,grafana,go,python,ts,java,bash,postgres,mysql,mongodb,redis,nginx,linux,git&perline=11)
+![Tech stack](https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,githubactions,gitlab,azure,gcp,prometheus,grafana,go,python,ts,java,bash,postgres,mysql,mongodb,redis,nginx,linux,git&perline=11&theme=dark#gh-dark-mode-only)
+![Tech stack](https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,githubactions,gitlab,azure,gcp,prometheus,grafana,go,python,ts,java,bash,postgres,mysql,mongodb,redis,nginx,linux,git&perline=11&theme=light#gh-light-mode-only)
 
 ### 🎓 Education
 
@@ -65,10 +66,8 @@ Outside work I go cycling, play padel tennis and spend time with my family. I be
 
 ## 💻 Open source
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=toms-place&count_private=false&show_icons=true&hide_border=true&disable_animations=true&theme=github_dark">
-  <img src="https://github-stats-extended.vercel.app/api?username=toms-place&count_private=false&show_icons=true&hide_border=true&disable_animations=true&theme=default" alt="GitHub stats">
-</picture>
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=toms-place&count_private=false&show_icons=true&hide_border=true&disable_animations=true&theme=github_dark#gh-dark-mode-only)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=toms-place&count_private=false&show_icons=true&hide_border=true&disable_animations=true&theme=default#gh-light-mode-only)
 
 ### 👷 Currently working on
 {{range recentContributions 5}}

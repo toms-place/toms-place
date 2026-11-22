@@ -19,14 +19,30 @@
 
 /* ---------- Screen ---------- */
 
-/* Keep the dark-mode button and GitHub corner off the heading */
+/* Keep the GitHub corner off the heading on narrow screens */
 @media (max-width: 1100px) { body { padding-top: 40px; } }
 
-/* Dark-mode button: same font as the page */
+/* Dark-mode button: a small icon in the bottom-right corner.
+   The tool puts top/left in an inline style, so !important is needed. */
 dark-mode {
-  font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-  color: var(--color-fg-muted, #57606a);
+  top: auto !important; left: auto !important; bottom: 14px !important; right: 14px !important;
+  font: 16px/1 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  padding: 8px; border-radius: 999px; background: var(--color-canvas-subtle, #f6f8fa);
+  border: 1px solid var(--color-border-muted, #d0d7de);
+  opacity: 0.55; transition: opacity 0.2s;
 }
+dark-mode:hover, dark-mode:focus-within { opacity: 1; }
+body { padding-bottom: 56px; } /* the end of the page stays clear of the button */
+dark-mode::part(text) { display: none; }
+dark-mode::part(icon) { display: block; width: 1em; height: 1em; text-align: center; }
+
+/* Light and dark versions of the stats card and tech icons.
+   GitHub uses the #gh-*-mode-only tags; on this site, follow the toggle. */
+[data-color-mode*="dark"] img[src$="#gh-light-mode-only"],
+[data-color-mode*="light"] img[src$="#gh-dark-mode-only"] { display: none; }
+
+/* GitHub corner: light triangle on the dark theme (the inline style is fixed dark) */
+[data-color-mode*="dark"] body > svg a { fill: #e6edf3 !important; color: #0d1117 !important; }
 
 /* Avatar: square with rounded corners.
    The base style adds padding-left: 20px to align=right images; remove it. */
@@ -49,7 +65,7 @@ dark-mode {
 
 /* Tech stack icons and stats card */
 .markdown-style img[alt="Tech stack"] { max-width: 100%; height: auto; }
-.markdown-style picture img[alt="GitHub stats"] { max-width: 100%; height: auto; }
+.markdown-style img[alt="GitHub stats"] { max-width: 100%; height: auto; }
 
 /* Job and degree lines: title and place on the left, dates on the right */
 .markdown-style p:has(> strong:first-child) {
@@ -251,7 +267,8 @@ svg { z-index: 99; position: fixed; border: 0px; top: 0px; right: 0; }
       <li><strong>Spoken languages</strong>: German (native), English (fluent)</li>
     </ul>
     <p>
-      <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,githubactions,gitlab,azure,gcp,prometheus,grafana,go,python,ts,java,bash,postgres,mysql,mongodb,redis,nginx,linux,git&#x26;perline=11" alt="Tech stack">
+      <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,githubactions,gitlab,azure,gcp,prometheus,grafana,go,python,ts,java,bash,postgres,mysql,mongodb,redis,nginx,linux,git&#x26;perline=11&#x26;theme=dark#gh-dark-mode-only" alt="Tech stack">
+      <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,githubactions,gitlab,azure,gcp,prometheus,grafana,go,python,ts,java,bash,postgres,mysql,mongodb,redis,nginx,linux,git&#x26;perline=11&#x26;theme=light#gh-light-mode-only" alt="Tech stack">
     </p>
     <h3 id="-education"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-education"><span class="octicon octicon-link"></span></a>🎓 Education</h3>
     <p><strong>MSc Software Engineering &#x26; Internet Computing</strong> · <a href="https://www.tuwien.at/">TU Wien</a> <em>2022 – present</em></p>
@@ -268,10 +285,10 @@ svg { z-index: 99; position: fixed; border: 0px; top: 0px; right: 0; }
       <li>Certified Tourism Manager; student representative for 3 years</li>
     </ul>
     <h2 id="-open-source"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-open-source"><span class="octicon octicon-link"></span></a>💻 Open source</h2>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=toms-place&#x26;count_private=false&#x26;show_icons=true&#x26;hide_border=true&#x26;disable_animations=true&#x26;theme=github_dark">
-      <img src="https://github-stats-extended.vercel.app/api?username=toms-place&#x26;count_private=false&#x26;show_icons=true&#x26;hide_border=true&#x26;disable_animations=true&#x26;theme=default" alt="GitHub stats">
-    </picture>
+    <p>
+      <img src="https://github-stats-extended.vercel.app/api?username=toms-place&#x26;count_private=false&#x26;show_icons=true&#x26;hide_border=true&#x26;disable_animations=true&#x26;theme=github_dark#gh-dark-mode-only" alt="GitHub stats">
+      <img src="https://github-stats-extended.vercel.app/api?username=toms-place&#x26;count_private=false&#x26;show_icons=true&#x26;hide_border=true&#x26;disable_animations=true&#x26;theme=default#gh-light-mode-only" alt="GitHub stats">
+    </p>
     <h3 id="-currently-working-on"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-currently-working-on"><span class="octicon octicon-link"></span></a>👷 Currently working on</h3>
     <ul>
       <li><a href="https://github.com/helmfile/helmfile">helmfile/helmfile</a> - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (3 months ago)</li>
@@ -304,6 +321,14 @@ svg { z-index: 99; position: fixed; border: 0px; top: 0px; right: 0; }
       <li><a href="https://gist.github.com/44f7dd8a12693304d3a8f6a3f31ceb74">kubectl run with volume mount</a> (3 years ago)</li>
     </ul>
     <p><sub>🤖 This page is updated daily with <a href="https://github.com/muesli/readme-scribe">readme-scribe</a>.</sub></p>
+    <script>// Default to dark mode until the visitor picks a theme with the toggle.
+(function () {
+  var key = "_dark_mode_theme_", saved = null;
+  try { saved = localStorage.getItem(key); } catch (e) {}
+  if (saved !== "light" && saved !== "dark") {
+    document.documentElement.setAttribute("data-color-mode", "dark");
+  }
+})();</script>
     <script>/*! @uiw/copy-to-clipboard v1.0.12 | MIT (c) 2021 Kenny Wang | https://github.com/uiwjs/copy-to-clipboard.git */
 !function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t():"function"==typeof define&&define.amd?define(t):(e="undefined"!=typeof globalThis?globalThis:e||self).copyTextToClipboard=t()}(this,(function(){"use strict";return function(e,t){const o=document.createElement("textarea");o.value=e,o.setAttribute("readonly",""),o.style={position:"absolute",left:"-9999px"},document.body.appendChild(o);const n=document.getSelection().rangeCount>0&&document.getSelection().getRangeAt(0);o.select();let c=!1;try{c=!!document.execCommand("copy")}catch(e){c=!1}document.body.removeChild(o),n&&document.getSelection&&(document.getSelection().removeAllRanges(),document.getSelection().addRange(n)),t&&t(c)}}));
 

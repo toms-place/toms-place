@@ -49,6 +49,9 @@
           "rel": "icon",
           "href": "https://avatars.githubusercontent.com/u/2061183?v=4&s=48"
         }
+      ],
+      "script": [
+        "// Default to dark mode until the visitor picks a theme with the toggle.\n(function () {\n  var key = \"_dark_mode_theme_\", saved = null;\n  try { saved = localStorage.getItem(key); } catch (e) {}\n  if (saved !== \"light\" && saved !== \"dark\") {\n    document.documentElement.setAttribute(\"data-color-mode\", \"dark\");\n  }\n})();"
       ]
     },
     "github-corners": "https://github.com/toms-place",
