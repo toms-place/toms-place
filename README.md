@@ -92,7 +92,6 @@ Outside work I go cycling, play padel tennis and spend time with my family. I be
 
 - [fix(#2741): prefetch shared remote charts instead of serializing sync](https://github.com/helmfile/helmfile/pull/2743) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (3 months ago)
 - [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 years ago)
-- [Add custom configuration to nginx/metrics](https://github.com/elastic/integrations/pull/12865) on [elastic/integrations](https://github.com/elastic/integrations) (2 years ago)
 
 ### 📓 Gists
 
