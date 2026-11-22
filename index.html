@@ -15,7 +15,76 @@
     <meta name="twitter:card" content="summary">
     <link rel="canonical" href="https://toms.place/">
     <link rel="icon" href="https://avatars.githubusercontent.com/u/2061183?v=4&#x26;s=48">
-    <style>@media (max-width: 1100px) { body { padding-top: 40px; } }</style>
+    <style>/* Extra styles for toms.place. Built into index.html by markdown-to-html-cli. */
+
+/* Screen: keep the dark-mode button and GitHub corner off the heading */
+@media (max-width: 1100px) { body { padding-top: 40px; } }
+
+/* Avatar next to the name */
+img[alt="Thomas Hanser"] { border-radius: 50%; margin: 0 0 8px 16px; background: transparent; }
+@media (max-width: 500px) { img[alt="Thomas Hanser"] { width: 80px; } }
+
+/* ---------- Print: one-page A4 CV ---------- */
+@media print {
+  @page { size: A4; margin: 14mm 16mm; }
+  :root, html, body, [data-color-mode] body { color-scheme: light !important; background: #fff !important; color: #1f2328 !important; padding: 0 !important; }
+  dark-mode, body > svg, .anchor { display: none !important; }
+  .markdown-style { max-width: none !important; margin: 0 !important; padding: 0 !important;
+    font-size: 9.6pt !important; line-height: 1.38 !important; color: #1f2328 !important; background: #fff !important;
+    --color-fg-default:#1f2328; --color-fg-muted:#57606a; --color-accent-fg:#0b5cad; --color-border-muted:#d0d7de; }
+  .markdown-style a { color: inherit !important; text-decoration: none !important; }
+  /* hide everything from the Stats section on */
+  #-stats, #-stats ~ * { display: none !important; }
+  /* hide the welcome line */
+  .markdown-style > h1 + p { display: none !important; }
+  /* header */
+  .markdown-style h1 { font-size: 22pt !important; border: 0 !important; margin: 0 0 1mm !important; padding: 0 !important; }
+  .markdown-style h1 a { display: none !important; }
+  .markdown-style h1 { line-height: 1.1 !important; }
+  .markdown-style h2 { font-size: 12pt !important; border: 0 !important; margin: 0 0 3mm !important; padding: 0 !important; color: #57606a !important; font-weight: 500 !important; }
+  .markdown-style h2 a { display: none !important; }
+  .markdown-style h3 { font-size: 10.5pt !important; text-transform: uppercase; letter-spacing: .06em;
+    border-bottom: 0.6pt solid #d0d7de !important; padding-bottom: 1mm !important; margin: 4mm 0 2mm !important; color: #0b5cad !important; }
+  .markdown-style p { margin: 0 0 1.5mm !important; }
+  .markdown-style ul { margin: 0 0 2.2mm !important; padding-left: 4.5mm !important; }
+  .markdown-style li + li { margin-top: 0 !important; }
+  /* contact list in one row, placed under the title */
+  #-how-to-reach-me { display: none !important; }
+  #-how-to-reach-me + ul { list-style: none; padding: 0 !important; display: flex; gap: 6mm; flex-wrap: wrap; margin-bottom: 1mm !important; }
+  /* skills in two columns */
+  [id$="-my-skills"] + ul { columns: 2; column-gap: 8mm; }
+  [id$="-my-skills"] + ul li { break-inside: avoid; }
+  /* keep a job title with its details */
+  .markdown-style p:has(> strong:first-child) { break-after: avoid; margin-top: 2mm !important; }
+  .markdown-style ul { break-inside: avoid; }
+}
+@media print {
+  /* summary: keep only the first paragraph on paper */
+  .markdown-style > h2 + p + p { display: none !important; }
+  .markdown-style > h2 + p { margin-bottom: 2.5mm !important; }
+  /* contacts row: hide the blog item on paper */
+  #-how-to-reach-me + ul li:last-child { display: none !important; }
+  #-how-to-reach-me + ul { margin-bottom: 0 !important; font-size: 9pt; color: #57606a; }
+  .markdown-style > h1 { margin-bottom: 0 !important; }
+  .markdown-style > h2 { margin-bottom: 2mm !important; }
+  /* contacts come first visually: move them under the title */
+  .markdown-style { display: flex !important; flex-direction: column; }
+  .markdown-style > h1 { order: 1; } .markdown-style > h2 { order: 2; }
+  #-how-to-reach-me + ul { order: 3; margin: 0 0 3mm !important; }
+  .markdown-style > * { order: 4; }
+}
+@media print {
+  #-how-to-reach-me + ul { gap: 0 5mm !important; }
+  #-how-to-reach-me + ul li { margin: 0 !important; }
+}
+@media print {
+  .markdown-style { position: relative; }
+  /* take the avatar out of the flow and pin it to the top right */
+  .markdown-style > img[alt="Thomas Hanser"] { position: absolute; top: 0; right: 0; width: 26mm !important; height: 26mm !important; margin: 0 !important; }
+  /* the welcome line now follows h1 directly; contacts + summary need room for the avatar */
+  .markdown-style > h1, .markdown-style > h2, #-how-to-reach-me + ul { padding-right: 32mm !important; }
+}
+</style>
     <style>
 [data-color-mode*='light'], [data-color-mode*='light'] body, .markdown-style[theme*='light'] { --color-prettylights-syntax-comment: #6e7781; --color-prettylights-syntax-constant: #0550ae; --color-prettylights-syntax-entity: #8250df; --color-prettylights-syntax-storage-modifier-import: #24292f; --color-prettylights-syntax-entity-tag: #116329; --color-prettylights-syntax-keyword: #cf222e; --color-prettylights-syntax-string: #0a3069; --color-prettylights-syntax-variable: #953800; --color-prettylights-syntax-brackethighlighter-unmatched: #82071e; --color-prettylights-syntax-invalid-illegal-text: #f6f8fa; --color-prettylights-syntax-invalid-illegal-bg: #82071e; --color-prettylights-syntax-carriage-return-text: #f6f8fa; --color-prettylights-syntax-carriage-return-bg: #cf222e; --color-prettylights-syntax-string-regexp: #116329; --color-prettylights-syntax-markup-list: #3b2300; --color-prettylights-syntax-markup-heading: #0550ae; --color-prettylights-syntax-markup-italic: #24292f; --color-prettylights-syntax-markup-bold: #24292f; --color-prettylights-syntax-markup-deleted-text: #82071e; --color-prettylights-syntax-markup-deleted-bg: #FFEBE9; --color-prettylights-syntax-markup-inserted-text: #116329; --color-prettylights-syntax-markup-inserted-bg: #dafbe1; --color-prettylights-syntax-markup-changed-text: #953800; --color-prettylights-syntax-markup-changed-bg: #ffd8b5; --color-prettylights-syntax-markup-ignored-text: #eaeef2; --color-prettylights-syntax-markup-ignored-bg: #0550ae; --color-prettylights-syntax-meta-diff-range: #8250df; --color-prettylights-syntax-brackethighlighter-angle: #57606a; --color-prettylights-syntax-sublimelinter-gutter-mark: #8c959f; --color-prettylights-syntax-constant-other-reference-link: #0a3069; --color-fg-default: #24292f; --color-fg-muted: #57606a; --color-fg-subtle: #6e7781; --color-canvas-default: #ffffff; --color-canvas-subtle: #f6f8fa; --color-border-default: #d0d7de; --color-border-muted: hsla(210,18%,87%,1); --color-neutral-muted: rgba(175,184,193,0.2); --color-accent-fg: #0969da; --color-accent-emphasis: #0969da; --color-attention-subtle: #fff8c5; --color-danger-fg: #cf222e; }
 [data-color-mode*='dark'], [data-color-mode*='dark'] body, .markdown-style[theme*='dark'] { --color-prettylights-syntax-comment: #8b949e; --color-prettylights-syntax-constant: #79c0ff; --color-prettylights-syntax-entity: #d2a8ff; --color-prettylights-syntax-storage-modifier-import: #c9d1d9; --color-prettylights-syntax-entity-tag: #7ee787; --color-prettylights-syntax-keyword: #ff7b72; --color-prettylights-syntax-string: #a5d6ff; --color-prettylights-syntax-variable: #ffa657; --color-prettylights-syntax-brackethighlighter-unmatched: #f85149; --color-prettylights-syntax-invalid-illegal-text: #f0f6fc; --color-prettylights-syntax-invalid-illegal-bg: #8e1519; --color-prettylights-syntax-carriage-return-text: #f0f6fc; --color-prettylights-syntax-carriage-return-bg: #b62324; --color-prettylights-syntax-string-regexp: #7ee787; --color-prettylights-syntax-markup-list: #f2cc60; --color-prettylights-syntax-markup-heading: #1f6feb; --color-prettylights-syntax-markup-italic: #c9d1d9; --color-prettylights-syntax-markup-bold: #c9d1d9; --color-prettylights-syntax-markup-deleted-text: #ffdcd7; --color-prettylights-syntax-markup-deleted-bg: #67060c; --color-prettylights-syntax-markup-inserted-text: #aff5b4; --color-prettylights-syntax-markup-inserted-bg: #033a16; --color-prettylights-syntax-markup-changed-text: #ffdfb6; --color-prettylights-syntax-markup-changed-bg: #5a1e02; --color-prettylights-syntax-markup-ignored-text: #c9d1d9; --color-prettylights-syntax-markup-ignored-bg: #1158c7; --color-prettylights-syntax-meta-diff-range: #d2a8ff; --color-prettylights-syntax-brackethighlighter-angle: #8b949e; --color-prettylights-syntax-sublimelinter-gutter-mark: #484f58; --color-prettylights-syntax-constant-other-reference-link: #a5d6ff; --color-fg-default: #c9d1d9; --color-fg-muted: #8b949e; --color-fg-subtle: #484f58; --color-canvas-default: #0d1117; --color-canvas-subtle: #161b22; --color-border-default: #30363d; --color-border-muted: #21262d; --color-neutral-muted: rgba(110,118,129,0.4); --color-accent-fg: #58a6ff; --color-accent-emphasis: #1f6feb; --color-attention-subtle: rgba(187,128,9,0.15); --color-danger-fg: #f85149; }
@@ -110,9 +179,10 @@ svg { z-index: 99; position: fixed; border: 0px; top: 0px; right: 0; }
     .wrapper { cursor: pointer; user-select: none; position: relative; }
     .wrapper > span + span { margin-left: .4rem; }
     `;s.appendChild(a)}i(t,e){this.dispatchEvent(new CustomEvent(t,{bubbles:true,composed:true,detail:e}))}}customElements.define("dark-mode",a);</script><div style="max-width: 960px; margin: 0 auto 60px auto; padding: 8px;max-width: 960px;" class="markdown-style">
-    <h1 id="thomas-hanser--toms-place"><a class="anchor" aria-hidden="true" tabindex="-1" href="#thomas-hanser--toms-place"><span class="octicon octicon-link"></span></a>Thomas Hanser | <a href="https://github.com/toms-place">@toms-place</a></h1>
+    <img src="https://avatars.githubusercontent.com/u/2061183?v=4&#x26;s=240" alt="Thomas Hanser" width="120" align="right">
+    <h1 id="thomas-hanser"><a class="anchor" aria-hidden="true" tabindex="-1" href="#thomas-hanser"><span class="octicon octicon-link"></span></a>Thomas Hanser</h1>
     <p>Hi, I'm Thomas. Welcome! 👋</p>
-    <h2 id="platform-engineer--tomsplace"><a class="anchor" aria-hidden="true" tabindex="-1" href="#platform-engineer--tomsplace"><span class="octicon octicon-link"></span></a>Platform Engineer | <a href="https://toms.place/">toms.place</a></h2>
+    <h2 id="platform-engineer"><a class="anchor" aria-hidden="true" tabindex="-1" href="#platform-engineer"><span class="octicon octicon-link"></span></a>Platform Engineer</h2>
     <p>
       I'm a Platform Engineer with a passion for Kubernetes, GitOps, and cloud-native technologies. I love to automate processes and make things easier for developers.
       I enjoy working with tools like Terraform, Helm, and FluxCD to build scalable and reliable infrastructure.
@@ -125,9 +195,11 @@ svg { z-index: 99; position: fixed; border: 0px; top: 0px; right: 0; }
     </p>
     <h3 id="-how-to-reach-me"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-how-to-reach-me"><span class="octicon octicon-link"></span></a>📫 How to reach me</h3>
     <ul>
-      <li>LinkedIn: <a href="https://www.linkedin.com/in/tomsplace/">tomsplace</a></li>
-      <li>Blog: <a href="pages/blog.html">toms.place blog</a></li>
+      <li>Web: <a href="https://toms.place/">toms.place</a></li>
       <li>Mail: <a href="mailto:hello@toms.place">hello@toms.place</a></li>
+      <li>LinkedIn: <a href="https://www.linkedin.com/in/tomsplace/">linkedin.com/in/tomsplace</a></li>
+      <li>GitHub: <a href="https://github.com/toms-place">github.com/toms-place</a></li>
+      <li>Blog: <a href="pages/blog.html">toms.place blog</a></li>
     </ul>
     <h3 id="️-my-skills"><a class="anchor" aria-hidden="true" tabindex="-1" href="#️-my-skills"><span class="octicon octicon-link"></span></a>🛠️ My skills</h3>
     <ul>
@@ -145,44 +217,39 @@ svg { z-index: 99; position: fixed; border: 0px; top: 0px; right: 0; }
       <li><strong>Spoken languages</strong>: German (native), English (fluent)</li>
     </ul>
     <h3 id="-career"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-career"><span class="octicon octicon-link"></span></a>💼 Career</h3>
-    <p><strong>DevOps Advocate</strong> · Full-time · 2023 - Present</p>
+    <p><strong>DevOps Advocate</strong> · <a href="https://www.untis.at/">Untis GmbH</a> · Full-time · 2023 – Present</p>
     <ul>
-      <li>@ <a href="https://www.untis.at/">Untis GmbH</a></li>
-      <li>Platform Engineering | DevOps | Cloud Native Adoption</li>
-      <li>Kubernetes | GitOps | Terraform | Helm | FluxCD</li>
+      <li>Moved the complete VM-based application stack to containerized deployments on Kubernetes</li>
+      <li>Automated the release process end to end with GitOps, from build to production rollout</li>
+      <li>Drive platform engineering, DevOps practices and cloud-native adoption across teams</li>
+      <li>Kubernetes · GitOps · Terraform · Helm · FluxCD</li>
     </ul>
-    <p><strong>DevOps / Cloud Engineer</strong> · Part-time · 2020 - 2023 · 3 yrs</p>
+    <p><strong>DevOps / Cloud Engineer</strong> · <a href="https://www.wu.ac.at/">WU Vienna University of Economics and Business</a> · Part-time · 2020 – 2023</p>
     <ul>
-      <li>@ <a href="https://www.wu.ac.at/">WU (Vienna University of Economics and Business)</a></li>
-      <li>System Administration | Institute for Data, Process and Knowledge Management</li>
-      <li>Austrian DataLab and Services | IT-Services | Server Infrastructure</li>
+      <li>System Administration at the Institute for Data, Process and Knowledge Management</li>
+      <li>Austrian DataLab and Services · IT-Services · Server Infrastructure</li>
     </ul>
-    <p><strong>Internship</strong> · 2019 · 1 mo</p>
+    <p><strong>Internship</strong> · <a href="https://bmlrt.gv.at/">Bundesministerium</a> (Nachhaltigkeit &#x26; Tourismus) · 2019 · 1 month</p>
     <ul>
-      <li>@ <a href="https://bmlrt.gv.at/">Bundesministerium</a> (Nachhaltigkeit &#x26; Tourismus)</li>
-      <li>IKT Management | Web Development | GitLab CI/CD</li>
+      <li>IKT Management · Web Development · GitLab CI/CD</li>
     </ul>
-    <p><strong>Working Student</strong> · 2018 · 2 mo</p>
+    <p><strong>Working Student</strong> · <a href="https://studo.co/">Studo (Moshbit GmbH)</a> · 2018 · 2 months</p>
     <ul>
-      <li>@ <a href="https://studo.co/">Studo (Moshbit GmbH)</a></li>
-      <li>Project Management | App Development</li>
+      <li>Project Management · App Development</li>
     </ul>
     <h3 id="-education"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-education"><span class="octicon octicon-link"></span></a>📚 Education</h3>
-    <p><strong>Software Engineering &#x26; Internet Computing</strong> · 2022 - Ongoing</p>
+    <p><strong>MSc Software Engineering &#x26; Internet Computing</strong> · <a href="https://www.tuwien.at/">TU Wien</a> · 2022 – ongoing</p>
     <ul>
-      <li>Master of Science (MSc) @ <a href="https://www.tuwien.at/">Technische Universität Wien</a></li>
       <li>Focus: Microservices &#x26; Cloud Computing</li>
     </ul>
-    <p><strong>Business Informatics</strong> · 2016 - 2020</p>
+    <p><strong>BSc Business Informatics</strong> · <a href="https://www.wu.ac.at/">WU Vienna University of Economics and Business</a> · 2016 – 2020</p>
     <ul>
-      <li>Bachelor of Science (BSc) @ <a href="https://www.wu.ac.at/">WU (Vienna University of Economics and Business)</a></li>
-      <li><a href="https://aic.ai.wu.ac.at/~polleres/supervised_theses/Thomas_Weber_BSc_2020.pdf">Open Dataset Archive - Scalable dataset crawling with efficient archiving and the investigation of changes between versions.</a></li>
-      <li><a href="https://aic.ai.wu.ac.at/~polleres/publications/webe-etal-2020ISWC.pdf">ODArchive - Creating an Archive for Structured Data from Open Data Portals</a></li>
+      <li>Thesis: <a href="https://aic.ai.wu.ac.at/~polleres/supervised_theses/Thomas_Weber_BSc_2020.pdf">Open Dataset Archive – Scalable dataset crawling with efficient archiving and the investigation of changes between versions</a></li>
+      <li>Paper: <a href="https://aic.ai.wu.ac.at/~polleres/publications/webe-etal-2020ISWC.pdf">ODArchive – Creating an Archive for Structured Data from Open Data Portals</a></li>
     </ul>
-    <p><strong>HBL for Tourism</strong> · 2010 - 2015</p>
+    <p><strong>High school diploma with honors, Tourism</strong> · <a href="https://www.hltsemmering.ac.at/">Tourismusschulen Semmering</a> · 2010 – 2015</p>
     <ul>
-      <li>High school diploma with honors @ <a href="https://www.hltsemmering.ac.at/">Tourismusschulen Semmering</a></li>
-      <li>Certified Tourism Manager | 3 years as student representative</li>
+      <li>Certified Tourism Manager · 3 years as student representative</li>
     </ul>
     <h2 id="-stats"><a class="anchor" aria-hidden="true" tabindex="-1" href="#-stats"><span class="octicon octicon-link"></span></a>📈 Stats</h2>
     <p>

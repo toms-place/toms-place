@@ -1,0 +1,69 @@
+/* Extra styles for toms.place. Built into index.html by markdown-to-html-cli. */
+
+/* Screen: keep the dark-mode button and GitHub corner off the heading */
+@media (max-width: 1100px) { body { padding-top: 40px; } }
+
+/* Avatar next to the name */
+img[alt="Thomas Hanser"] { border-radius: 50%; margin: 0 0 8px 16px; background: transparent; }
+@media (max-width: 500px) { img[alt="Thomas Hanser"] { width: 80px; } }
+
+/* ---------- Print: one-page A4 CV ---------- */
+@media print {
+  @page { size: A4; margin: 14mm 16mm; }
+  :root, html, body, [data-color-mode] body { color-scheme: light !important; background: #fff !important; color: #1f2328 !important; padding: 0 !important; }
+  dark-mode, body > svg, .anchor { display: none !important; }
+  .markdown-style { max-width: none !important; margin: 0 !important; padding: 0 !important;
+    font-size: 9.6pt !important; line-height: 1.38 !important; color: #1f2328 !important; background: #fff !important;
+    --color-fg-default:#1f2328; --color-fg-muted:#57606a; --color-accent-fg:#0b5cad; --color-border-muted:#d0d7de; }
+  .markdown-style a { color: inherit !important; text-decoration: none !important; }
+  /* hide everything from the Stats section on */
+  #-stats, #-stats ~ * { display: none !important; }
+  /* hide the welcome line */
+  .markdown-style > h1 + p { display: none !important; }
+  /* header */
+  .markdown-style h1 { font-size: 22pt !important; border: 0 !important; margin: 0 0 1mm !important; padding: 0 !important; }
+  .markdown-style h1 a { display: none !important; }
+  .markdown-style h1 { line-height: 1.1 !important; }
+  .markdown-style h2 { font-size: 12pt !important; border: 0 !important; margin: 0 0 3mm !important; padding: 0 !important; color: #57606a !important; font-weight: 500 !important; }
+  .markdown-style h2 a { display: none !important; }
+  .markdown-style h3 { font-size: 10.5pt !important; text-transform: uppercase; letter-spacing: .06em;
+    border-bottom: 0.6pt solid #d0d7de !important; padding-bottom: 1mm !important; margin: 4mm 0 2mm !important; color: #0b5cad !important; }
+  .markdown-style p { margin: 0 0 1.5mm !important; }
+  .markdown-style ul { margin: 0 0 2.2mm !important; padding-left: 4.5mm !important; }
+  .markdown-style li + li { margin-top: 0 !important; }
+  /* contact list in one row, placed under the title */
+  #-how-to-reach-me { display: none !important; }
+  #-how-to-reach-me + ul { list-style: none; padding: 0 !important; display: flex; gap: 6mm; flex-wrap: wrap; margin-bottom: 1mm !important; }
+  /* skills in two columns */
+  [id$="-my-skills"] + ul { columns: 2; column-gap: 8mm; }
+  [id$="-my-skills"] + ul li { break-inside: avoid; }
+  /* keep a job title with its details */
+  .markdown-style p:has(> strong:first-child) { break-after: avoid; margin-top: 2mm !important; }
+  .markdown-style ul { break-inside: avoid; }
+}
+@media print {
+  /* summary: keep only the first paragraph on paper */
+  .markdown-style > h2 + p + p { display: none !important; }
+  .markdown-style > h2 + p { margin-bottom: 2.5mm !important; }
+  /* contacts row: hide the blog item on paper */
+  #-how-to-reach-me + ul li:last-child { display: none !important; }
+  #-how-to-reach-me + ul { margin-bottom: 0 !important; font-size: 9pt; color: #57606a; }
+  .markdown-style > h1 { margin-bottom: 0 !important; }
+  .markdown-style > h2 { margin-bottom: 2mm !important; }
+  /* contacts come first visually: move them under the title */
+  .markdown-style { display: flex !important; flex-direction: column; }
+  .markdown-style > h1 { order: 1; } .markdown-style > h2 { order: 2; }
+  #-how-to-reach-me + ul { order: 3; margin: 0 0 3mm !important; }
+  .markdown-style > * { order: 4; }
+}
+@media print {
+  #-how-to-reach-me + ul { gap: 0 5mm !important; }
+  #-how-to-reach-me + ul li { margin: 0 !important; }
+}
+@media print {
+  .markdown-style { position: relative; }
+  /* take the avatar out of the flow and pin it to the top right */
+  .markdown-style > img[alt="Thomas Hanser"] { position: absolute; top: 0; right: 0; width: 26mm !important; height: 26mm !important; margin: 0 !important; }
+  /* the welcome line now follows h1 directly; contacts + summary need room for the avatar */
+  .markdown-style > h1, .markdown-style > h2, #-how-to-reach-me + ul { padding-right: 32mm !important; }
+}

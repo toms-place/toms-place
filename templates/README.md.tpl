@@ -1,9 +1,11 @@
 
-# Thomas Hanser | [@toms-place](https://github.com/toms-place)
+<img src="https://avatars.githubusercontent.com/u/2061183?v=4&s=240" alt="Thomas Hanser" width="120" align="right">
+
+# Thomas Hanser
 
 Hi, I'm Thomas. Welcome! 👋
 
-## Platform Engineer | [toms.place](https://toms.place)
+## Platform Engineer
 
 I'm a Platform Engineer with a passion for Kubernetes, GitOps, and cloud-native technologies. I love to automate processes and make things easier for developers.
 I enjoy working with tools like Terraform, Helm, and FluxCD to build scalable and reliable infrastructure.
@@ -15,9 +17,11 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 📫 How to reach me
 
-- LinkedIn: [tomsplace](https://www.linkedin.com/in/tomsplace/)
-- Blog: [toms.place blog](pages/blog.md)
+- Web: [toms.place](https://toms.place)
 - Mail: [hello@toms.place](mailto:hello@toms.place)
+- LinkedIn: [linkedin.com/in/tomsplace](https://www.linkedin.com/in/tomsplace/)
+- GitHub: [github.com/toms-place](https://github.com/toms-place)
+- Blog: [toms.place blog](pages/blog.md)
 
 ### 🛠️ My skills
 
@@ -36,38 +40,33 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 💼 Career
 
-**DevOps Advocate** · Full-time · 2023 - Present
-- @ [Untis GmbH](https://www.untis.at/)
-- Platform Engineering | DevOps | Cloud Native Adoption
-- Kubernetes | GitOps | Terraform | Helm | FluxCD
+**DevOps Advocate** · [Untis GmbH](https://www.untis.at/) · Full-time · 2023 – Present
+- Moved the complete VM-based application stack to containerized deployments on Kubernetes
+- Automated the release process end to end with GitOps, from build to production rollout
+- Drive platform engineering, DevOps practices and cloud-native adoption across teams
+- Kubernetes · GitOps · Terraform · Helm · FluxCD
 
-**DevOps / Cloud Engineer** · Part-time · 2020 - 2023 · 3 yrs
-- @ [WU (Vienna University of Economics and Business)](https://www.wu.ac.at/)
-- System Administration | Institute for Data, Process and Knowledge Management
-- Austrian DataLab and Services | IT-Services | Server Infrastructure
+**DevOps / Cloud Engineer** · [WU Vienna University of Economics and Business](https://www.wu.ac.at/) · Part-time · 2020 – 2023
+- System Administration at the Institute for Data, Process and Knowledge Management
+- Austrian DataLab and Services · IT-Services · Server Infrastructure
 
-**Internship** · 2019 · 1 mo
-- @ [Bundesministerium](https://bmlrt.gv.at) (Nachhaltigkeit & Tourismus)
-- IKT Management | Web Development | GitLab CI/CD
+**Internship** · [Bundesministerium](https://bmlrt.gv.at) (Nachhaltigkeit & Tourismus) · 2019 · 1 month
+- IKT Management · Web Development · GitLab CI/CD
 
-**Working Student** · 2018 · 2 mo
-- @ [Studo (Moshbit GmbH)](https://studo.co)
-- Project Management | App Development
+**Working Student** · [Studo (Moshbit GmbH)](https://studo.co) · 2018 · 2 months
+- Project Management · App Development
 
 ### 📚 Education
 
-**Software Engineering & Internet Computing** · 2022 - Ongoing
-- Master of Science (MSc) @ [Technische Universität Wien](https://www.tuwien.at/)
+**MSc Software Engineering & Internet Computing** · [TU Wien](https://www.tuwien.at/) · 2022 – ongoing
 - Focus: Microservices & Cloud Computing
 
-**Business Informatics** · 2016 - 2020
-- Bachelor of Science (BSc) @ [WU (Vienna University of Economics and Business)](https://www.wu.ac.at/)
-- [Open Dataset Archive - Scalable dataset crawling with efficient archiving and the investigation of changes between versions.](https://aic.ai.wu.ac.at/~polleres/supervised_theses/Thomas_Weber_BSc_2020.pdf)
-- [ODArchive - Creating an Archive for Structured Data from Open Data Portals](https://aic.ai.wu.ac.at/~polleres/publications/webe-etal-2020ISWC.pdf)
+**BSc Business Informatics** · [WU Vienna University of Economics and Business](https://www.wu.ac.at/) · 2016 – 2020
+- Thesis: [Open Dataset Archive – Scalable dataset crawling with efficient archiving and the investigation of changes between versions](https://aic.ai.wu.ac.at/~polleres/supervised_theses/Thomas_Weber_BSc_2020.pdf)
+- Paper: [ODArchive – Creating an Archive for Structured Data from Open Data Portals](https://aic.ai.wu.ac.at/~polleres/publications/webe-etal-2020ISWC.pdf)
 
-**HBL for Tourism** · 2010 - 2015
-- High school diploma with honors @ [Tourismusschulen Semmering](https://www.hltsemmering.ac.at/)
-- Certified Tourism Manager | 3 years as student representative
+**High school diploma with honors, Tourism** · [Tourismusschulen Semmering](https://www.hltsemmering.ac.at/) · 2010 – 2015
+- Certified Tourism Manager · 3 years as student representative
 
 ## 📈 Stats
 

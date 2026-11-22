@@ -52,7 +52,7 @@
       ]
     },
     "github-corners": "https://github.com/toms-place",
-    "style": "@media (max-width: 1100px) { body { padding-top: 40px; } }",
+    "style": "templates/style.css",
     "reurls": {
       "pages/blog.md": "pages/blog.html",
       "README.md": "index.html"
