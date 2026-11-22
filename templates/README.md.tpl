@@ -40,7 +40,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 ### 💼 Career
 
-**DevOps Advocate** · [Untis GmbH](https://www.untis.at/) · Full-time · 2023 – Present
+**Platform Engineer & DevOps Advocate** · [Untis GmbH](https://www.untis.at/) · Full-time · 2023 – Present
 - Moved the complete VM-based application stack to containerized deployments on Kubernetes
 - Automated the release process end to end with GitOps, from build to production rollout
 - Drive platform engineering, DevOps practices and cloud-native adoption across teams

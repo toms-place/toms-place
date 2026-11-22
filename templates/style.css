@@ -4,8 +4,12 @@
 @media (max-width: 1100px) { body { padding-top: 40px; } }
 
 /* Avatar next to the name */
-img[alt="Thomas Hanser"] { border-radius: 50%; margin: 0 0 8px 16px; background: transparent; }
-@media (max-width: 500px) { img[alt="Thomas Hanser"] { width: 80px; } }
+.markdown-style img[alt="Thomas Hanser"] {
+  /* the base style adds padding-left: 20px to align=right images; that made the circle an oval */
+  padding: 0 !important; box-sizing: border-box; width: 120px; height: 120px; aspect-ratio: 1 / 1;
+  object-fit: cover; border-radius: 50%; margin: 0 0 8px 16px; background: transparent;
+}
+@media (max-width: 500px) { .markdown-style img[alt="Thomas Hanser"] { width: 80px; height: 80px; } }
 
 /* ---------- Print: one-page A4 CV ---------- */
 @media print {
