@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/2061183?v=4&s=240" alt="Thomas Hanser" width="120" align="right">
+<img src="https://avatars.githubusercontent.com/u/2061183?v=4&s=240" alt="Thomas Hanser" width="120" align="left">
 
 # Thomas Hanser
 
