@@ -1,7 +1,7 @@
 
 # Thomas Hanser | [@toms-place](https://github.com/toms-place)
 
-Hi and welcome to my GitHub profile! 👋
+Hi, I'm Thomas. Welcome! 👋
 
 ## Platform Engineer | [toms.place](https://toms.place)
 
@@ -16,12 +16,12 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 ### 📫 How to reach me
 
 - LinkedIn: [tomsplace](https://www.linkedin.com/in/tomsplace/)
-- Blog: [https://toms.place](pages/blog.md)
+- Blog: [toms.place blog](pages/blog.md)
 - Mail: [hello@toms.place](mailto:hello@toms.place)
 
 ### 🛠️ My skills
 
-- **Languages**: Java-/Typescript, Python, Go, Bash
+- **Languages**: Java, TypeScript, Python, Go, Bash
 - **Cloud**: Azure, nextlayer, GCP
 - **Containerization**: Kubernetes, Docker, containerd, Rancher
 - **CI/CD**: GitLab CI, GitHub Actions, FluxCD
@@ -29,10 +29,10 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 - **Monitoring**: Prometheus, Grafana, ELK Stack
 - **Databases**: PostgreSQL, MySQL, MariaDB, MongoDB
 - **Version Control**: Git, GitHub, GitLab
-- **Operating Systems**: Linux, MacOS, Windows
+- **Operating Systems**: Linux, macOS, Windows
 - **Other**: Helm, Cilium, K3s, NGINX, Vault, Redis, External DNS, Knative, KEDA
 - **Soft Skills**: Teamwork, Communication, Problem Solving, Adaptability
-- **Languages**: German (native), English (fluent)
+- **Spoken languages**: German (native), English (fluent)
 
 ### 💼 Career
 
@@ -44,7 +44,7 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 **DevOps / Cloud Engineer** · Part-time · 2020 - 2023 · 3 yrs
 - @ [WU (Vienna University of Economics and Business)](https://www.wu.ac.at/)
 - System Administration | Institute for Data, Process and Knowledge Management
-- Austrian DataLab and Services | IT-Services | Server Infrastruktur
+- Austrian DataLab and Services | IT-Services | Server Infrastructure
 
 **Internship** · 2019 · 1 mo
 - @ [Bundesministerium](https://bmlrt.gv.at) (Nachhaltigkeit & Tourismus)
