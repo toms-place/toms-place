@@ -5,6 +5,7 @@ on:
     branches: [main]
   schedule:
     - cron: "30 6 * * */1"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -20,9 +21,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
 
       - uses: oven-sh/setup-bun@v2
-      - run: bunx markdown-to-html-cli *.md **/*.md --output "."
+      - name: Build home page
+        run: bunx markdown-to-html-cli@5.0.4 --source README.md --output index.html
+      - name: Build blog page
+        run: bunx markdown-to-html-cli@5.0.4 --source pages/blog.md --output pages/blog.html --config pages/blog.config.json
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:

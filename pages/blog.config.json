@@ -1,0 +1,60 @@
+{
+  "markdown-to-html": {
+    "document": {
+      "title": "Blog | Thomas Hanser",
+      "meta": [
+        {
+          "name": "description",
+          "content": "Blog of Thomas Hanser: notes on projects, ideas, Kubernetes, GitOps and platform engineering."
+        },
+        {
+          "name": "keywords",
+          "content": "Platform Engineer,Kubernetes,GitOps,cloud-native,DevOps,Terraform,Helm,FluxCD,k8s,open source,blog"
+        },
+        {
+          "name": "author",
+          "content": "Thomas Hanser"
+        },
+        {
+          "property": "og:type",
+          "content": "website"
+        },
+        {
+          "property": "og:title",
+          "content": "Blog | Thomas Hanser"
+        },
+        {
+          "property": "og:description",
+          "content": "Blog of Thomas Hanser: notes on projects, ideas, Kubernetes, GitOps and platform engineering."
+        },
+        {
+          "property": "og:url",
+          "content": "https://toms.place/pages/blog.html"
+        },
+        {
+          "property": "og:image",
+          "content": "https://avatars.githubusercontent.com/u/2061183?v=4&s=400"
+        },
+        {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      ],
+      "link": [
+        {
+          "rel": "canonical",
+          "href": "https://toms.place/pages/blog.html"
+        },
+        {
+          "rel": "icon",
+          "href": "https://avatars.githubusercontent.com/u/2061183?v=4&s=48"
+        }
+      ]
+    },
+    "github-corners": "https://github.com/toms-place",
+    "style": "@media (max-width: 1100px) { body { padding-top: 40px; } }",
+    "reurls": {
+      "../README.md": "../index.html"
+    }
+  }
+}

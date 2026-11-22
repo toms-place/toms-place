@@ -1,21 +1,58 @@
 {
   "markdown-to-html": {
     "document": {
-      "title": "Thomas Hanser",
-      "description": "I'm a Platform Engineer with a passion for Kubernetes, GitOps, and cloud-native technologies. I love to automate processes and make things easier for developers. I enjoy working with tools like Terraform, Helm, and FluxCD to build scalable and reliable infrastructure.",
-      "keywords": "Platform,Engineer,Kubernetes,GitOps,cloud-native,technology,blog,k8s,devops,cloud,open-source,open-source-contributor",
-      "author": "Thomas Hanser",
+      "title": "Thomas Hanser | Platform Engineer",
       "meta": [
         {
-          "description": "I'm a Platform Engineer with a passion for Kubernetes, GitOps, and cloud-native technologies. I love to automate processes and make things easier for developers. I enjoy working with tools like Terraform, Helm, and FluxCD to build scalable and reliable infrastructure."
+          "name": "description",
+          "content": "Thomas Hanser is a Platform Engineer who works with Kubernetes, GitOps and cloud-native technologies, and automates infrastructure with Terraform, Helm and FluxCD."
         },
         {
-          "keywords": "Platform,Engineer,Kubernetes,GitOps,cloud-native,technology,blog,k8s,devops,cloud,open-source,open-source-contributor"
+          "name": "keywords",
+          "content": "Platform Engineer,Kubernetes,GitOps,cloud-native,DevOps,Terraform,Helm,FluxCD,k8s,open source,blog"
+        },
+        {
+          "name": "author",
+          "content": "Thomas Hanser"
+        },
+        {
+          "property": "og:type",
+          "content": "profile"
+        },
+        {
+          "property": "og:title",
+          "content": "Thomas Hanser | Platform Engineer"
+        },
+        {
+          "property": "og:description",
+          "content": "Thomas Hanser is a Platform Engineer who works with Kubernetes, GitOps and cloud-native technologies, and automates infrastructure with Terraform, Helm and FluxCD."
+        },
+        {
+          "property": "og:url",
+          "content": "https://toms.place/"
+        },
+        {
+          "property": "og:image",
+          "content": "https://avatars.githubusercontent.com/u/2061183?v=4&s=400"
+        },
+        {
+          "name": "twitter:card",
+          "content": "summary"
+        }
+      ],
+      "link": [
+        {
+          "rel": "canonical",
+          "href": "https://toms.place/"
+        },
+        {
+          "rel": "icon",
+          "href": "https://avatars.githubusercontent.com/u/2061183?v=4&s=48"
         }
       ]
     },
-    "favicon": "https://avatars.githubusercontent.com/u/2061183?s=48&v=4",
     "github-corners": "https://github.com/toms-place",
+    "style": "@media (max-width: 1100px) { body { padding-top: 40px; } }",
     "reurls": {
       "pages/blog.md": "pages/blog.html",
       "README.md": "index.html"
