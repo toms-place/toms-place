@@ -4,11 +4,13 @@
 
 ## Platform Engineer
 
+Hi, I'm Thomas! 👋 Welcome to my GitHub profile and website.
+
 Platform Engineer focused on Kubernetes, GitOps and cloud-native infrastructure. I move workloads from virtual machines to Kubernetes, automate release processes, and build scalable, reliable platforms with Terraform, Helm and FluxCD, so that developers can ship with less effort.
 
 Outside work I go cycling, play padel tennis and spend time with my family. I believe in open source and like to share what I learn. If you have an interesting project or idea, feel free to reach out.
 
-### Contact
+### 📫 Contact
 
 - Web: [toms.place](https://toms.place)
 - Mail: [hello@toms.place](mailto:hello@toms.place)
@@ -16,7 +18,7 @@ Outside work I go cycling, play padel tennis and spend time with my family. I be
 - GitHub: [github.com/toms-place](https://github.com/toms-place)
 - Blog: [toms.place blog](pages/blog.md)
 
-### Experience
+### 💼 Experience
 
 **Platform Engineer & DevOps Advocate** · [Untis GmbH](https://www.untis.at/) *2023 – present*
 - Moved the complete VM-based application stack to containerized deployments on Kubernetes
@@ -34,7 +36,7 @@ Outside work I go cycling, play padel tennis and spend time with my family. I be
 **Working Student** · [Studo (Moshbit GmbH)](https://studo.co) *2018 · 2 months*
 - Project management and app development
 
-### Skills
+### 🛠️ Skills
 
 - **Languages**: Java, TypeScript, Python, Go, Bash
 - **Kubernetes & containers**: Kubernetes, K3s, Rancher, Docker, containerd, Cilium, Knative, KEDA
@@ -47,7 +49,9 @@ Outside work I go cycling, play padel tennis and spend time with my family. I be
 - **Systems**: Linux, Git
 - **Spoken languages**: German (native), English (fluent)
 
-### Education
+![Tech stack](https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,githubactions,gitlab,azure,gcp,prometheus,grafana,go,python,ts,java,bash,postgres,mysql,mongodb,redis,nginx,linux,git&perline=11)
+
+### 🎓 Education
 
 **MSc Software Engineering & Internet Computing** · [TU Wien](https://www.tuwien.at/) *2022 – present*
 - Focus: microservices and cloud computing
@@ -59,15 +63,20 @@ Outside work I go cycling, play padel tennis and spend time with my family. I be
 **High school diploma with honors, Tourism** · [Tourismusschulen Semmering](https://www.hltsemmering.ac.at/) *2010 – 2015*
 - Certified Tourism Manager; student representative for 3 years
 
-## Open source
+## 💻 Open source
 
-### Currently working on
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=toms-place&count_private=false&show_icons=true&hide_border=true&disable_animations=true&theme=github_dark">
+  <img src="https://github-stats-extended.vercel.app/api?username=toms-place&count_private=false&show_icons=true&hide_border=true&disable_animations=true&theme=default" alt="GitHub stats">
+</picture>
+
+### 👷 Currently working on
 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (3 months ago)
 - [toms-place/karenzulator](https://github.com/toms-place/karenzulator) - Tagesgenaue Simulation auf Basis von §§ 24, 24a, 24b KBGG für die volle Periode 2 Jahre ab Geburt. Höchstbetrag, Wochengeld-Faktor, 61-Tage-Regel, max. 2 Wechsel sowie der Partnerschaftsbonus werden gesetzeskonform berücksichtigt. (5 months ago)
 - [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (1 year ago)
 
-### Latest projects
+### 🌱 Latest projects
 
 - [toms-place/karenzulator](https://github.com/toms-place/karenzulator) - Tagesgenaue Simulation auf Basis von §§ 24, 24a, 24b KBGG für die volle Periode 2 Jahre ab Geburt. Höchstbetrag, Wochengeld-Faktor, 61-Tage-Regel, max. 2 Wechsel sowie der Partnerschaftsbonus werden gesetzeskonform berücksichtigt.
 - [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server
@@ -75,22 +84,22 @@ Outside work I go cycling, play padel tennis and spend time with my family. I be
 - [toms-place/k3c](https://github.com/toms-place/k3c) - k3s setup with docker-compose
 - [toms-place/helm-global-values-sharing-between-charts](https://github.com/toms-place/helm-global-values-sharing-between-charts) - Just a demo repo to showcase helm global values to share values between subcharts.
 
-### Releases I contributed to
+### 🔭 Releases I contributed to
 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.8.4](https://github.com/helmfile/helmfile/releases/tag/v1.8.4), 1 week ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [toms-place/wkid](https://github.com/toms-place/wkid) ([v0.0.7](https://github.com/toms-place/wkid/releases/tag/v0.0.7), 1 year ago) - WorkloadIdentity K8s JWKS server
 
-### Recent pull requests
+### 🔨 Recent pull requests
 
 - [fix(#2741): prefetch shared remote charts instead of serializing sync](https://github.com/helmfile/helmfile/pull/2743) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (3 months ago)
 - [fix(#530): move deprecated command to platformCommand section](https://github.com/jkroepke/helm-secrets/pull/531) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 years ago)
 - [Add custom configuration to nginx/metrics](https://github.com/elastic/integrations/pull/12865) on [elastic/integrations](https://github.com/elastic/integrations) (2 years ago)
 - [fix(#130): add SecurityContext to createInitContainerPatch](https://github.com/elastic/apm-k8s-attacher/pull/131) on [elastic/apm-k8s-attacher](https://github.com/elastic/apm-k8s-attacher) (2 years ago)
 
-### Gists
+### 📓 Gists
 
 - [TPM-backed LUKS unlock with systemd-cryptenroll](https://gist.github.com/be319c6705a3d197de021c7ac52ddd7f) (4 months ago)
 - [Sourcing Environment Variables from Hashicorp Vault with bash](https://gist.github.com/6f0e2f3f2c50c501357780af2a46ad96) (3 years ago)
 - [kubectl run with volume mount](https://gist.github.com/44f7dd8a12693304d3a8f6a3f31ceb74) (3 years ago)
 
-<sub>This page is updated daily with [readme-scribe](https://github.com/muesli/readme-scribe).</sub>
+<sub>🤖 This page is updated daily with [readme-scribe](https://github.com/muesli/readme-scribe).</sub>

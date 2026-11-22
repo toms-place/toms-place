@@ -4,11 +4,13 @@
 
 ## Platform Engineer
 
+Hi, I'm Thomas! 👋 Welcome to my GitHub profile and website.
+
 Platform Engineer focused on Kubernetes, GitOps and cloud-native infrastructure. I move workloads from virtual machines to Kubernetes, automate release processes, and build scalable, reliable platforms with Terraform, Helm and FluxCD, so that developers can ship with less effort.
 
 Outside work I go cycling, play padel tennis and spend time with my family. I believe in open source and like to share what I learn. If you have an interesting project or idea, feel free to reach out.
 
-### Contact
+### 📫 Contact
 
 - Web: [toms.place](https://toms.place)
 - Mail: [hello@toms.place](mailto:hello@toms.place)
@@ -16,7 +18,7 @@ Outside work I go cycling, play padel tennis and spend time with my family. I be
 - GitHub: [github.com/toms-place](https://github.com/toms-place)
 - Blog: [toms.place blog](pages/blog.md)
 
-### Experience
+### 💼 Experience
 
 **Platform Engineer & DevOps Advocate** · [Untis GmbH](https://www.untis.at/) *2023 – present*
 - Moved the complete VM-based application stack to containerized deployments on Kubernetes
@@ -34,7 +36,7 @@ Outside work I go cycling, play padel tennis and spend time with my family. I be
 **Working Student** · [Studo (Moshbit GmbH)](https://studo.co) *2018 · 2 months*
 - Project management and app development
 
-### Skills
+### 🛠️ Skills
 
 - **Languages**: Java, TypeScript, Python, Go, Bash
 - **Kubernetes & containers**: Kubernetes, K3s, Rancher, Docker, containerd, Cilium, Knative, KEDA
@@ -47,7 +49,9 @@ Outside work I go cycling, play padel tennis and spend time with my family. I be
 - **Systems**: Linux, Git
 - **Spoken languages**: German (native), English (fluent)
 
-### Education
+![Tech stack](https://skillicons.dev/icons?i=kubernetes,docker,terraform,ansible,githubactions,gitlab,azure,gcp,prometheus,grafana,go,python,ts,java,bash,postgres,mysql,mongodb,redis,nginx,linux,git&perline=11)
+
+### 🎓 Education
 
 **MSc Software Engineering & Internet Computing** · [TU Wien](https://www.tuwien.at/) *2022 – present*
 - Focus: microservices and cloud computing
@@ -59,31 +63,36 @@ Outside work I go cycling, play padel tennis and spend time with my family. I be
 **High school diploma with honors, Tourism** · [Tourismusschulen Semmering](https://www.hltsemmering.ac.at/) *2010 – 2015*
 - Certified Tourism Manager; student representative for 3 years
 
-## Open source
+## 💻 Open source
 
-### Currently working on
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=toms-place&count_private=false&show_icons=true&hide_border=true&disable_animations=true&theme=github_dark">
+  <img src="https://github-stats-extended.vercel.app/api?username=toms-place&count_private=false&show_icons=true&hide_border=true&disable_animations=true&theme=default" alt="GitHub stats">
+</picture>
+
+### 👷 Currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-### Latest projects
+### 🌱 Latest projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-### Releases I contributed to
+### 🔭 Releases I contributed to
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-### Recent pull requests
+### 🔨 Recent pull requests
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-### Gists
+### 📓 Gists
 {{range gists 5}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-<sub>This page is updated daily with [readme-scribe](https://github.com/muesli/readme-scribe).</sub>
+<sub>🤖 This page is updated daily with [readme-scribe](https://github.com/muesli/readme-scribe).</sub>

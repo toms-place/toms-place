@@ -27,13 +27,12 @@ dark-mode {
   font-weight: 400; color: var(--color-fg-muted);
 }
 
-/* Section headings */
-.markdown-style h3 {
-  font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.08em;
-  color: var(--color-accent-fg); border-bottom: 1px solid var(--color-border-muted);
-  padding-bottom: 0.3em; margin-top: 2em;
-}
-.markdown-style h2#open-source { margin-top: 2.5em; }
+/* Greeting under the name */
+.markdown-style > h2 + p { font-size: 1.1em; }
+
+/* Tech stack icons and stats card */
+.markdown-style img[alt="Tech stack"] { max-width: 100%; height: auto; }
+.markdown-style picture img[alt="GitHub stats"] { max-width: 100%; height: auto; }
 
 /* Job and degree lines: title and place on the left, dates on the right */
 .markdown-style p:has(> strong:first-child) {
@@ -46,8 +45,8 @@ dark-mode {
 .markdown-style p:has(> strong:first-child) + ul { margin-top: 0; }
 
 /* Contact list in one row */
-.markdown-style #contact + ul { list-style: none; padding-left: 0; display: flex; flex-wrap: wrap; gap: 0.25em 1.5em; }
-.markdown-style #contact + ul li { margin: 0; }
+.markdown-style [id$="contact"] + ul { list-style: none; padding-left: 0; display: flex; flex-wrap: wrap; gap: 0.25em 1.5em; }
+.markdown-style [id$="contact"] + ul li { margin: 0; }
 
 /* ---------- Print: one-page A4 CV ---------- */
 @media print {
@@ -64,28 +63,30 @@ dark-mode {
   .markdown-style > * { order: 4; }
   .markdown-style a { color: inherit !important; text-decoration: none !important; }
 
-  /* Not on paper: the open-source lists, the personal paragraph, the blog link */
-  #open-source, #open-source ~ * { display: none !important; }
-  .markdown-style > h2 + p + p { display: none !important; }
-  #contact { display: none !important; }
-  #contact + ul li:last-child { display: none !important; }
+  /* Not on paper: greeting, personal paragraph, blog link, icons, open-source part */
+  [id$="open-source"], [id$="open-source"] ~ * { display: none !important; }
+  .markdown-style > h2 + p { display: none !important; }
+  .markdown-style > h2 + p + p + p { display: none !important; }
+  [id$="contact"] { display: none !important; }
+  .markdown-style [id$="contact"] + ul li:last-child { display: none !important; }
+  .markdown-style p:has(> img[alt="Tech stack"]) { display: none !important; }
 
   /* Header: name, title, contacts, avatar on the right */
   .markdown-style > img[alt="Thomas Hanser"] { position: absolute; top: 0; right: 0; width: 26mm !important; height: 26mm !important; margin: 0 !important; }
   .markdown-style > h1 { order: 1; font-size: 22pt !important; line-height: 1.1 !important; margin: 0 !important; }
   .markdown-style > h2#platform-engineer { order: 2; font-size: 12pt !important; margin: 0 0 2mm !important; }
-  #contact + ul { order: 3; margin: 0 0 3mm !important; padding-left: 0 !important; font-size: 9pt; color: #57606a; gap: 0 5mm !important; }
-  .markdown-style > h1, .markdown-style > h2, #contact + ul { padding-right: 32mm !important; }
-  .markdown-style > h2 + p { margin-bottom: 1mm !important; }
+  .markdown-style [id$="contact"] + ul { order: 3; margin: 0 0 3mm !important; padding-left: 0 !important; font-size: 9pt; color: #57606a; gap: 0 5mm !important; }
+  .markdown-style > h1, .markdown-style > h2, [id$="contact"] + ul { padding-right: 32mm !important; }
+  .markdown-style > h2 + p + p { margin-bottom: 1mm !important; }
 
   /* Sections */
-  .markdown-style h3 { font-size: 10pt !important; margin: 4mm 0 1.5mm !important; padding-bottom: 1mm !important; border-bottom: 0.6pt solid #d0d7de !important; }
+  .markdown-style h3 { text-transform: uppercase; letter-spacing: 0.06em; color: #0b5cad !important; font-size: 10pt !important; margin: 4mm 0 1.5mm !important; padding-bottom: 1mm !important; border-bottom: 0.6pt solid #d0d7de !important; }
   .markdown-style p { margin: 0 0 1.5mm !important; }
   .markdown-style p:has(> strong:first-child) { margin: 2mm 0 0.5mm !important; break-after: avoid; }
   .markdown-style ul { margin: 0 0 1mm !important; padding-left: 4.5mm !important; break-inside: avoid; }
   .markdown-style li + li { margin-top: 0 !important; }
 
   /* Skills in two columns */
-  #skills + ul { columns: 2; column-gap: 8mm; }
-  #skills + ul li { break-inside: avoid; }
+  [id$="skills"] + ul { columns: 2; column-gap: 8mm; }
+  [id$="skills"] + ul li { break-inside: avoid; }
 }
