@@ -85,7 +85,7 @@ Outside work I go cycling, play padel tennis and spend time with my family. I be
 
 ### 🔭 Releases I contributed to
 
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.8.5](https://github.com/helmfile/helmfile/releases/tag/v1.8.5), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.8.5](https://github.com/helmfile/helmfile/releases/tag/v1.8.5), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [toms-place/wkid](https://github.com/toms-place/wkid) ([v0.0.7](https://github.com/toms-place/wkid/releases/tag/v0.0.7), 1 year ago) - WorkloadIdentity K8s JWKS server
 
 ### 🔨 Recent pull requests
