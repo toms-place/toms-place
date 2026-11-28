@@ -71,7 +71,7 @@ Outside work I go cycling, play padel tennis and spend time with my family. I be
 
 ### 👷 Currently working on
 
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (3 months ago)
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (today)
 - [toms-place/karenzulator](https://github.com/toms-place/karenzulator) - Tagesgenaue Simulation auf Basis von §§ 24, 24a, 24b KBGG für die volle Periode 2 Jahre ab Geburt. Höchstbetrag, Wochengeld-Faktor, 61-Tage-Regel, max. 2 Wechsel sowie der Partnerschaftsbonus werden gesetzeskonform berücksichtigt. (5 months ago)
 - [toms-place/wkid](https://github.com/toms-place/wkid) - WorkloadIdentity K8s JWKS server (1 year ago)
 
@@ -85,10 +85,11 @@ Outside work I go cycling, play padel tennis and spend time with my family. I be
 
 ### 🔭 Releases I contributed to
 
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.8.5](https://github.com/helmfile/helmfile/releases/tag/v1.8.5), 5 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.8.6](https://github.com/helmfile/helmfile/releases/tag/v1.8.6), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 
 ### 🔨 Recent pull requests
 
+- [perf(state): use `helm history` instead of `helm list` for the post-sync version probe](https://github.com/helmfile/helmfile/pull/2914) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (1 day ago)
 
 ### 📓 Gists
 
